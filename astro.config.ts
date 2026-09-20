@@ -21,6 +21,7 @@ import config from "./astro-paper.config";
 
 export default defineConfig({
   site: config.site.url,
+  base: "/reynier-market-insights/",
   integrations: [
     mdx(),
     sitemap({
