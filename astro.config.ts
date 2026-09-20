@@ -1,23 +1,8 @@
-import {
-  defineConfig,
-  envField,
-  fontProviders,
-  svgOptimizer,
-} from "astro/config";
+import { defineConfig } from "astro/config";
 import tailwindcss from "@tailwindcss/vite";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
-import { unified } from "@astrojs/markdown-remark";
-import remarkToc from "remark-toc";
-import remarkCollapse from "remark-collapse";
-import rehypeCallouts from "rehype-callouts";
-import {
-  transformerNotationDiff,
-  transformerNotationHighlight,
-  transformerNotationWordHighlight,
-} from "@shikijs/transformers";
-import { transformerFileName } from "./src/utils/transformers/fileName";
-import config from "./astro-paper.config";
+import { remarkToc, remarkCollapse, rehypeCallouts, config } from "./src/config/index.ts";
 
 export default defineConfig({
   site: config.site.url,
@@ -25,8 +10,7 @@ export default defineConfig({
   integrations: [
     mdx(),
     sitemap({
-      filter: page =>
-        config.features?.showArchives!== false ||!page.endsWith("/archives/"),
+      filter: page => config.features?.showArchives!== false ||!page.endsWith("/archives/"),
     }),
   ],
   i18n: {
@@ -39,23 +23,8 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [remarkToc, [remarkCollapse, { test: "Table of contents" }]],
     rehypePlugins: [rehypeCallouts],
-    shikiConfig: {
-      theme: "github-dark",
-      wrap: true,
-      transformers: [
-        transformerFileName(),
-        transformerNotationDiff(),
-        transformerNotationHighlight(),
-        transformerNotationWordHighlight(),
-      ],
-    },
   },
   vite: {
     plugins: [tailwindcss()],
-  },
-  image: {
-    service: {
-      entrypoint: "astro/assets/services/sharp",
-    },
   },
 });
