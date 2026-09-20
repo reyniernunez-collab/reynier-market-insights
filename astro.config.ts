@@ -2,7 +2,7 @@ import {
   defineConfig,
   envField,
   fontProviders,
-  svgoOptimizer,
+  svgOptimizer,
 } from "astro/config";
 import tailwindcss from "@tailwindcss/vite";
 import mdx from "@astrojs/mdx";
@@ -26,7 +26,7 @@ export default defineConfig({
     mdx(),
     sitemap({
       filter: page =>
-        config.features?.showArchives !== false || !page.endsWith("/archives/"),
+        config.features?.showArchives!== false ||!page.endsWith("/archives/"),
     }),
   ],
   i18n: {
@@ -37,49 +37,25 @@ export default defineConfig({
     },
   },
   markdown: {
-    processor: unified({
-      remarkPlugins: [
-        remarkToc,
-        [remarkCollapse, { test: "Table of contents" }],
-      ],
-      rehypePlugins: [rehypeCallouts],
-    }),
+    remarkPlugins: [remarkToc, [remarkCollapse, { test: "Table of contents" }]],
+    rehypePlugins: [rehypeCallouts],
     shikiConfig: {
-      themes: { light: "min-light", dark: "night-owl" },
-      defaultColor: false,
-      wrap: false,
+      theme: "github-dark",
+      wrap: true,
       transformers: [
-        transformerFileName({ style: "v2", hideDot: false }),
+        transformerFileName(),
+        transformerNotationDiff(),
         transformerNotationHighlight(),
         transformerNotationWordHighlight(),
-        transformerNotationDiff({ matchAlgorithm: "v3" }),
       ],
     },
   },
   vite: {
     plugins: [tailwindcss()],
   },
-  fonts: [
-    {
-      name: "Google Sans Code",
-      cssVariable: "--font-google-sans-code",
-      provider: fontProviders.google(),
-      fallbacks: ["monospace"],
-      weights: [300, 400, 500, 600, 700],
-      styles: ["normal", "italic"],
-      formats: ["woff", "ttf"],
+  image: {
+    service: {
+      entrypoint: "astro/assets/services/sharp",
     },
-  ],
-  env: {
-    schema: {
-      PUBLIC_GOOGLE_SITE_VERIFICATION: envField.string({
-        access: "public",
-        context: "client",
-        optional: true,
-      }),
-    },
-  },
-  experimental: {
-    svgOptimizer: svgoOptimizer(),
   },
 });
