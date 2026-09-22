@@ -1,37 +1,38 @@
 ---
+layout: ../layouts/AboutLayout.astro
 title: "About"
-description: "A bit about me and this blog."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+# Reynier Market Insights
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+**Daily insights from Dallas, Texas.**
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+I'm Reynier Nunez Lopez — trader, analyst, and creator behind @reyniermarketinsights.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+I started this blog to make sense of markets in real time — what moves, why it moves, and what comes next. No hype, no noise, just clear insights you can actually use.
 
-## Features
+### What you'll find here
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+- **Market Insights:** Daily wraps, trends, and the stories behind the moves
+- **Macro & Money:** Fed, central banks, rates, inflation — explained simply
+- **Energy & Commodities:** Oil, markets, and how energy shapes the world economy
+- **Tech & Innovation:** AI, semiconductors, and the companies driving change
+- **Investing Mindset:** Risk management, discipline, and lessons from the trading desk
+- **Visual Breakdowns:** Infographics and clear visuals to make complex topics easy
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+This isn't just about one market. It's about understanding how everything connects — from Dallas to Wall Street and beyond.
 
-and so much more.
+### Why Dallas?
 
-## Show your support
+Based in Dallas, Texas — a city where energy, tech, and finance meet. Writing from here gives me a front-row seat to the markets that move the world.
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+### Connect
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+- Instagram: [@reyniermarketinsights](https://instagram.com/reyniermarketinsights) 
+- GitHub: [reyniernunez-collab](https://github.com/reyniernunez-collab)
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+Thanks for reading — and welcome to the journey.
 
-Kyay zuu! 🙏🏼
+---
+
+*This blog is for educational and informational purposes only. Not financial advice.*
