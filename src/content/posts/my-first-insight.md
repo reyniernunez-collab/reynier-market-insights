@@ -10,7 +10,7 @@ tags:
 
 Welcome to Reynier Market Insights.
 
-I'm Reynier, based in Rhome, Texas. For months I watched people waste hours trying to understand markets.
+I'm Reynier, based in Dallas, Texas. For months I watched people waste hours trying to understand markets.
 
 So I built this: **5 minutes, no hype, just what matters.**
 
