@@ -1,7 +1,7 @@
 ---
 title: "Brent perfora 100: 99.35 - El shock de oferta ya no manda"
 description: "Resumen Ejecutivo: Brent 99.35 y WTI 94.69. Beta 30d CL-EUR 0.52 y CL-ES -0.81. ES 7829, NQ 30779. Fed Dic 78%. RBA 29-sep 86%. Análisis completo desde Dallas."
-pubDatetime: 2026-09-21T08:00:00Z
+pubDatetime: 2026-09-22T05:00:00Z
 featured: true
 draft: false
 tags:
