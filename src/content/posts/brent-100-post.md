@@ -31,7 +31,7 @@ Today: **Global Stocks Extend Rally as AI Optimism Lifts Tech** - Asia Market Wr
 
 ### The full infographic V4 + V5
 
-<iframe src="/reynier-market-insights/brent-100.html" width="100%" height="1800" frameborder="0" style="border-radius:12px; border:1px solid #1e293b;"></iframe>
+<iframe src="/reynier-market-insights/brent-101-Update.html" width="100%" height="1800" frameborder="0" style="border-radius:12px; border:1px solid #1e293b;"></iframe>
 
 > Full view: [Open infographic](/reynier-market-insights/brent-100.html)
 
