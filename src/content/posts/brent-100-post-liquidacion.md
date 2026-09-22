@@ -26,9 +26,9 @@ Hoy el Brent pierde los $100 con una caida de -3.4% el lunes (-8$ en 4 dias). **
 
 ### La infografia completa
 
-<iframe src="/reynier-market-insights/brent-100.html" width="100%" height="1200" frameborder="0" style="border-radius:12px; border:1px solid #1e293b;"></iframe>
+<iframe src="/reynier-market-insights/Infografia-V4-Brent-100.html" width="100%" height="1200" frameborder="0" style="border-radius:12px; border:1px solid #1e293b;"></iframe>
 
-> Si no ves la infografia, [abrela aqui](/reynier-market-insights/brent-100.html)
+> Si no ves la infografia, [abrela aqui](/reynier-market-insights/Infografia-V4-Brent-100.html)
 
 ### Que estoy viendo desde Dallas, Texas
 
