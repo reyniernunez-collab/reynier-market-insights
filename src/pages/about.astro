@@ -1,11 +1,11 @@
 ---
-import { getEntry } from "astro:content";
-import Layout from "@layouts/Layout.astro";
-import Header from "@components/Header.astro";
-import Footer from "@components/Footer.astro";
-import Main from "@layouts/Main.astro";
-import Breadcrumbs from "@components/Breadcrumbs.astro";
-import { SITE } from "@config";
+import { getEntry, render } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import Main from "../layouts/Main.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import { SITE } from "../config";
 
 const about = await getEntry("pages", "about");
 
@@ -13,7 +13,7 @@ if (!about) {
   throw new Error("No about page found");
 }
 
-const { Content } = await about.render();
+const { Content } = await render(about);
 ---
 
 <Layout title={`${about.data.title} | ${SITE.title}`}>
