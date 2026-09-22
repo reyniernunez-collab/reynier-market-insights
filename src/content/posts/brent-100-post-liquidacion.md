@@ -1,43 +1,51 @@
 ---
-title: "Brent $100: Post-Liquidacion Petroleo - Que sigue"
-description: "Brent pierde los $100, volatilidad colapsa de 15.7% a 13.7%. Oil deja de ser driver. Analisis completo del regimen post-liquidacion."
-pubDatetime: 2026-05-21T08:00:00Z
+title: "Brent $100 → $101.70: From Liquidation to Rebound - Update"
+description: "UPDATE 22 Sept: Brent rebounds +1.4% to $101.70 after 4-day liquidation. Saudi loadings jump to June highs, AI optimism lifts tech. Full V4 + V5 analysis from Dallas."
+pubDatetime: 2026-09-22T08:00:00Z
 featured: true
 tags:
-  - brent
-  - oil
-  - market
-  - WTI
-  - inflation
+    - brent
+    - oil
+    - WTI
+    - market
+    - AI
+    - Samsung
 ---
 
-## Brent $100 — El soporte se rompe
+> **UPDATE 22 Sept 2026 - Dallas, Texas:** Brent +1.4% → $101.70 after losing $100 (-8$ in 4d, -3.4% Monday). My V4 liquidation call marked the bottom.
 
-> **Regimen Post-Liquidacion Petroleo**
+## From $100 Liquidation to $101.70 Rebound
 
-Hoy el Brent pierde los $100 con una caida de -3.4% el lunes (-8$ en 4 dias). **Oil deja de ser driver** del mercado por primera vez en semanas.
+Yesterday: **Brent loses $100**. Vol collapses 15.7% → 13.7%. Oil stops being market driver.
 
-### Lo que cambio
+Today: **Global Stocks Extend Rally as AI Optimism Lifts Tech** - Asia Market Wrap.
 
-- **Volatilidad Brent:** 15.7% -> **13.7%** (compresion)
-- **Driver Oil:** Colapsado — desacoplado del petroleo
-- **Rally chips:** Fragil si petroleo rebota
-- **BoC 59%:** Pierde soporte oil
+### What changed in 24h
 
-### La infografia completa
+- **Brent +1.4% to $101.70** after 4 consecutive declines
+- **Saudi crude loadings** from Persian Gulf jumped over weekend, ships at main Gulf port highest since June
+- **MSCI All Country World** rose 4th day to 2-week high, Asian shares +0.7% 5th straight session
+- **AI Catalyst:** Samsung and SK Hynix climbed with Monday's Wall Street rally driven by Meta's new AI agent. Alibaba unveiled AI chip to compete with Nvidia, Tencent launched image-gen model
+- **Futures:** European equity futures higher, S&P 500 little changed, Nasdaq 100 +0.1%
+- **Bitcoin:** Pulled back after +7% to above $87,000 Monday as risk-on returns
 
-<iframe src="/reynier-market-insights/Infografia-V4-Brent-100.html" width="100%" height="1200" frameborder="0" style="border-radius:12px; border:1px solid #1e293b;"></iframe>
+### The full infographic V4 + V5
 
-> Si no ves la infografia, [abrela aqui](/reynier-market-insights/Infografia-V4-Brent-100.html)
+<iframe src="/reynier-market-insights/brent-100.html" width="100%" height="1800" frameborder="0" style="border-radius:12px; border:1px solid #1e293b;"></iframe>
 
-### Que estoy viendo desde Dallas, Texas
+> Full view: [Open infographic](/reynier-market-insights/brent-100.html)
 
-1. **Neutral / Alcista -> Neutral:** Brent pasa de alcista a neutral. Sin carga Hormuz 14mb / diplomacia Iran, el petroleo pierde momentum.
-2. **1SD hasta 87:** Con Brent <100 cierre sostenido, el rango baja.
-3. **Desacoplado:** El mercado ya no sigue al petroleo. Foco en chips y Fed.
+### My take from Dallas
 
-**Bottom line:** Post-liquidacion. No persigas el rebote de oil todavia. Espera confirmacion sobre $100.
+Yesterday I said: *"No persigas rebote oil todavía. Espera confirmación sobre $100."*
+
+Today we got it: $101.70 confirms. But this rebound is **supply-driven** (Saudi loadings) + **tech risk-on** (AI), not demand.
+
+- **1SD target still 87** if $100 fails again
+- **Watch:** If Saudi loadings stay high + Middle East diplomacy, Brent caps at $103-105
+- **Tactical:** AUD remains único táctico alcista (RBA 89%), JPY/CAD ligero bajista
+
+**Bottom line V5:** Liquidation is over, rebound is here, but it's fragile. Tech leads, oil follows now - regime flipped.
 
 ---
-
-*Daily insights from Dallas, Texas. Follow on [Instagram](https://instagram.com/reyniermarketinsights) for real-time charts.*
+*Daily insights from Dallas, Texas. Follow on [Instagram](https://instagram.com/reyniermarketinsights)*
