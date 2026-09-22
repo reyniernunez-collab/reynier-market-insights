@@ -4,6 +4,7 @@ import Layout from "@layouts/Layout.astro";
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import Main from "@layouts/Main.astro";
+import Breadcrumbs from "@components/Breadcrumbs.astro";
 import { SITE } from "@config";
 
 const about = await getEntry("pages", "about");
@@ -17,7 +18,8 @@ const { Content } = await about.render();
 
 <Layout title={`${about.data.title} | ${SITE.title}`}>
   <Header activeNav="about" />
-  <Main pageTitle={about.data.title} pageDesc={about.data.description}>
+  <Breadcrumbs />
+  <Main pageTitle={about.data.title} class="app-prose">
     <section id="about" class="prose max-w-3xl mb-28">
       <Content />
     </section>
