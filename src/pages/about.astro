@@ -3,9 +3,7 @@ import { getEntry, render } from "astro:content";
 import Layout from "../layouts/Layout.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
-import Main from "../layouts/Main.astro";
-import Breadcrumbs from "../components/Breadcrumbs.astro";
-import { SITE } from "../config";
+import SITE from "../config";
 
 const about = await getEntry("pages", "about");
 
@@ -16,13 +14,13 @@ if (!about) {
 const { Content } = await render(about);
 ---
 
-<Layout title={`${about.data.title} | ${SITE.title}`}>
+<Layout title={`About | ${SITE.title}`}>
   <Header activeNav="about" />
-  <Breadcrumbs />
-  <Main pageTitle={about.data.title} class="app-prose">
-    <section id="about" class="prose max-w-3xl mb-28">
+  <main id="main-content" class="mx-auto w-full max-w-3xl px-4 pb-12 pt-8">
+    <section id="about" class="prose max-w-3xl prose-img:border-0">
+      <h1 class="text-2xl font-semibold sm:text-3xl">{about.data.title}</h1>
       <Content />
     </section>
-  </Main>
+  </main>
   <Footer />
 </Layout>
