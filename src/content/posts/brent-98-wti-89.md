@@ -1,7 +1,7 @@
 ---
 title: "WTI 89.17 y Brent 98.34: US-Iran talks extienden liquidación"
 description: "WTI cayó a 89.17 y Brent a 98.34 ante wrap asiático de conversaciones EE.UU.-Irán. CL-EUR 0.69 CL-GBP 0.75 CL-ES -0.86. Fed Dic 76% BCE Oct 57% RBA 85% RBNZ 61%."
-pubDatetime: 2026-09-23T08:00:00Z
+pubDatetime: 2026-09-23T02:00:00Z
 featured: true
 draft: false
 tags:
