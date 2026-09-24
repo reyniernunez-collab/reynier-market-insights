@@ -1,135 +1,95 @@
-/* global.css - FIX MENU + # + PUNTOS BLANCOS - Solo este archivo */
+/* global.css - ACCENT ORANGE #f97316 - High contrast on #0a0e17 */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap');
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-html {
-  background: #0a0e17 !important;
-}
+html { background: #0a0e17 !important; }
 body {
   background: #0a0e17 !important;
   color: #f1f5f9 !important;
   font-family: 'Inter', sans-serif !important;
 }
 
-/* ===== FIX 1: MENU VERTICAL -> HORIZONTAL ===== */
-header ul,
-header nav ul,
-#main-menu ul,
-.nav-menu ul {
+/* MENU HORIZONTAL FIX */
+header ul, header nav ul, #main-menu ul, .nav-menu ul {
   list-style: none !important;
   display: flex !important;
   flex-direction: row !important;
   gap: 1.25rem !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  background: transparent !important;
-  border: none !important;
+  margin: 0 !important; padding: 0 !important;
+  background: transparent !important; border: none !important;
 }
-header li,
-header nav li {
-  list-style: none !important;
-  display: inline-flex !important;
-}
-header li::marker,
-header nav li::marker {
-  display: none !important;
-  content: none !important;
-}
-header li::before {
-  display: none !important;
-}
+header li, header nav li { list-style: none !important; display: inline-flex !important; }
+header li::marker, header nav li::marker { display: none !important; content: none !important; }
+header li::before { display: none !important; }
 
-/* ===== FIX 2: OCULTAR # DESPUES DE HEADINGS ===== */
-.app-prose h2 a,
-.app-prose h3 a,
-.app-prose h2 > a:last-child,
-.app-prose h3 > a:last-child,
-.prose h2 a,
-.prose h3 a {
-  opacity: 0 !important;
-  text-decoration: none !important;
-  border: none !important;
-  font-size: 0.8em !important;
-  margin-left: 0.4rem !important;
-  color: #06b6d4 !important;
+/* HIDE # ANCHORS */
+.app-prose h2 a, .app-prose h3 a, .prose h2 a, .prose h3 a {
+  opacity: 0 !important; text-decoration: none !important; border: none !important;
+  font-size: 0.8em !important; margin-left: 0.4rem !important; color: #f97316 !important;
 }
-.app-prose h2:hover a,
-.app-prose h3:hover a,
-.prose h2:hover a,
-.prose h3:hover a {
-  opacity: 0.6 !important;
-}
+.app-prose h2:hover a, .app-prose h3:hover a { opacity: 0.7 !important; }
 
-/* Si el # es texto directo dentro del heading, lo ocultamos */
-.app-prose h2 a[href^="#"],
-.app-prose h3 a[href^="#"] {
-  display: inline-block !important;
-  width: 0;
-  overflow: hidden;
-}
-
-/* ===== FIX 3: PUNTOS BLANCOS -> CYAN Y BIEN ALINEADOS ===== */
-.app-prose ul,
-.prose ul {
-  list-style: none !important;
-  padding-left: 0 !important;
-}
-.app-prose ol {
-  padding-left: 1.25rem !important;
-}
-.app-prose ul li {
-  position: relative !important;
-  padding-left: 1.5rem !important;
-  margin-bottom: 0.5rem !important;
-}
+/* BULLETS ORANGE */
+.app-prose ul { list-style: none !important; padding-left: 0 !important; }
+.app-prose ol { padding-left: 1.25rem !important; }
+.app-prose ul li { position: relative !important; padding-left: 1.5rem !important; margin-bottom: 0.5rem !important; }
 .app-prose ul li::before {
-  content: "•";
-  position: absolute;
-  left: 0;
-  color: #06b6d4 !important;
-  font-weight: bold;
+  content: "•"; position: absolute; left: 0;
+  color: #f97316 !important; font-weight: bold;
 }
 .app-prose ol li::marker {
-  color: #06b6d4 !important;
-  font-family: 'JetBrains Mono', monospace !important;
-  font-weight: 700 !important;
+  color: #f97316 !important;
+  font-family: 'JetBrains Mono', monospace !important; font-weight: 700 !important;
 }
 
-/* ===== RESTO DEL ESTILO INFOGRAFIA (sin romper header) ===== */
+/* TABLES */
 .app-prose table {
-  background: #121a2a !important;
-  border: 1px solid #1e293b !important;
-  border-radius: 12px !important;
-  overflow: hidden !important;
-  font-size: 13px !important;
+  background: #121a2a !important; border: 1px solid #1e293b !important;
+  border-radius: 12px !important; overflow: hidden !important; font-size: 13px !important;
 }
 .app-prose th {
-  background: #0a0e17 !important;
-  color: #94a3b8 !important;
-  text-transform: uppercase !important;
-  font-size: 11px !important;
-  letter-spacing: 0.05em !important;
+  background: #0a0e17 !important; color: #94a3b8 !important;
+  text-transform: uppercase !important; font-size: 11px !important; letter-spacing: 0.05em !important;
 }
 .app-prose td {
   border-bottom: 1px solid #1e293b !important;
-  font-family: 'JetBrains Mono', monospace !important;
-  color: #cbd5e1 !important;
+  font-family: 'JetBrains Mono', monospace !important; color: #cbd5e1 !important;
 }
+.app-prose tr:hover td { background: rgba(249,115,22,0.05) !important; }
+
 .app-prose strong {
-  font-family: 'JetBrains Mono', monospace !important;
-  color: #f1f5f9 !important;
+  font-family: 'JetBrains Mono', monospace !important; color: #f1f5f9 !important;
 }
 .app-prose blockquote {
-  background: #121a2a !important;
-  border: 1px solid #1e293b !important;
-  border-left: 3px solid #06b6d4 !important;
+  background: #121a2a !important; border: 1px solid #1e293b !important;
+  border-left: 3px solid #f97316 !important; /* ORANGE ACCENT */
   border-radius: 0 12px 12px 0 !important;
 }
 .app-prose a:not(h2 a):not(h3 a) {
-  color: #4dd0e1 !important;
+  color: #fb923c !important; /* light orange for links */
   text-decoration: none !important;
-  border-bottom: 1px dashed rgba(77,208,225,0.3) !important;
+  border-bottom: 1px dashed rgba(251,146,60,0.4) !important;
+}
+.app-prose a:not(h2 a):not(h3 a):hover {
+  color: #f97316 !important;
+  border-bottom: 1px solid #f97316 !important;
+}
+
+/* TAGS - orange badges */
+a[href*="/tags/"] {
+  background: rgba(249,115,22,0.12) !important;
+  border: 1px solid rgba(249,115,22,0.3) !important;
+  color: #fb923c !important;
+  padding: 4px 12px !important;
+  border-radius: 20px !important;
+  font-family: 'JetBrains Mono', monospace !important;
+  font-size: 12px !important;
+  font-weight: 600 !important;
+}
+a[href*="/tags/"]:hover {
+  background: rgba(249,115,22,0.2) !important;
+  color: #f97316 !important;
 }
