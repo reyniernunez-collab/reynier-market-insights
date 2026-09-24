@@ -135,5 +135,8 @@
     .highlighted-word {
       @apply border-border rounded-sm border px-0.5 py-px;
     }
+    @media (max-width: 768px) {
+  table { font-size: 11px; display: block; overflow-x: auto; }
+    }
   }
 }
