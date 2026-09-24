@@ -1,43 +1,15 @@
-/* theme.css - Premium dark like infographics V7-V9 */
+/* theme.css - Premium dark like infographics V7-V9 - COMPATIBLE BUILD */
 
-@theme {
-  /* Backgrounds */
-  --background: #0a0e17;
-  --foreground: #f1f5f9;
-  --card: #121a2a;
-  --card-foreground: #f1f5f9;
-  --popover: #121a2a;
-  --popover-foreground: #f1f5f9;
-  
-  /* Accent - cyan from infographics */
-  --primary: #06b6d4;
-  --primary-foreground: #0a0e17;
-  --secondary: #1e293b;
-  --secondary-foreground: #f1f5f9;
-  --muted: #1e293b;
-  --muted-foreground: #94a3b8;
-  --accent: #06b6d4;
-  --accent-foreground: #0a0e17;
-  
-  --destructive: #ef4444;
-  --destructive-foreground: #f1f5f9;
-  
-  --border: #1e293b;
-  --input: #1e293b;
-  --ring: #06b6d4;
-  
-  --radius: 1rem;
+:root,
+:root.dark {
+  --background: 10 14 23;
+  --foreground: 241 245 249;
+  --accent: 6 182 212;
+  --muted: 30 41 59;
+  --border: 30 41 59;
 }
 
-:root {
-  --background: #0a0e17;
-  --foreground: #f1f5f9;
-  --card: #121a2a;
-  --border: #1e293b;
-  --accent: #06b6d4;
-}
-
-/* Force dark always */
+/* Force dark always - like infographic */
 html {
   background: #0a0e17 !important;
   color-scheme: dark;
@@ -49,19 +21,19 @@ body {
   font-family: 'Inter', system-ui, sans-serif;
 }
 
-/* Header / Nav */
+/* Header blur like trading desk */
 header {
-  background: rgba(10, 14, 23, 0.8) !important;
+  background: rgba(10, 14, 23, 0.85) !important;
   backdrop-filter: blur(12px);
   border-bottom: 1px solid #1e293b !important;
 }
 
-/* Cards */
-article, .prose, [data-card] {
-  background: transparent;
+footer {
+  background: #0a0e17 !important;
+  border-top: 1px solid #1e293b !important;
 }
 
-/* Scrollbar like trading terminal */
+/* Scrollbar trading terminal */
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
