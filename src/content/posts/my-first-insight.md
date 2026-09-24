@@ -1,7 +1,7 @@
 ---
 title: Why I Started Reynier Market Insights
-description: Market insights in 5 minutes. No Wall Street jargon.
-pubDatetime: 2026-05-19T08:00:00Z
+description: Market insights in 5 minutes. 
+pubDatetime: 2026-09-19T08:00:00Z
 featured: true
 tags:
     - market
@@ -22,4 +22,3 @@ Every day:
 
 Follow along on Instagram [@reyniermarketinsights](https://instagram.com/reyniermarketinsights)
 
-Tomorrow: Fed, Oil, and S&P 500 — what you need to know before the open.
