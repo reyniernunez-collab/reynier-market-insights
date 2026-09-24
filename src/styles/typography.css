@@ -1,157 +1,139 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap');
-
+@@ -0,0 +1,138 @@
 @plugin "@tailwindcss/typography";
 
 @layer base {
+  /* ===== Override default Tailwind Typography styles ===== */
   .app-prose {
     @apply prose;
-    
-    --tw-prose-body: #cbd5e1;
-    --tw-prose-headings: #f1f5f9;
-    --tw-prose-links: #4dd0e1;
-    --tw-prose-bold: #f1f5f9;
-    --tw-prose-bullets: #475569;
-    --tw-prose-quotes: #94a3b8;
-    --tw-prose-code: #4dd0e1;
-
-    font-family: 'Inter', system-ui, -apple-system, sans-serif;
-    font-size: 15px;
-    line-height: 1.8;
-    color: #cbd5e1;
 
     h1,
     h2,
     h3,
-    h4 {
-      font-family: 'Inter', sans-serif;
-      font-weight: 800;
-      letter-spacing: -0.02em;
-      color: #f1f5f9;
-      margin-bottom: 0.75rem;
-    }
-
-    h1 {
-      font-size: 2.5rem;
-      font-weight: 800;
-      line-height: 1.1;
-    }
-
-    h2 {
-      font-size: 1.75rem;
-      margin-top: 3rem;
-      margin-bottom: 1.5rem;
-      padding-bottom: 0.75rem;
-      border-bottom: 1px solid #1e293b;
+    h4,
+    th {
+      @apply text-foreground mb-3;
     }
 
     h3 {
-      font-style: italic;
-      font-size: 1.25rem;
-      font-weight: 600;
-      color: #e2e8f0;
-      margin-top: 2rem;
+      @apply italic;
     }
 
-    strong {
-      font-family: 'JetBrains Mono', monospace;
-      font-weight: 700;
-      color: #f1f5f9;
-    }
-
-    p, ol, ul, figcaption, table, code {
-      color: #cbd5e1;
-    }
-
-    blockquote {
-      background: #121a2a;
-      border: 1px solid #1e293b;
-      border-left: 3px solid #06b6d4;
-      border-radius: 0 12px 12px 0;
-      padding: 1rem 1.5rem;
-      color: #e2e8f0;
-      font-style: normal;
-      margin: 1.5rem 0;
+    p,
+    strong,
+    ol,
+    ul,
+    figcaption,
+    table,
+    code {
+      @apply text-foreground;
     }
 
     a {
-      color: #4dd0e1;
-      text-decoration: none;
-      border-bottom: 1px dashed rgba(77, 208, 225, 0.3);
-      overflow-wrap: break-word;
-    }
-    
-    a:hover {
-      color: #06b6d4;
-      border-bottom: 1px solid #06b6d4;
+      @apply text-foreground hover:text-accent wrap-break-word decoration-dashed underline-offset-4 focus-visible:no-underline;
     }
 
     ul {
-      overflow-x: clip;
+      @apply overflow-x-clip;
     }
 
-    ul li::marker {
-      color: #06b6d4;
+    li {
+      @apply marker:text-accent;
     }
 
-    /* Tables premium dark like V9 */
+    hr {
+      @apply border-border;
+    }
+
+    img {
+      @apply border-border mx-auto border;
+    }
+
+    img[role="button"] {
+      @apply cursor-zoom-in;
+
+      &:focus-visible {
+        @apply outline-2 outline-offset-2 outline-dashed;
+      }
+    }
+
+    figcaption {
+      @apply opacity-75;
+    }
+
     table {
-      width: 100%;
-      margin: 2rem 0;
-      border-radius: 12px;
-      overflow: hidden;
-      background: #121a2a;
-      border: 1px solid #1e293b;
-      font-size: 13px;
-      border-collapse: separate;
-      border-spacing: 0;
-    }
-    
-    thead {
-      background: #0a0e17;
-    }
-    
-    th {
-      text-align: left;
-      padding: 0.75rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      font-size: 0.75rem;
-      color: #94a3b8;
-      font-family: 'Inter', sans-serif;
-      border-bottom: 1px solid #1e293b;
-    }
-    
-    td {
-      padding: 0.75rem;
-      border-bottom: 1px solid #1e293b;
-      font-family: 'JetBrains Mono', monospace;
-      color: #cbd5e1;
-    }
-    
-    tr:last-child td {
-      border-bottom: none;
-    }
-    
-    tr:hover td {
-      background: rgba(30, 41, 59, 0.5);
+      th,
+      td {
+        @apply border-border border p-2;
+      }
+
+      th {
+        @apply py-1.5;
+      }
+
+      th[align="center"],
+      td[align="center"] {
+        text-align: center;
+      }
+
+      th[align="right"],
+      td[align="right"] {
+        text-align: right;
+      }
+
+      th[align="left"],
+      td[align="left"] {
+        text-align: left;
+      }
     }
 
     code {
-      background: #121a2a;
-      padding: 0.2rem 0.5rem;
-      border-radius: 8px;
-      font-size: 0.875rem;
-      border: 1px solid #1e293b;
-      font-family: 'JetBrains Mono', monospace;
-      color: #4dd0e1;
+      @apply bg-muted/75 text-foreground rounded p-1 wrap-break-word before:content-none after:content-none;
     }
 
-    iframe {
-      border-radius: 16px;
-      margin: 2rem 0;
-      border: 1px solid #1e293b;
-      background: #0a0e17;
+    .astro-code code {
+      @apply flex-[1_0_100%] bg-inherit p-0;
+    }
+
+    blockquote {
+      @apply border-s-accent/80 wrap-break-word opacity-80;
+    }
+
+    details:not(.callout) {
+      @apply text-foreground inline-block cursor-pointer select-none [&_p]:hidden [&_ul]:my-0!;
+    }
+
+    summary {
+      @apply focus-visible:outline-accent focus-visible:no-underline focus-visible:outline-2 focus-visible:outline-offset-1 focus-visible:outline-dashed;
+    }
+
+    pre {
+      @apply focus-visible:outline-accent focus-visible:border-transparent focus-visible:outline-2 focus-visible:outline-dashed;
+    }
+  }
+
+  /* ===== Code Blocks & Syntax Highlighting ===== */
+  .astro-code {
+    @apply outline-border flex border bg-(--shiki-light-bg) text-(--shiki-light) [&_span]:text-(--shiki-light);
+  }
+
+  html[data-theme="dark"] .astro-code {
+    @apply bg-(--shiki-dark-bg) text-(--shiki-dark) [&_span]:text-(--shiki-dark);
+  }
+
+  /* Styles for Shiki transformers */
+  /* https://shiki.style/packages/transformers */
+  .astro-code {
+    .line.diff.add {
+      @apply relative inline-block w-full bg-green-400/20 before:absolute before:-left-3 before:text-green-500 before:content-['+'];
+    }
+    .line.diff.remove {
+      @apply relative inline-block w-full bg-red-500/20 before:absolute before:-left-3 before:text-red-500 before:content-['-'];
+    }
+    .line.highlighted {
+      @apply inline-block w-full bg-slate-400/20;
+    }
+    .highlighted-word {
+      @apply border-border rounded-sm border px-0.5 py-px;
     }
   }
 }
