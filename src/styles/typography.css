@@ -3,111 +3,107 @@
 @plugin "@tailwindcss/typography";
 
 @layer base {
-  /* ==== Override default Tailwind Typography styles ==== */
   .app-prose {
     @apply prose;
     
-    /* Base */
     --tw-prose-body: #cbd5e1;
     --tw-prose-headings: #f1f5f9;
     --tw-prose-links: #4dd0e1;
     --tw-prose-bold: #f1f5f9;
-    --tw-prose-bullets: #1e293b;
+    --tw-prose-bullets: #475569;
     --tw-prose-quotes: #94a3b8;
-    --tw-prose-code: #f1f5f9;
-    --tw-prose-invert-body: #cbd5e1;
+    --tw-prose-code: #4dd0e1;
 
-    @apply text-[15px] leading-[1.8] tracking-[-0.01em];
     font-family: 'Inter', system-ui, -apple-system, sans-serif;
-    
+    font-size: 15px;
+    line-height: 1.8;
+    color: #cbd5e1;
+
     h1,
     h2,
     h3,
-    h4,
-    th {
-      @apply text-foreground mb-3;
+    h4 {
       font-family: 'Inter', sans-serif;
       font-weight: 800;
       letter-spacing: -0.02em;
+      color: #f1f5f9;
+      margin-bottom: 0.75rem;
     }
 
     h1 {
-      @apply text-4xl md:text-5xl font-extrabold tracking-tight;
-      background: linear-gradient(180deg, #f1f5f9 0%, #94a3b8 100%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
+      font-size: 2.5rem;
+      font-weight: 800;
+      line-height: 1.1;
     }
 
     h2 {
-      @apply text-2xl md:text-3xl mt-12 mb-6;
-      color: #f1f5f9;
-      border-bottom: 1px solid #1e293b;
+      font-size: 1.75rem;
+      margin-top: 3rem;
+      margin-bottom: 1.5rem;
       padding-bottom: 0.75rem;
+      border-bottom: 1px solid #1e293b;
     }
 
     h3 {
-      @apply italic text-xl mt-8;
-      color: #e2e8f0;
+      font-style: italic;
+      font-size: 1.25rem;
       font-weight: 600;
+      color: #e2e8f0;
+      margin-top: 2rem;
     }
 
-    /* Numbers and strong in JetBrains Mono like infographics */
     strong {
       font-family: 'JetBrains Mono', monospace;
       font-weight: 700;
       color: #f1f5f9;
-      letter-spacing: -0.02em;
     }
 
-    p,
-    strong,
-    ol,
-    ul,
-    figcaption,
-    table,
-    code {
-      @apply text-foreground;
+    p, ol, ul, figcaption, table, code {
+      color: #cbd5e1;
     }
 
-    /* Blockquote like executive summary */
     blockquote {
-      @apply border-l-2 border-l-accent bg-[#121a2a] px-6 py-4 rounded-r-xl not-italic;
+      background: #121a2a;
       border: 1px solid #1e293b;
       border-left: 3px solid #06b6d4;
+      border-radius: 0 12px 12px 0;
+      padding: 1rem 1.5rem;
       color: #e2e8f0;
       font-style: normal;
+      margin: 1.5rem 0;
     }
 
-    /* Links cyan */
     a {
-      @apply text-foreground hover:text-accent wrap-break-word decoration-dashed underline-offset-4 focus-visible:no-underline;
-      color: #4dd0e1 !important;
+      color: #4dd0e1;
       text-decoration: none;
       border-bottom: 1px dashed rgba(77, 208, 225, 0.3);
+      overflow-wrap: break-word;
     }
     
     a:hover {
-      color: #06b6d4 !important;
+      color: #06b6d4;
       border-bottom: 1px solid #06b6d4;
     }
 
     ul {
-      @apply overflow-x-clip;
-      li {
-        @apply marker:text-[#1e293b];
-      }
-      li::marker {
-        color: #06b6d4;
-      }
+      overflow-x: clip;
+    }
+
+    ul li::marker {
+      color: #06b6d4;
     }
 
     /* Tables premium dark like V9 */
     table {
-      @apply w-full my-8 rounded-xl overflow-hidden;
+      width: 100%;
+      margin: 2rem 0;
+      border-radius: 12px;
+      overflow: hidden;
       background: #121a2a;
       border: 1px solid #1e293b;
       font-size: 13px;
+      border-collapse: separate;
+      border-spacing: 0;
     }
     
     thead {
@@ -115,14 +111,19 @@
     }
     
     th {
-      @apply text-left p-3 font-bold uppercase tracking-wider text-xs;
-      color: #94a3b8 !important;
-      font-family: 'Inter', sans-serif !important;
+      text-align: left;
+      padding: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-size: 0.75rem;
+      color: #94a3b8;
+      font-family: 'Inter', sans-serif;
       border-bottom: 1px solid #1e293b;
     }
     
     td {
-      @apply p-3;
+      padding: 0.75rem;
       border-bottom: 1px solid #1e293b;
       font-family: 'JetBrains Mono', monospace;
       color: #cbd5e1;
@@ -136,16 +137,19 @@
       background: rgba(30, 41, 59, 0.5);
     }
 
-    /* Code */
     code {
-      @apply bg-[#121a2a] px-2 py-1 rounded-lg text-sm border border-[#1e293b];
+      background: #121a2a;
+      padding: 0.2rem 0.5rem;
+      border-radius: 8px;
+      font-size: 0.875rem;
+      border: 1px solid #1e293b;
       font-family: 'JetBrains Mono', monospace;
       color: #4dd0e1;
     }
 
-    /* Iframe styling */
     iframe {
-      @apply rounded-2xl my-8;
+      border-radius: 16px;
+      margin: 2rem 0;
       border: 1px solid #1e293b;
       background: #0a0e17;
     }
