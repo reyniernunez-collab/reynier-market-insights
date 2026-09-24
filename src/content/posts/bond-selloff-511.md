@@ -1,7 +1,7 @@
 ---
 title: "Bond Selloff Deepens: 10Y 5.11% as Fed Hike Bets Build - Asia Wrap 24 Sept"
 description: "Global bonds extend selloff: US 10Y 5.11% after 15bp surge, biggest since April 2025 tariff turmoil. 5Y auction weak, global yield near 4%, Brent 102, Gold 4290, Asia -0.6%. Xi in Washington."
-pubDatetime: 2026-09-24T12:20:00Z
+pubDatetime: 2026-09-24T00:20:00Z
 featured: true
 draft: false
 tags:
