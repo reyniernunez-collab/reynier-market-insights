@@ -1,39 +1,60 @@
-@import "tailwindcss";
-@import "./theme.css";
-@import "./typography.css";
-@import "rehype-callouts/theme/obsidian";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap');
 
-@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 @layer base {
   * {
-    @apply border-border outline-accent/75;
-    scrollbar-width: auto;
-    scrollbar-color: var(--color-muted) transparent;
+    @apply border-border;
   }
-  a,
-  button,
-  #main-content {
-    @apply outline-accent outline-offset-1 focus-visible:no-underline focus-visible:outline-2 focus-visible:outline-dashed;
+  
+  html {
+    @apply scroll-smooth;
+    background: #0a0e17 !important;
+    color-scheme: dark;
   }
-  button:not(:disabled),
-  [role="button"]:not(:disabled) {
-    cursor: pointer;
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #0a0e17 !important;
+    color: #f1f5f9 !important;
+    letter-spacing: -0.01em;
+    line-height: 1.7;
+  }
+
+  /* Selection cyan */
+  ::selection {
+    background: rgba(6, 182, 212, 0.3);
+    color: #f1f5f9;
   }
 }
 
-@utility max-w-app {
-  @apply max-w-3xl;
-}
+@layer components {
+  /* Header blur like trading desk */
+  header {
+    @apply backdrop-blur-xl bg-[#0a0e17]/80 border-b border-[#1e293b];
+  }
 
-@utility app-layout {
-  @apply max-w-app mx-auto w-full px-4;
-}
+  /* Footer */
+  footer {
+    @apply bg-[#0a0e17] border-t border-[#1e293b];
+  }
 
-@utility active-nav {
-  @apply underline decoration-wavy decoration-2 underline-offset-8;
-}
+  /* Prose overrides for dark */
+  .prose {
+    @apply text-[#cbd5e1];
+  }
 
-:target {
+  /* Badge style like V9 */
+  .badge {
+    @apply inline-flex items-center px-3 py-1 rounded-full text-xs font-bold tracking-wider uppercase;
+    font-family: 'JetBrains Mono', monospace;
+    background: rgba(6, 182, 212, 0.1);
+    border: 1px solid rgba(6, 182, 212, 0.2);
+    color: #4dd0e1;
+  }
+}
   scroll-margin-block: 1rem;
 }
