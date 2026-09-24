@@ -5,56 +5,21 @@
 @tailwind utilities;
 
 @layer base {
-  * {
-    @apply border-border;
-  }
-  
   html {
-    @apply scroll-smooth;
-    background: #0a0e17 !important;
-    color-scheme: dark;
+    scroll-behavior: smooth;
+    background: #0a0e17;
   }
 
   body {
-    @apply bg-background text-foreground antialiased;
-    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     background: #0a0e17 !important;
     color: #f1f5f9 !important;
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     letter-spacing: -0.01em;
     line-height: 1.7;
   }
 
-  /* Selection cyan */
   ::selection {
     background: rgba(6, 182, 212, 0.3);
     color: #f1f5f9;
   }
-}
-
-@layer components {
-  /* Header blur like trading desk */
-  header {
-    @apply backdrop-blur-xl bg-[#0a0e17]/80 border-b border-[#1e293b];
-  }
-
-  /* Footer */
-  footer {
-    @apply bg-[#0a0e17] border-t border-[#1e293b];
-  }
-
-  /* Prose overrides for dark */
-  .prose {
-    @apply text-[#cbd5e1];
-  }
-
-  /* Badge style like V9 */
-  .badge {
-    @apply inline-flex items-center px-3 py-1 rounded-full text-xs font-bold tracking-wider uppercase;
-    font-family: 'JetBrains Mono', monospace;
-    background: rgba(6, 182, 212, 0.1);
-    border: 1px solid rgba(6, 182, 212, 0.2);
-    color: #4dd0e1;
-  }
-}
-  scroll-margin-block: 1rem;
 }
