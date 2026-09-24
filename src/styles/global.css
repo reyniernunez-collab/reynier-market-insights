@@ -46,3 +46,11 @@ blockquote {
   border-left: 3px solid #06b6d4 !important;
   border-radius: 0 12px 12px 0;
 }
+a[href*="/tags/"] {
+  background: rgba(6,182,212,0.1);
+  border: 1px solid rgba(6,182,212,0.3) !important;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px;
+}
