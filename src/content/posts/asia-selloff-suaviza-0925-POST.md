@@ -1,18 +1,20 @@
+---
 title: "Asia abre: Selloff suaviza, petróleo baja y acciones al alza - Brent 105.34 USD/JPY 158.24"
 description: "Asia abre con selloff de Treasuries que se suaviza, petróleo a la baja y acciones al alza. Brent 105.34 WTI 92.73 Oro 4273 ES 7772 NQ 30863 USD/JPY 158.24 Fed Oct 73% Dic 79% BCE Oct 52% RBA 91% CL-EUR 0.93 CL-GBP 0.99 extremos."
 pubDatetime: 2026-09-25T08:30:00-05:00
 tags:
+  - oil
+  - brent
+  - wti
+  - forex
+  - usdjpy
+  - fed
+  - bce
+  - rba
+  - hormuz
+---
 
-oil
-brent
-wti
-forex
-usdjpy
-fed
-bce
-rba
-hormuz
-Dallas, Texas — 25 Sept 2026 08:30 CDT: Asia abre con selloff de Treasuries que se suaviza, petróleo a la baja y acciones al alza. Brent 105.34 / WTI 92.73.
+Dallas, Texas — 25 Sept 2026 08:30 CDT: Asia abre con selloff de Treasuries que se suaviza...
 
 <iframe src="/asia-selloff-suaviza-0925-v12.html" width="100%" height="850" style="border:1px solid #1e293b; border-radius:16px; background:#0a0e17;" loading="lazy"></iframe>
 Resumen Ejecutivo
