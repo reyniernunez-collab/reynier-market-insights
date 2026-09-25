@@ -14,7 +14,7 @@ tags:
   - hormuz
 ---
 
-Dallas, Texas — 25 Sept 2026 08:30 CDT: Asia abre con selloff de Treasuries que se suaviza...
+Dallas, Texas — 25 Sept 2026 04:00 CDT: Asia abre con selloff de Treasuries que se suaviza...
 
 <iframe src="/asia-selloff-suaviza-0925-v12.html" width="100%" height="850" style="border:1px solid #1e293b; border-radius:16px; background:#0a0e17;" loading="lazy"></iframe>
 Resumen Ejecutivo
