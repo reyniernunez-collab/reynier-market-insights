@@ -15,6 +15,7 @@ tags:
 ---
 
 > **Dallas, Texas — 24 Sept 2026:** El régimen es oil + duration. Brent rebotó a 103–107 y WTI a 93–95 después de que Irán reiterara que Hormuz permanece cerrado mientras duren sanciones y bloqueo. 10Y en 5.11% máximo desde 2007. USD bid; JPY cerca de 160 riesgo intervención.
+> <iframe src="/regimen-oil-duration-v10.html" width="100%" height="850" style="border:1px solid #1e293b; border-radius:16px; background:#0a0e17;" loading="lazy"></iframe>
 
 ## Resumen Ejecutivo
 
