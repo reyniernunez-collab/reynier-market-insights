@@ -16,7 +16,7 @@ tags:
 
 Dallas, Texas — 25 Sept 2026 04:00 CDT: Asia abre con selloff de Treasuries que se suaviza...
 
-<iframe src="/asia-selloff-suaviza-0925-v12.html" width="100%" height="850" style="border:1px solid #1e293b; border-radius:16px; background:#0a0e17;" loading="lazy"></iframe>
+<iframe src="/reynier-market-insights/asia-selloff-suaviza-0925-v12.html" width="100%" height="850" style="border:1px solid #1e293b; border-radius:16px; background:#0a0e17;" loading="lazy"></iframe>
 Resumen Ejecutivo
 
 Asia abre con selloff de Treasuries que se suaviza, petróleo a la baja y acciones al alza. Europa titula "new deal on the horizon" (Hormuz). Brent 105,34 / WTI 92,73. Oro 4273. ES 7772 / NQ 30863. USD/JPY 158,24. Fed Oct hike 73 %, Dic 79 %. BCE Oct hike 52 %. RBA 29-sep 91 %. El 30d CL-EUR 0,93 y CL-GBP 0,99 siguen extremos. El gráfico G10 de la sesión muestra JPY +~50 (yen más débil) y CHF/CAD en cola. Régimen: oil-beta en FX europeo + USD bid, con un alivio táctico de duration y un deal que aún no está en el precio del crudo.
