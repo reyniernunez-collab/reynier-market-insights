@@ -1,7 +1,7 @@
 ---
 title: "Régimen oil + duration: Brent 103-107 y 10Y 5.11% - Hormuz cerrado domina FX"
 description: "Brent rebotó a 103-107 y WTI a 93-95 tras Irán reiterar Hormuz cerrado. 10Y en 5.11% máximo desde 2007. Fed Oct 70%, Dic fully priced. CL-EUR 0.92 y CL-GBP 0.99 refuerzan oil-beta en FX europeo. Análisis completo desde Dallas."
-pubDatetime: 2026-09-24T11:50:00-05:00
+pubDatetime: 2026-09-24T23:00:00-05:00
 tags:
   - oil
   - brent
