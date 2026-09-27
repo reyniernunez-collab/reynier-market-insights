@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>V16 - Week Ahead - 26 Sept 2026</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}body{background:#0a0e17;color:#f1f5f9;font-family:'Inter',sans-serif}
+.grid-bg{position:fixed;inset:0;background-image:linear-gradient(rgba(30,41,59,0.3) 1px, transparent 1px),linear-gradient(90deg, rgba(30,41,59,0.3) 1px, transparent 1px);background-size:40px 40px;z-index:0;opacity:0.4}
+.container{position:relative;z-index:1;max-width:1400px;margin:0 auto;padding:24px}
+.header{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;font-family:'JetBrains Mono',monospace;font-size:10px;color:#64748b;text-transform:uppercase}
+.live{display:flex;align-items:center;gap:8px;background:#121a2a;border:1px solid #1e293b;padding:6px 12px;border-radius:20px}
+.dot{width:6px;height:6px;background:#f97316;border-radius:50%;animation:pulse 2s infinite}@keyframes pulse{0%,100%{opacity:1}50%{opacity:0.5}}
+.hero{display:grid;grid-template-columns:1.2fr 0.8fr;gap:20px;margin-bottom:20px}
+.main-title{font-size:clamp(28px,4.5vw,52px);font-weight:900;line-height:0.9;letter-spacing:-0.03em}
+.main-title span.orange{color:#f97316}.main-title span.gray{color:#94a3b8}
+.sub{margin-top:12px;font-size:12px;color:#94a3b8;line-height:1.5;max-width:640px}
+.cards{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+.card{background:#121a2a;border:1px solid #1e293b;border-radius:16px;padding:14px}
+.card.extreme{border-color:rgba(249,115,22,0.5)}
+.card-label{font-family:'JetBrains Mono',monospace;font-size:9px;color:#64748b;text-transform:uppercase;margin-bottom:6px}
+.card-value{font-family:'JetBrains Mono',monospace;font-size:22px;font-weight:700;line-height:1}
+.card-desc{font-size:10px;color:#64748b;margin-top:4px;font-family:'JetBrains Mono',monospace}
+.bottom-bar{margin-top:16px;display:flex;flex-wrap:wrap;gap:8px}
+.pill{background:#121a2a;border:1px solid #1e293b;border-radius:20px;padding:6px 12px;font-family:'JetBrains Mono',monospace;font-size:11px;color:#cbd5e1}
+.pill b{color:#f1f5f9}.pill.orange{border-color:rgba(249,115,22,0.4);background:rgba(249,115,22,0.1)}
+@media(max-width:900px){.hero{grid-template-columns:1fr}.cards{grid-template-columns:1fr 1fr}}
+</style>
+</head>
+<body>
+<div class="grid-bg"></div>
+<div class="container">
+<div class="header"><div class="live"><div class="dot"></div> V16 • WEEK AHEAD • 26 SEPT 2026 • DALLAS, TEXAS <span style="margin-left:12px;opacity:0.6">EST 08:15 CDT • REYNIER MI</span></div><div>LIVE DESK</div></div>
+<div class="hero">
+<div>
+<div class="main-title">WEEK AHEAD: <span class="orange">PMI 58.4 + 10Y 5.11%</span><br>RBA 91% • CPI • NFP • IRÁN<br><span class="gray">HORMUZ SWITCH BINARIO</span></div>
+<div class="sub">Week Ahead (inflación EE.UU., RBA, NFP e Irán) confirma régimen: diplomacia iraní baja WTI a ~89 en titular FM-Witkoff y sube riesgo; PMI compuesto EE.UU. 58,4 max 5 años y manufacturero 52-57 vs 53,7 revierten bid hacia USD y yields. Goldman: Oct hike ~70%, ~37pb tightening fin año, UST 10a 5,11%. Semana que entra se decide en RBA (91%), CPI EE.UU. y NFP. Hormuz switch binario de Brent y oil-beta 30d EUR/GBP (0,93 / 0,99).</div>
+<div class="bottom-bar">
+<div class="pill orange"><b>PMI 58.4</b> max 5 años</div>
+<div class="pill"><b>WTI ~89</b> en titular FM-Witkoff</div>
+<div class="pill orange"><b>10Y 5.11%</b> Goldman 37pb</div>
+<div class="pill"><b>Fed Oct 73%</b> Dic 79%</div>
+<div class="pill"><b>RBA 91%</b> lunes</div>
+<div class="pill"><b>CL-EUR 0.93</b> CL-GBP 0.99</div>
+<div class="pill"><b>Expiries EUR 1.14</b> USD/JPY 160.50</div>
+</div>
+</div>
+<div class="cards">
+<div class="card extreme"><div class="card-label">PMI COMPUESTO</div><div class="card-value" style="color:#f97316">58.4</div><div class="card-desc">MAX 5 AÑOS • MFG 57 vs 53.7<br>SERV 58.7 vs 55.8 • 52-57 vs 53.7</div></div>
+<div class="card"><div class="card-label">WTI EN TITULAR</div><div class="card-value" style="color:#22c55e">~89</div><div class="card-desc">FM-WITKOFF • PROPUESTA IRANÍ 7 DÍAS<br>REUNIÓN 3H UNGA • OIL DOWN RISK ON</div></div>
+<div class="card"><div class="card-label">UST 10A</div><div class="card-value">5.11%</div><div class="card-desc">GOLDMAN OCT ~70% • 37PB TIGHTENING<br>SUBASTA 5A TAIL ~3pb</div></div>
+<div class="card"><div class="card-label">RBA / CPI / NFP</div><div class="card-value">91% / CPI / NFP</div><div class="card-desc">SEMANA DECISIVA • TEST PMI 58.4<br>EN PRECIOS Y EMPLEO</div></div>
+<div class="card"><div class="card-label">OIL-BETA 30D</div><div class="card-value" style="color:#f97316">0.93 / 0.99</div><div class="card-desc">CL-EUR 0.93 / CL-GBP 0.99<br>COT EUR -52k GBP -83k EXTREMO</div></div>
+<div class="card"><div class="card-label">HORMUZ SWITCH</div><div class="card-value">BINARIO</div><div class="card-desc">DEAL FASES = OIL DOWN RISK-ON<br>RECHAZO = BRENT >103-107</div></div>
+</div>
+</div>
+</div>
+</body>
+</html>
