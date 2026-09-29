@@ -1,7 +1,7 @@
 ---
 title: "Asia martes: stocks mínimo semana + oil bid + duration selloff - SPX -0.8% 10Y 5.24% Oro 4115"
 description: "Asia martes wrap stocks mínimo una semana oil bid duration selloff Wall Street lunes SPX -0.8% borra mes NQ -0.9/-1.1% UST 10a 5.24% +7pb 2a 4.94% Oro -4% a 4.115-4.136 mínimo 7 semanas Trump desmintió falsas notas alivio sanciones descongelación activos Hormuz no en precio deal USD/JPY 157.4 EUR 1.136 JOLTS Conference Board CPI España oil Fed fear."
-pubDatetime: 2026-09-29T07:30:00-05:00
+pubDatetime: 2026-09-29T01:20:00-05:00
 tags:
   - oil
   - brent
@@ -15,7 +15,7 @@ tags:
   - hormuz
 ---
 
-> **Dallas, Texas — 29 Sept 2026 07:30 CDT:** Asia martes: stocks a mínimo de una semana + oil bid + duration selloff. SPX -0,8% borra el mes, NQ -0,9/-1,1%. UST 10a 5,24% +7pb 2a 4,94% Oro -4% a ~4.115-4.136 mínimo 7 semanas. Trump desmintió como falsas notas alivio sanciones. Hormuz no está en precio de deal. USD/JPY 157,4 EUR 1,136 Hoy JOLTS + Conference Board CPI España.
+> **Dallas, Texas — 29 Sept 2026 01:20 CDT:** Asia martes: stocks a mínimo de una semana + oil bid + duration selloff. SPX -0,8% borra el mes, NQ -0,9/-1,1%. UST 10a 5,24% +7pb 2a 4,94% Oro -4% a ~4.115-4.136 mínimo 7 semanas. Trump desmintió como falsas notas alivio sanciones. Hormuz no está en precio de deal. USD/JPY 157,4 EUR 1,136 Hoy JOLTS + Conference Board CPI España.
 
 <iframe src="/reynier-market-insights/asia-martes-0930-v19.html" width="100%" height="850" style="border:1px solid #1e293b; border-radius:16px; background:#0a0e17;" loading="lazy"></iframe>
 
