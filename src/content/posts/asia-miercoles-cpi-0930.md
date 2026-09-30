@@ -1,7 +1,7 @@
 ---
 title: "Asia miércoles: stocks rally + bonds steady ahead of CPI - Oil down WTI 89.3 Brent 102.8 Fed Oct hold 55%"
 description: "Asia miércoles stocks rally bonds steady ahead of CPI Cambio régimen oil down WTI 89.3 Brent 102.8 -4-5$ vs martes flip Fed Oct a hold 55% hike solo 45% ayer 70% Dic hike 85% Yen 156.84 oro 4.183 MSCI Asia +0.8% tech SoftBank CPI EE.UU. evento día miss valida hold octubre hot devuelve Oct 70%+ Brent 107 oil-beta 30d enfría CL-EUR 0.58 CL-GBP 0.46."
-pubDatetime: 2026-09-30T07:45:00-05:00
+pubDatetime: 2026-09-29T07:45:00-05:00
 tags:
   - oil
   - brent
@@ -15,7 +15,7 @@ tags:
   - hormuz
 ---
 
-> **Dallas, Texas — 30 Sept 2026 07:45 CDT:** Asia miércoles: stocks rally + bonds steady ahead of CPI. Cambio régimen oil down WTI 89,3 Brent 102,8 -4-5$ vs martes y flip Fed Oct a hold 55% hike 45% ayer 70% Dic 85% Yen 156,84 oro 4.183 MSCI Asia +0,8% tech SoftBank CPI EE.UU. evento del día.
+> **Dallas, Texas — 29 Sept 2026 07:45 CDT:** Asia miércoles: stocks rally + bonds steady ahead of CPI. Cambio régimen oil down WTI 89,3 Brent 102,8 -4-5$ vs martes y flip Fed Oct a hold 55% hike 45% ayer 70% Dic 85% Yen 156,84 oro 4.183 MSCI Asia +0,8% tech SoftBank CPI EE.UU. evento del día.
 
 <iframe src="/reynier-market-insights/asia-miercoles-cpi-0930-v20.html" width="100%" height="850" style="border:1px solid #1e293b; border-radius:16px; background:#0a0e17;" loading="lazy"></iframe>
 
