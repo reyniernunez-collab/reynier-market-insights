@@ -11,7 +11,6 @@ tags:
   - fed
   - rba
   - market
-  - dallas
 ---
 
 > **Dallas, Texas — 22 Sept 2026:** El petróleo perforó 100: Brent **99,35** y WTI **94,69**. El beta 30d del crudo con EUR se estabilizó en 0,52 y con ES en -0,81: el shock de oferta ya no manda el FX europeo.
