@@ -6,10 +6,7 @@ featured: true
 tags:
     - brent
     - oil
-    - WTI
-    - market
-    - AI
-    - Samsung
+    - wti
 ---
 
 > **UPDATE 22 Sept 2026 - Dallas, Texas:** Brent +1.4% → $101.70 after losing $100 (-8$ in 4d, -3.4% Monday). My V4 liquidation call marked the bottom.
