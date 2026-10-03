@@ -92,8 +92,29 @@ interface ShareLink {
   linkTitle?: string;
 }
 
+export interface NewsletterConfig {
+  /** Render the signup form. Defaults to false. */
+  enabled: boolean;
+  /** Provider name, informational only (e.g. "buttondown"). */
+  provider?: string;
+  /** Form action URL given by your provider. Required when enabled. */
+  formAction?: string;
+  /** Name of the email input expected by the provider. Defaults to "email". */
+  emailFieldName?: string;
+}
+
+export type AnalyticsConfig =
+  | { provider: null }
+  | { provider: "plausible"; domain: string; src?: string }
+  | { provider: "umami"; websiteId: string; src?: string }
+  | { provider: "goatcounter"; code: string };
+
 interface AstroPaperConfig {
   site: SiteConfig;
+  /** Email newsletter signup hook (off by default). */
+  newsletter?: NewsletterConfig;
+  /** Analytics hook (off by default). */
+  analytics?: AnalyticsConfig;
   posts?: PostsConfig;
   features?: FeaturesConfig;
   /** Social profile links shown in header/footer */
@@ -123,6 +144,8 @@ export interface ResolvedAstroPaperConfig {
   features: Required<FeaturesConfig>;
   socials: SocialLink[];
   shareLinks: ShareLink[];
+  newsletter: NewsletterConfig;
+  analytics: AnalyticsConfig;
 }
 
 /**

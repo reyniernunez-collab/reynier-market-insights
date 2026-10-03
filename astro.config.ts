@@ -1,9 +1,4 @@
-import {
-  defineConfig,
-  envField,
-  fontProviders,
-  svgoOptimizer,
-} from "astro/config";
+import { defineConfig, envField, svgoOptimizer } from "astro/config";
 import tailwindcss from "@tailwindcss/vite";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
@@ -27,11 +22,17 @@ export default defineConfig({
     sitemap({
       filter: page =>
         config.features?.showArchives !== false || !page.endsWith("/archives/"),
+      // Adds <xhtml:link rel="alternate" hreflang> entries for ES/EN pairs.
+      i18n: {
+        defaultLocale: "es",
+        locales: { es: "es", en: "en" },
+      },
     }),
   ],
+  // Spanish is the default language (served at the root), English lives under /en/.
   i18n: {
-    locales: ["en"],
-    defaultLocale: "en",
+    locales: ["es", "en"],
+    defaultLocale: "es",
     routing: {
       prefixDefaultLocale: false,
     },
@@ -59,17 +60,6 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  fonts: [
-    {
-      name: "Google Sans Code",
-      cssVariable: "--font-google-sans-code",
-      provider: fontProviders.google(),
-      fallbacks: ["monospace"],
-      weights: [300, 400, 500, 600, 700],
-      styles: ["normal", "italic"],
-      formats: ["woff", "ttf"],
-    },
-  ],
   env: {
     schema: {
       PUBLIC_GOOGLE_SITE_VERIFICATION: envField.string({

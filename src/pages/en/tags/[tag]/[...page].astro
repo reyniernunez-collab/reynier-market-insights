@@ -1,0 +1,14 @@
+---
+// English version (/en/)
+import type { GetStaticPathsOptions } from "astro";
+import TagPage from "@/views/TagPage.astro";
+import { getTagPagePaths } from "@/utils/staticPaths";
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+  return getTagPagePaths("en", paginate);
+}
+
+const { page, tagName } = Astro.props;
+---
+
+<TagPage {page} {tagName} />

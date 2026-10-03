@@ -10,12 +10,31 @@ import IconX from "@/assets/icons/IconX.svg";
 import LinkButton from "./LinkButton.astro";
 import { stripBase, stripLocale } from "@/utils/withBase";
 import { useTranslations } from "@/i18n";
+import {
+  getDefaultAlternates,
+  otherLocales,
+  toLocale,
+  type Alternate,
+} from "@/i18n/locales";
 import config from "@/config";
+
+type Props = {
+  /** Language versions of the current page (defaults to same path per locale). */
+  alternates?: Alternate[];
+};
 
 const { site, features } = config;
 
-const locale = Astro.currentLocale ?? config.site.lang;
+const locale = toLocale(Astro.currentLocale);
 const t = useTranslations(locale);
+
+const { alternates = getDefaultAlternates(Astro.url, locale) } = Astro.props;
+const languageLinks = otherLocales(locale).map(l => ({
+  locale: l,
+  strings: useTranslations(l),
+  href:
+    alternates.find(a => a.locale === l)?.href ?? getRelativeLocaleUrl(l, ""),
+}));
 
 // Strip the base prefix so isActive comparisons work regardless of deploy subdirectory.
 // e.g. with base "/blog": "/blog/posts/slug" → "/posts/slug"
@@ -72,7 +91,7 @@ const isActive = (path: string) => {
       </button>
       <ul
         id="menu-items"
-        class="[&>li>a]:hover:text-accent mt-4 hidden w-44 grid-cols-2 place-content-center gap-2 sm:mt-0 sm:flex sm:w-auto sm:gap-x-5 sm:gap-y-0 sm:[&>li]:h-8 [&>li>a]:block [&>li>a]:px-4 [&>li>a]:py-3 [&>li>a]:text-center [&>li>a]:font-medium sm:[&>li>a]:px-2 sm:[&>li>a]:py-1"
+        class="[&>li>a]:hover:text-accent mt-4 hidden w-44 grid-cols-2 place-content-center gap-2 sm:mt-0 sm:flex sm:w-auto sm:gap-x-5 sm:gap-y-0 sm:[&>li]:h-8 [&>li>a]:block [&>li>a]:px-4 [&>li>a]:py-3 [&>li>a]:text-center [&>li>a]:font-medium [&>li>a]:whitespace-nowrap sm:[&>li>a]:px-2 sm:[&>li>a]:py-1"
       >
         <li class="col-span-2">
           <a
@@ -142,6 +161,23 @@ const isActive = (path: string) => {
               </LinkButton>
             </li>
           )
+        }
+        {
+          languageLinks.map(({ locale: l, strings, href }) => (
+            <li class="col-span-1 flex items-center justify-center">
+              <a
+                href={href}
+                hreflang={l}
+                lang={strings.meta.htmlLang}
+                title={strings.langSwitch.switchTo}
+                aria-label={strings.langSwitch.switchTo}
+                class="lang-switch border-border hover:border-accent hover:text-accent rounded-md border px-2! py-1! font-mono text-xs font-bold tracking-wider"
+                data-astro-reload
+              >
+                {strings.meta.shortName}
+              </a>
+            </li>
+          ))
         }
         {
           features.lightAndDarkMode && (

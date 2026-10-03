@@ -8,13 +8,13 @@ import userConfig from "@/astro-paper.config";
 import type { ResolvedAstroPaperConfig } from "./types/config";
 import { PUBLIC_GOOGLE_SITE_VERIFICATION } from "astro:env/client";
 
-const DEFAULT_OG_IMAGE = "default-og.jpg";
+const DEFAULT_OG_IMAGE = "og.png";
 
 const config: ResolvedAstroPaperConfig = {
   site: {
     ...userConfig.site,
     ogImage: userConfig.site.ogImage ?? DEFAULT_OG_IMAGE,
-    lang: userConfig.site.lang ?? "en",
+    lang: userConfig.site.lang ?? "es",
     timezone: userConfig.site.timezone ?? "UTC",
     dir: userConfig.site.dir ?? "ltr",
     googleVerification:
@@ -36,6 +36,8 @@ const config: ResolvedAstroPaperConfig = {
   },
   socials: userConfig.socials ?? [],
   shareLinks: userConfig.shareLinks ?? [],
+  newsletter: userConfig.newsletter ?? { enabled: false },
+  analytics: userConfig.analytics ?? { provider: null },
 };
 
 export default config;

@@ -1,0 +1,51 @@
+---
+/**
+ * Newsletter signup hook. Renders nothing until `newsletter.enabled` is true
+ * and `newsletter.formAction` is set in astro-paper.config.ts.
+ */
+import { useTranslations } from "@/i18n";
+import config from "@/config";
+
+const { newsletter } = config;
+const t = useTranslations(Astro.currentLocale);
+const show = newsletter.enabled && Boolean(newsletter.formAction);
+---
+
+{
+  show && (
+    <section
+      class="border-border bg-surface my-8 rounded-xl border p-5"
+      aria-labelledby="newsletter-title"
+      data-pagefind-ignore
+    >
+      <h2 id="newsletter-title" class="text-accent text-lg font-semibold">
+        {t.newsletter.title}
+      </h2>
+      <p class="text-muted-foreground mt-1 mb-3 text-sm">{t.newsletter.text}</p>
+      <form
+        action={newsletter.formAction}
+        method="post"
+        target="_blank"
+        class="flex flex-col gap-2 sm:flex-row"
+      >
+        <label for="newsletter-email" class="sr-only">
+          {t.newsletter.placeholder}
+        </label>
+        <input
+          id="newsletter-email"
+          type="email"
+          required
+          name={newsletter.emailFieldName ?? "email"}
+          placeholder={t.newsletter.placeholder}
+          class="border-border bg-background flex-1 rounded-md border px-3 py-2"
+        />
+        <button
+          type="submit"
+          class="bg-accent text-accent-foreground rounded-md px-4 py-2 font-semibold"
+        >
+          {t.newsletter.button}
+        </button>
+      </form>
+    </section>
+  )
+}

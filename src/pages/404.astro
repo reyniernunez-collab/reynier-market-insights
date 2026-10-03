@@ -3,31 +3,38 @@ import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import LinkButton from "@/components/LinkButton.astro";
-import { getRelativeLocaleUrl } from "astro:i18n";
-import { useTranslations } from "@/i18n";
+import { localizedUrl } from "@/i18n/locales";
 import config from "@/config";
 
-const locale = Astro.currentLocale ?? config.site.lang;
-const t = useTranslations(locale);
+// GitHub Pages serves a single 404.html for every language, so it's bilingual.
 ---
 
-<Layout title={`${t.notFound.title} | ${config.site.title}`}>
-  <Header />
+<Layout title={`404 | ${config.site.title}`} alternates={[]}>
+  <Header alternates={[{ locale: "en", href: localizedUrl("en", "") }]} />
 
   <main
     id="main-content"
     class="app-layout my-1 flex flex-1 items-center justify-center"
   >
-    <div class="mb-14 flex flex-col items-center justify-center">
+    <div class="mb-14 flex flex-col items-center justify-center text-center">
       <h1 class="text-accent text-9xl font-bold">404</h1>
-      <span aria-hidden="true"> ¯\_(ツ)_/¯ </span>
-      <p class="mt-4 text-2xl sm:text-3xl">{t.notFound.message}</p>
-      <LinkButton
-        href={getRelativeLocaleUrl(locale, "")}
-        class="my-6 text-lg underline decoration-dashed underline-offset-8"
-      >
-        {t.notFound.goHome}
-      </LinkButton>
+      <p class="mt-4 text-2xl sm:text-3xl">Página no encontrada</p>
+      <p class="text-muted-foreground mt-1 text-lg" lang="en">Page not found</p>
+      <div class="my-6 flex gap-6">
+        <LinkButton
+          href={localizedUrl("es", "")}
+          class="text-lg underline decoration-dashed underline-offset-8"
+        >
+          Volver al inicio
+        </LinkButton>
+        <LinkButton
+          href={localizedUrl("en", "")}
+          class="text-lg underline decoration-dashed underline-offset-8"
+          lang="en"
+        >
+          Go to the English home
+        </LinkButton>
+      </div>
     </div>
   </main>
 
