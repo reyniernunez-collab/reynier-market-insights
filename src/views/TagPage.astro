@@ -1,0 +1,71 @@
+---
+import type { Page } from "astro";
+import { type CollectionEntry, getCollection } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Main from "@/components/Main.astro";
+import Breadcrumb from "@/components/Breadcrumb.astro";
+import Card from "@/components/Card.astro";
+import Footer from "@/components/Footer.astro";
+import Pagination from "@/components/Pagination.astro";
+import { getTagCounterpart } from "@/utils/tagTranslations";
+import { useTranslations } from "@/i18n";
+import {
+  LOCALES,
+  localizedUrl,
+  toLocale,
+  type Alternate,
+} from "@/i18n/locales";
+import config from "@/config";
+
+type Props = {
+  page: Page<CollectionEntry<"posts">>;
+  tagName: string;
+};
+
+const { page, tagName } = Astro.props;
+const { tag } = Astro.params as { tag: string };
+
+const locale = toLocale(Astro.currentLocale);
+const t = useTranslations(locale);
+
+// Tags are translated (e.g. "oro" ↔ "gold"), so map to the equivalent tag page.
+const allPosts = await getCollection("posts");
+const hreflangAlternates: Alternate[] = LOCALES.flatMap(l => {
+  const counterpart = getTagCounterpart(allPosts, tag, locale, l);
+  return counterpart
+    ? [{ locale: l, href: localizedUrl(l, `tags/${counterpart}`) }]
+    : [];
+});
+// Language switcher: equivalent tag page, or the tag index if there is none.
+const alternates: Alternate[] = LOCALES.map(
+  l =>
+    hreflangAlternates.find(a => a.locale === l) ?? {
+      locale: l,
+      href: localizedUrl(l, "tags"),
+    }
+);
+---
+
+<Layout
+  title={`${t.pages.tagTitle}: ${tagName} | ${config.site.title}`}
+  description={`${t.pages.tagDesc} "${tagName}".`}
+  alternates={hreflangAlternates}
+>
+  <Header alternates={alternates} />
+
+  <Breadcrumb />
+
+  <Main
+    pageTitle={`${t.pages.tagTitle}: ${tagName}`}
+    pageDesc={`${t.pages.tagDesc} "${tagName}".`}
+  >
+    <ul>
+      {page.data.map(data => <Card {...data} />)}
+    </ul>
+  </Main>
+
+  <Pagination {page} />
+
+  <Footer noMarginTop={page.lastPage > 1} />
+</Layout>

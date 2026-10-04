@@ -1,0 +1,14 @@
+---
+// English version (/en/)
+import type { GetStaticPathsOptions } from "astro";
+import PostsPage from "@/views/PostsPage.astro";
+import { getPostsPagePaths } from "@/utils/staticPaths";
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+  return getPostsPagePaths("en", paginate);
+}
+
+const { page } = Astro.props;
+---
+
+<PostsPage {page} />

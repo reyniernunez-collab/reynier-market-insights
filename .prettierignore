@@ -15,3 +15,5 @@
 
 # Ignore MDX files
 *.mdx
+# Generated infographics (embedded as-is)
+/public/*.html

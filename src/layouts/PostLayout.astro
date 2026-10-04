@@ -1,5 +1,6 @@
 ---
 import Layout from "./Layout.astro";
+import type { Alternate } from "@/i18n/locales";
 import config from "@/config";
 
 type Props = {
@@ -9,18 +10,33 @@ type Props = {
   canonicalURL?: string;
   pubDatetime?: Date;
   modDatetime?: Date | null;
+  alternates?: Alternate[];
+  /** Language of the article content (may differ from the UI on fallback pages). */
+  inLanguage?: string;
 };
 
 const { site } = config;
 
-const { title, description, ogImage, canonicalURL, pubDatetime, modDatetime } =
-  Astro.props;
+const {
+  title,
+  description,
+  ogImage,
+  canonicalURL,
+  pubDatetime,
+  modDatetime,
+  alternates,
+  inLanguage,
+} = Astro.props;
 
 const structuredData = {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   headline: title ?? site.title,
+  ...(description && { description }),
+  ...(inLanguage && { inLanguage }),
   image: ogImage,
+  mainEntityOfPage:
+    canonicalURL ?? new URL(Astro.url.pathname, Astro.site).href,
   ...(pubDatetime && { datePublished: pubDatetime.toISOString() }),
   ...(modDatetime && { dateModified: modDatetime.toISOString() }),
   author: [
@@ -30,14 +46,23 @@ const structuredData = {
       ...(site.profile && { url: site.profile }),
     },
   ],
+  publisher: {
+    "@type": "Organization",
+    name: site.title,
+    url: site.url,
+  },
 };
 ---
 
-<Layout {title} {description} {ogImage} {canonicalURL}>
+<Layout
+  {title}
+  {description}
+  {ogImage}
+  {canonicalURL}
+  {alternates}
+  ogType="article"
+>
   <Fragment slot="head">
-    <!-- Override og:type for article pages -->
-    <meta property="og:type" content="article" />
-
     {
       pubDatetime && (
         <meta

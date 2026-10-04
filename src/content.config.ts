@@ -21,6 +21,10 @@ const posts = defineCollection({
       canonicalURL: z.string().optional(),
       hideEditPost: z.boolean().optional(),
       timezone: z.string().optional(),
+      /** 3–5 bullets shown in the "Lo esencial / Key takeaways" box. */
+      takeaways: z.array(z.string()).optional(),
+      /** Sources already cited in the post, shown at the end. */
+      sources: z.array(z.string()).optional(),
     }),
 });
 

@@ -1,4 +1,20 @@
 export interface UIStrings {
+  /** BCP-47 tag used for <html lang>, og:locale, dates, etc. */
+  meta: {
+    htmlLang: string;
+    ogLocale: string;
+    /** Human name of this language, in this language (e.g. "Español"). */
+    languageName: string;
+    /** Short code shown in the language switcher (e.g. "ES"). */
+    shortName: string;
+  };
+  site: {
+    description: string;
+  };
+  langSwitch: {
+    /** aria-label / title for the link that switches TO this language. */
+    switchTo: string;
+  };
   nav: {
     home: string;
     posts: string;
@@ -19,6 +35,14 @@ export interface UIStrings {
     editPage: string;
     previousPost: string;
     nextPost: string;
+    readingTime: string;
+    keyTakeaways: string;
+    sources: string;
+    infographic: string;
+    openInfographic: string;
+    infographicSpanishOnly: string;
+    fallbackNotice: string;
+    availableIn: string;
   };
   pagination: {
     prev: string;
@@ -26,6 +50,10 @@ export interface UIStrings {
     page: string;
   };
   home: {
+    heroTitle: string;
+    heroText: string;
+    heroFollowBefore: string;
+    heroFollowAfter: string;
     socialLinks: string;
     featured: string;
     recentPosts: string;
@@ -34,6 +62,13 @@ export interface UIStrings {
   footer: {
     copyright: string;
     allRightsReserved: string;
+    disclaimer: string;
+  };
+  newsletter: {
+    title: string;
+    text: string;
+    placeholder: string;
+    button: string;
   };
   pages: {
     tagTitle: string;

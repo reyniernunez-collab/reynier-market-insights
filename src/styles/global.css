@@ -1,92 +1,78 @@
-/* global.css FINAL - Orange high contrast + fix visited purple */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap');
+@import "tailwindcss";
+@import "./theme.css";
+@import "./typography.css";
+@import "rehype-callouts/theme/obsidian";
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
-html { background: #0a0e17 !important; }
-body {
-  background: #0a0e17 !important;
-  color: #f1f5f9 !important;
-  font-family: 'Inter', sans-serif !important;
-}
-
-/* FIX MENU HORIZONTAL - mantener */
-header ul, header nav ul, #main-menu ul, .nav-menu ul {
-  list-style: none !important;
-  display: flex !important;
-  flex-direction: row !important;
-  gap: 1.25rem !important;
-  margin: 0 !important; padding: 0 !important;
-  background: transparent !important; border: none !important;
-}
-header li, header nav li { list-style: none !important; display: inline-flex !important; }
-header li::marker, header nav li::marker { display: none !important; content: none !important; }
-header li::before { display: none !important; }
-
-/* LINKS - FORZAR NARANJA, NUNCA MORADO */
-a, a:link, a:visited {
-  color: #fb923c !important;
-  text-decoration: none !important;
-}
-a:hover, a:focus {
-  color: #f97316 !important;
+@layer base {
+  * {
+    @apply border-border outline-accent/75;
+    scrollbar-width: auto;
+    scrollbar-color: var(--color-muted) transparent;
+  }
+  a,
+  button,
+  #main-content {
+    @apply outline-accent outline-offset-1 focus-visible:no-underline focus-visible:outline-2 focus-visible:outline-dashed;
+  }
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
 }
 
-/* Títulos de posts en lista Posts - naranja brillante */
-main a, .posts-list a, article a, h1 a, h2 a, h3 a {
-  color: #fb923c !important;
-}
-main a:visited, .posts-list a:visited {
-  color: #fb923c !important;
+@utility max-w-app {
+  @apply max-w-3xl;
 }
 
-/* Posts page title - el que sale morado en tu captura */
-a[href*="/posts/"] {
-  color: #fb923c !important;
-  border-bottom: 1px dashed rgba(251,146,60,0.4) !important;
-}
-a[href*="/posts/"]:hover {
-  color: #f97316 !important;
-  border-bottom: 1px solid #f97316 !important;
+@utility app-layout {
+  @apply max-w-app mx-auto w-full px-4;
 }
 
-/* HIDE # anchors */
-.app-prose h2 a, .app-prose h3 a, .prose h2 a, .prose h3 a {
-  opacity: 0 !important; border: none !important; margin-left: 0.4rem !important; color: #f97316 !important;
-}
-.app-prose h2:hover a, .app-prose h3:hover a { opacity: 0.7 !important; }
-
-/* BULLETS NARANJA */
-.app-prose ul { list-style: none !important; padding-left: 0 !important; }
-.app-prose ul li { position: relative !important; padding-left: 1.5rem !important; margin-bottom: 0.5rem !important; }
-.app-prose ul li::before {
-  content: "•"; position: absolute; left: 0;
-  color: #f97316 !important; font-weight: bold;
-}
-.app-prose ol li::marker {
-  color: #f97316 !important;
-  font-family: 'JetBrains Mono', monospace !important; font-weight: 700 !important;
+@utility active-nav {
+  @apply underline decoration-wavy decoration-2 underline-offset-8;
 }
 
-/* TABLES & BLOCKQUOTE */
-.app-prose table {
-  background: #121a2a !important; border: 1px solid #1e293b !important;
-  border-radius: 12px !important; overflow: hidden !important; font-size: 13px !important;
-}
-.app-prose th { background: #0a0e17 !important; color: #94a3b8 !important; text-transform: uppercase !important; font-size: 11px !important; }
-.app-prose td { border-bottom: 1px solid #1e293b !important; font-family: 'JetBrains Mono', monospace !important; color: #cbd5e1 !important; }
-.app-prose blockquote {
-  background: #121a2a !important; border: 1px solid #1e293b !important;
-  border-left: 3px solid #f97316 !important; border-radius: 0 12px 12px 0 !important;
+:target {
+  scroll-margin-block: 1rem;
 }
 
-/* TAGS */
-a[href*="/tags/"] {
-  background: rgba(249,115,22,0.12) !important;
-  border: 1px solid rgba(249,115,22,0.3) !important;
-  color: #fb923c !important;
-  padding: 4px 12px !important; border-radius: 20px !important;
-  font-family: 'JetBrains Mono', monospace !important; font-size: 12px !important; font-weight: 600 !important;
+/* ===== Brand components ===== */
+@layer components {
+  /* "Lo esencial / Key takeaways" box at the top of each post */
+  .takeaways {
+    @apply border-accent/40 bg-surface my-6 rounded-xl border p-4 sm:p-5;
+    border-inline-start-width: 4px;
+    border-inline-start-color: var(--accent);
+  }
+  .takeaways h2 {
+    @apply text-accent m-0 mb-2 font-mono text-xs font-bold tracking-widest uppercase;
+  }
+  .takeaways ul {
+    @apply m-0 list-disc space-y-1.5 ps-5;
+  }
+  .takeaways li {
+    @apply marker:text-accent text-[0.95rem] leading-relaxed;
+  }
+
+  /* Infographics embedded with <iframe class="infographic"> */
+  .infographic {
+    @apply border-border block w-full rounded-2xl border;
+    background: #0a0e17;
+    min-height: 480px;
+  }
+  .infographic-link {
+    @apply text-muted-foreground mt-2 mb-6 block text-sm;
+  }
+
+  /* Translation / fallback notice */
+  .lang-notice {
+    @apply border-border bg-surface text-muted-foreground my-4 rounded-lg border px-4 py-3 text-sm;
+  }
+
+  /* Sources line */
+  .post-sources {
+    @apply text-muted-foreground mt-8 text-sm;
+  }
 }

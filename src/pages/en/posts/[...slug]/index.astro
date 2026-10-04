@@ -1,0 +1,13 @@
+---
+// English version (/en/)
+import PostPage from "@/views/PostPage.astro";
+import { getPostDetailPaths } from "@/utils/staticPaths";
+
+export async function getStaticPaths() {
+  return getPostDetailPaths("en");
+}
+
+const props = Astro.props;
+---
+
+<PostPage {...props} />

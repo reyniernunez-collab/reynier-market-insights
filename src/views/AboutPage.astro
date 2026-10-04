@@ -1,0 +1,38 @@
+---
+import { getEntry, render } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Breadcrumb from "@/components/Breadcrumb.astro";
+import Footer from "@/components/Footer.astro";
+import { useTranslations } from "@/i18n";
+import { toLocale } from "@/i18n/locales";
+import config from "@/config";
+
+const locale = toLocale(Astro.currentLocale);
+const t = useTranslations(locale);
+
+const about =
+  (await getEntry("pages", `${locale}/about`)) ??
+  (await getEntry("pages", "es/about"));
+
+if (!about) {
+  throw new Error("No about page found");
+}
+
+const { Content } = await render(about);
+---
+
+<Layout
+  title={`${about.data.title} | ${config.site.title}`}
+  description={about.data.description ?? t.site.description}
+>
+  <Header />
+  <Breadcrumb />
+  <main id="main-content" class="app-layout pb-12">
+    <section id="about" class="app-prose max-w-app mt-4">
+      <h1 class="text-2xl font-semibold sm:text-3xl">{about.data.title}</h1>
+      <Content />
+    </section>
+  </main>
+  <Footer />
+</Layout>

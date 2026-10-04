@@ -1,26 +1,6 @@
 ---
-import { getEntry, render } from "astro:content";
-import Layout from "../layouts/Layout.astro";
-import Header from "../components/Header.astro";
-import Footer from "../components/Footer.astro";
-import SITE from "../config";
-
-const about = await getEntry("pages", "about");
-
-if (!about) {
-  throw new Error("No about page found");
-}
-
-const { Content } = await render(about);
+// Spanish (default locale, served at the root)
+import AboutPage from "@/views/AboutPage.astro";
 ---
 
-<Layout title="About | Reynier Market Insights">
-  <Header activeNav="about" />
-  <main id="main-content" class="mx-auto w-full max-w-3xl px-4 pb-12 pt-8">
-    <section id="about" class="prose max-w-3xl prose-img:border-0">
-      <h1 class="text-2xl font-semibold sm:text-3xl">{about.data.title}</h1>
-      <Content />
-    </section>
-  </main>
-  <Footer />
-</Layout>
+<AboutPage />

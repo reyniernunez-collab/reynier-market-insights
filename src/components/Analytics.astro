@@ -1,0 +1,40 @@
+---
+/**
+ * Analytics hook. Renders nothing until `analytics` is configured in
+ * astro-paper.config.ts (no accounts are created by the site itself).
+ */
+import config from "@/config";
+
+const analytics = config.analytics;
+---
+
+{
+  analytics.provider === "plausible" && (
+    <script
+      is:inline
+      defer
+      data-domain={analytics.domain}
+      src={analytics.src ?? "https://plausible.io/js/script.js"}
+    />
+  )
+}
+{
+  analytics.provider === "umami" && (
+    <script
+      is:inline
+      defer
+      data-website-id={analytics.websiteId}
+      src={analytics.src ?? "https://cloud.umami.is/script.js"}
+    />
+  )
+}
+{
+  analytics.provider === "goatcounter" && (
+    <script
+      is:inline
+      async
+      data-goatcounter={`https://${analytics.code}.goatcounter.com/count`}
+      src="//gc.zgo.at/count.js"
+    />
+  )
+}
