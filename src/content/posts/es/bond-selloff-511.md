@@ -16,8 +16,6 @@ takeaways:
   - "El yield promedio de la deuda global ronda el 4 % y la presión se extiende a Japón, Australia y Nueva Zelanda."
   - "Brent ~102 (−0,7 %), oro ~4.290 (−1,7 %); Asia −0,6 % y China continental −1 % pese a la tregua comercial de 2 meses."
   - "Los yields toman el mando: el oil-beta deja de ser el driver principal."
-sources:
-  - "Departamento del Tesoro de EE.UU. (subasta a 5 años; declaraciones de Bessent)"
 ---
 
 > **Dallas, Texas — 24 Sept 2026:** La venta global de bonos se extendió: datos económicos fuertes en EE.UU. y una demanda floja en la subasta del Tesoro a cinco años empujaron los yields al alza. El 10 años de EE.UU. se mantuvo cerca de **5,11 %** en la sesión asiática tras el **salto de 15 puntos básicos** del miércoles, el mayor desde el turmoil que siguió al anuncio arancelario de Trump en abril de 2025.

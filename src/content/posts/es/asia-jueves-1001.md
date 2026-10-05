@@ -17,10 +17,6 @@ takeaways:
   - "El dólar cierra el mes firme: EUR 1,1324 y USD/JPY 158,29."
   - "El <em>risk-on</em> es sectorial (memoria/IA), no de duration: los yields no revierten del todo."
   - "El NFP de mañana es lo único que puede devolver octubre a 50 %+ o matar diciembre."
-sources:
-  - "JPMorgan (cobertura de crudo y productos)"
-  - "ADP"
-  - "Resultados de Micron"
 ---
 
 > **Dallas, Texas — 1 Oct 2026 01:30 CDT:** Futuros de EE.UU. en verde y Nikkei +2,5–2,9 % tras el beat de Micron en EPS y guía. El dólar cierra el mes firme y el PCE frío de ayer deja a la Fed en hold para octubre. El NFP de mañana es lo único que puede devolver octubre a 50 %+ o matar diciembre.

@@ -16,9 +16,6 @@ takeaways:
   - "Stocks keep going (ES 7829, NQ 30779); JPM sees a broader tech rally."
   - "The Fed isn't softening: Dec hike 78%; the ECB's October moves to a 53% hold and the Sept 29 RBA stays at 86%."
   - "Key risk: Brent <95 / WTI <90 widens the drag on CAD; only a new East-West / Houthi attack reverses the bearish bias."
-sources:
-  - "JPMorgan"
-  - "Goldman Sachs"
 ---
 
 > **Dallas, Texas — Sept 22, 2026:** Oil broke below 100: Brent **99.35** and WTI **94.69**. Crude's 30d beta with EUR stabilized at 0.52 and with ES at -0.81: the supply shock no longer drives European FX.

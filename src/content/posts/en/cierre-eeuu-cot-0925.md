@@ -19,8 +19,6 @@ takeaways:
   - "The Fed isn't unwinding: Oct 73% / Dec 79%; specs add 2-year shorts to −907k."
   - "Monday expiries: EUR 1.1400 and USD/JPY 160.50 / 158.25 / 156.75; RBA 91%."
   - "A Hormuz deal is the only shock that flips Brent and triggers a EUR/GBP squeeze."
-sources:
-  - "CFTC (COT report)"
 ---
 
 > **Dallas, Texas — Sept 25, 2026, 08:55 CDT:** US close: stocks rebound and oil slips on Iran diplomacy. COT as of Sept 22: EUR -52,334, GBP -82,568, JPY +71,982 (-48,377 on the week). USD remains the bullish benchmark.

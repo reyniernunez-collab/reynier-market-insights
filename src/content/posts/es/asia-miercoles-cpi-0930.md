@@ -19,8 +19,6 @@ takeaways:
   - "MSCI Asia +0,8 % con tech y SoftBank; yen en 156,84 y el oro rebota a 4.183."
   - "El oil-beta 30d se enfría (CL-EUR 0,58 / CL-GBP 0,46)."
   - "CPI de EE.UU.: un miss valida el hold de octubre; un dato caliente devuelve octubre a 70 %+ y Brent a 107."
-sources:
-  - "Deutsche Bank"
 ---
 
 > **Dallas, Texas — 29 Sept 2026 07:45 CDT:** Asia miércoles: stocks rally + bonds steady ahead of CPI. Cambio régimen oil down WTI 89,3 Brent 102,8 -4-5$ vs martes y flip Fed Oct a hold 55% hike 45% ayer 70% Dic 85% Yen 156,84 oro 4.183 MSCI Asia +0,8% tech SoftBank CPI EE.UU. evento del día.

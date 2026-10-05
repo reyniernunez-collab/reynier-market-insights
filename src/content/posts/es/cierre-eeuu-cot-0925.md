@@ -19,8 +19,6 @@ takeaways:
   - "La Fed no se desarma: Oct 73 % / Dic 79 %; los specs aumentan shorts de 2a a −907k."
   - "Expiries del lunes: EUR 1,1400 y USD/JPY 160,50 / 158,25 / 156,75; RBA 91 %."
   - "Un deal sobre Hormuz es el único shock que invierte el Brent y activa un squeeze de EUR/GBP."
-sources:
-  - "CFTC (informe COT)"
 ---
 
 > **Dallas, Texas — 25 Sept 2026 08:55 CDT:** Cierre EE.UU.: stocks rebound y petróleo a la baja por diplomacia Irán. COT al 22-sep EUR -52.334 GBP -82.568 JPY +71.982 -48.377 semana. USD referencia alcista.
