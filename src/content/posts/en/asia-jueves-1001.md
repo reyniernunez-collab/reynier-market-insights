@@ -17,10 +17,6 @@ takeaways:
   - "The dollar closes the month firm: EUR 1.1324 and USD/JPY 158.29."
   - "The <em>risk-on</em> is sector-driven (memory/AI), not a duration move: yields haven't fully reversed."
   - "Tomorrow's NFP is the only thing that can push October back to 50%+ or kill December."
-sources:
-  - "JPMorgan (crude and products coverage)"
-  - "ADP"
-  - "Micron earnings"
 ---
 
 > **Dallas, Texas — Oct 1, 2026, 01:30 CDT:** US futures in the green and the Nikkei +2.5–2.9% after Micron beat on EPS and guidance. The dollar closes the month firm, and yesterday's cool PCE leaves the Fed on hold for October. Tomorrow's NFP is the only thing that can push October back to 50%+ or kill December.

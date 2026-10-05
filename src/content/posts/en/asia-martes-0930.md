@@ -19,11 +19,6 @@ takeaways:
   - "Gold −4% to ~4,115–4,136, a 7-week low: it isn't acting as a safe haven against 5.24% yields."
   - "Trump denied reports of sanctions relief as false; Hormuz isn't priced for a deal."
   - "Calendar: JOLTS and Conference Board confidence today, core PCE on Wednesday and NFP on Friday."
-sources:
-  - "Deutsche Bank"
-  - "Société Générale"
-  - "Conference Board"
-  - "BEA"
 ---
 
 > **Dallas, Texas — Sept 29, 2026, 01:20 CDT:** Asia Tuesday: stocks at a one-week low + oil bid + duration selloff. SPX -0.8% erases the month, NQ -0.9/-1.1%. 10-year UST 5.24% +7bp, 2-year 4.94%. Gold -4% to ~4,115-4,136, a 7-week low. Trump denied reports of sanctions relief as false. Hormuz isn't priced for a deal. USD/JPY 157.4, EUR 1.136. Today: JOLTS + Conference Board, Spain CPI.

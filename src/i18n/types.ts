@@ -36,6 +36,8 @@ export interface UIStrings {
     previousPost: string;
     nextPost: string;
     readingTime: string;
+    /** Call-to-action shown at the end of each post card */
+    readMore: string;
     keyTakeaways: string;
     sources: string;
     infographic: string;

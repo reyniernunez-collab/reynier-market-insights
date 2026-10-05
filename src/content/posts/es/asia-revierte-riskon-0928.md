@@ -19,9 +19,6 @@ takeaways:
   - "El régimen vuelve a <em>oil + duration + Fed hike</em>; el deal ya no está en precio."
   - "Doble cola: un deal bajaría el petróleo; un ban de exportaciones de diésel subiría los crack spreads y el CPI."
   - "Hoy decide el RBA (hike al 91 %), con el ACGB 10a en 5,42 %."
-sources:
-  - "Reuters"
-  - "Axios"
 ---
 
 > **Dallas, Texas — 27 Sept 2026 08:20 CDT:** Asia revierte el risk-on del viernes: Trump rechazó la propuesta iraní de reabrir Hormuz en 7 días. Brent +1,5% a +2% a 105,7–106,5; WTI 93,3–93,8. UST 2a hasta 4,90%; 10a ~5,20%. Oro ~4.233 (-1,2%). USD/JPY 157,8. EUR 1,1385. Régimen vuelve a oil + duration + Fed hike. Hoy RBA 91%.
@@ -36,7 +33,7 @@ Asia revierte el _risk-on_ del viernes: Trump rechazó la propuesta iraní de re
 **Análisis detallado**
 
 **Datos y ciclo**  
-Sin dato nuevo de EE.UU.; el driver es geopolítica → inflación embebida (diésel en máximos vs crudo, capacidad de refining). Reuters: gains de Brent en el mes ~18 %. El path Fed Oct **73 %** / Dic **79 %** se reafirma, no se relaja.
+Sin dato nuevo de EE.UU.; el driver es geopolítica → inflación embebida (diésel en máximos vs crudo, capacidad de refining). Gains de Brent en el mes: ~18 %. El path Fed Oct **73 %** / Dic **79 %** se reafirma, no se relaja.
 
 **Geopolítica**  
 Trump rechaza el plan de 7 días; Irán no suaviza condiciones. Axios: Trump espera que las negociaciones _se reanuden esta semana_ y evalúa "muy en serio" un ban de exportaciones de diésel. Doble cola: deal (oil down) vs ban diésel (crack spreads / CPI).

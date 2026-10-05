@@ -19,8 +19,6 @@ takeaways:
   - "MSCI Asia +0.8% on tech and SoftBank; the yen at 156.84 and gold bounces to 4,183."
   - "The 30d oil-beta cools (CL-EUR 0.58 / CL-GBP 0.46)."
   - "US CPI: a miss validates the October hold; a hot print sends October back to 70%+ and Brent to 107."
-sources:
-  - "Deutsche Bank"
 ---
 
 > **Dallas, Texas — Sept 29, 2026, 07:45 CDT:** Asia Wednesday: stocks rally + bonds steady ahead of CPI. Regime change: oil down, WTI 89.3, Brent 102.8, -$4-5 vs Tuesday, and the Fed's October flips to hold 55%, hike 45% (70% yesterday), Dec 85%. Yen 156.84, gold 4,183, MSCI Asia +0.8% on tech and SoftBank. US CPI is the event of the day.

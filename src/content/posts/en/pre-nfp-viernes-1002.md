@@ -17,10 +17,6 @@ takeaways:
   - "The BoJ was less hawkish than feared: no support for an October hike or for 50 bp."
   - "CHF absorbs the safe-haven flow; Brent at 102 carries a military premium, with no measurable barrel disruption."
   - "The NFP (consensus ~90k, unemployment 4.1%) is the only print that can reopen October."
-sources:
-  - "FactSet"
-  - "MUFG"
-  - "BoJ (Summary of Opinions)"
 ---
 
 > **Dallas, Texas — Oct 2, 2026, 05:30 CDT:** A night of _duration stress + safe havens_, not equity panic. The 10-year UST hit 5.34% —its highest since 2002— and pulled back to ~5.25%; France (OAT-Bund >140 bp) and the military build-up in the Gulf pushed Treasuries, the dollar and the franc. Fed Oct hold 74% / Dec hike 73%. The 08:30 ET NFP (consensus ~90k, unemployment 4.1%) is the only print that can reopen October.

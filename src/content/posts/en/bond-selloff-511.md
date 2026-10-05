@@ -16,8 +16,6 @@ takeaways:
   - "The average global government yield is near 4%, and the pressure spreads to Japan, Australia and New Zealand."
   - "Brent ~102 (−0.7%), gold ~4,290 (−1.7%); Asia −0.6% and mainland China −1% despite the 2-month trade truce."
   - "Yields take control: the oil-beta is no longer the main driver."
-sources:
-  - "US Treasury (5-year auction; Bessent's remarks)"
 ---
 
 > **Dallas, Texas — Sept 24, 2026:** The global bond selloff kept going: strong US economic data and soft demand at the five-year Treasury auction pushed yields higher. The US 10-year held near **5.11%** in Asian trading after Wednesday's **15-basis-point jump**, the largest since the turmoil that followed Trump's April 2025 tariff announcement.

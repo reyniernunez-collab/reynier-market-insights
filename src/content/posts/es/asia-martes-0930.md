@@ -19,11 +19,6 @@ takeaways:
   - "Oro −4 % a ~4.115–4.136, mínimo de 7 semanas: no actúa de refugio frente a yields de 5,24 %."
   - "Trump desmintió como falsas las notas de alivio de sanciones; Hormuz no está en precio de deal."
   - "Agenda: JOLTS y confianza del Conference Board hoy, core PCE el miércoles y NFP el viernes."
-sources:
-  - "Deutsche Bank"
-  - "Société Générale"
-  - "Conference Board"
-  - "BEA"
 ---
 
 > **Dallas, Texas — 29 Sept 2026 01:20 CDT:** Asia martes: stocks a mínimo de una semana + oil bid + duration selloff. SPX -0,8% borra el mes, NQ -0,9/-1,1%. UST 10a 5,24% +7pb 2a 4,94% Oro -4% a ~4.115-4.136 mínimo 7 semanas. Trump desmintió como falsas notas alivio sanciones. Hormuz no está en precio de deal. USD/JPY 157,4 EUR 1,136 Hoy JOLTS + Conference Board CPI España.

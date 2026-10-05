@@ -18,10 +18,6 @@ takeaways:
   - "Fed: Oct hike ~70 % y diciembre fully priced; PMI compuesto de EE.UU. 58,4 (máximo de 5 años)."
   - "USD bid y USD/JPY cerca de 160, con riesgo de intervención; el RBA sigue en 91 %."
   - "Un deal por fases sobre Hormuz es el único catalizador de reversión inmediata del Brent."
-sources:
-  - "Westpac"
-  - "MUFG"
-  - "Deutsche Bank"
 ---
 
 > **Dallas, Texas — 24 Sept 2026:** El régimen es oil + duration. Brent rebotó a 103–107 y WTI a 93–95 después de que Irán reiterara que Hormuz permanece cerrado mientras duren sanciones y bloqueo. 10Y en 5.11% máximo desde 2007. USD bid; JPY cerca de 160 riesgo intervención.

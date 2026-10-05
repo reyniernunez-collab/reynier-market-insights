@@ -17,10 +17,6 @@ takeaways:
   - "El BoJ fue menos hawkish de lo temido: sin apoyo a subir en octubre ni a 50 pb."
   - "El CHF absorbe el flujo de refugio; Brent 102 con prima militar, sin disrupción medible de barriles."
   - "El NFP (consenso ~90k, paro 4,1 %) es el único dato que puede reabrir octubre."
-sources:
-  - "FactSet"
-  - "MUFG"
-  - "BoJ (Summary of Opinions)"
 ---
 
 > **Dallas, Texas — 2 Oct 2026 05:30 CDT:** Noche de _duration stress + refugio_, no de pánico de equity. El UST 10 años tocó 5,34 % —máximo desde 2002— y reculó a ~5,25 %; Francia (OAT-Bund >140 pb) y el build-up militar en el Golfo empujaron Treasuries, dólar y franco. Fed Oct hold 74 % / Dic hike 73 %. El NFP de las 08:30 ET (consenso ~90k, paro 4,1 %) es el único print que puede reabrir octubre.
