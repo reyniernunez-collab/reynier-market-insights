@@ -1,103 +1,88 @@
 ---
-title: "Week ahead, Oct 5–9: Fed minutes, bonds near highs and oil above $100"
-description: "No CPI or payrolls: the FOMC minutes, $119B in Treasury auctions with the 10-year near 24-year highs, and Brent above $100 set the tone."
-pubDatetime: 2026-10-04T21:00:00-05:00
+title: "Week of Oct 5–9: services, Fed minutes and Canada jobs put the pause to the test"
+description: "After a 29k NFP, markets see a 78.4% October hold. ISM services, the FOMC minutes, Canada jobs and Michigan will test that view."
+pubDatetime: 2026-10-05T00:45:00-05:00
 tags:
   - fed
+  - nfp
   - bonds
-  - treasuries
+  - forex
   - oil
-  - brent
-  - gold
-  - hormuz
-  - stocks
 takeaways:
-  - "A light data week (no CPI, no payrolls): the catalysts are the <strong>FOMC minutes</strong> (Wednesday 1:00 PM CT), Treasury auctions and oil."
-  - "Fed: hiked 25 bp to 3.75–4.00% in September (12-0); CME FedWatch puts an October hike at <strong>22%</strong>, down from 64% a week ago."
-  - "Bonds: the 10-year sits at <strong>5.26%</strong> after hitting 5.34% on Thursday (a 24-year high), with $119B in 3-, 10- and 30-year auctions."
-  - "Oil: Brent <strong>$102.20</strong> / WTI $90.75 after the Houthis' claimed attack on Aramco (unconfirmed by Riyadh) and Iran keeping Hormuz shut."
-  - "Calendar: ISM services (Monday), minutes (Wednesday), PepsiCo (Thursday), Delta and Canada jobs (Friday); September CPI on Oct 14."
+  - "Thesis: US services, Fed communication and Canada's jobs report test a market that leans toward holding rates in the short term."
+  - "The NFP (+29k vs 90k expected, −60k revisions, 4.2% unemployment, 3.0% y/y wages) pushed October hold odds to <strong>78.4%</strong>; ~25.3 bp of tightening is priced by December."
+  - "ISM services (Monday): employment comes in from <strong>47.8</strong> and prices from <strong>72.6</strong>, the highest since 2022; a hiring rebound with high prices would reopen October."
+  - "FOMC minutes (Wednesday 1:00 PM CT): broad support for more hikes after the 12-0 decision, or a divided committee?"
+  - "Friday: Canada jobs (consensus +7K per my source, +9.5K per Trading Economics) and Michigan (consensus 47.8 vs 48.1 prior)."
 ---
 
-> **Dallas, Texas — Oct 4, 2026, Sunday evening CT:** A light data week — no CPI, no payrolls — but plenty of catalysts: the FOMC minutes on Wednesday, a bond market near 24-year highs that has to absorb $119B in auctions, and oil above $100 after the attack the Houthis say they launched on Aramco, with US–Iran tension over Hormuz in the background.
+> **Dallas, Texas — Oct 5, 2026, 12:45 AM CT:** US services, Fed communication and Canada's jobs report are this week's three tests for a market that, after the NFP, leans toward holding rates in the short term. There's no CPI and no payrolls: the exam comes from Monday's ISM, Wednesday's minutes and Friday's double release.
 
-## Executive Summary
+## How we got here: the NFP changed the script
 
-In September the Fed hiked **25 bp to 3.75–4.00%** in a unanimous 12-0 vote. Its projections put the median rate at **4.1%** for both 2026 and 2027, and 2026 core PCE at **3.4%**. Wednesday's question is whether the minutes show broad support for more hikes or a divided committee. The market has already scaled back: CME FedWatch shows the odds of an October hike down to **22%**, from **64%** a week earlier, after softer payrolls.
+In September the Fed hiked **25 bp to 3.75–4.00%** in a unanimous 12-0 vote and moved its path higher: a median rate of **4.1%** for 2026 and 2027. Against that backdrop, the market went into the NFP thinking about another hike soon.
 
-At Sunday's Asian close, the **10-year** is at **5.26%** and the **2-year** at **4.81%**, after the 10-year touched **5.34%** on Thursday, a 24-year high. **Brent** trades at **$102.20** and **WTI** at **$90.75**; **gold** at **$4,154**. Nasdaq futures are up 0.3% and S&P futures up 0.1%.
+The data changed that. Payrolls of **+29k** against **90k** expected, revisions to the prior two months of **−60k**, unemployment at **4.2%** and wages at **3.0% year over year**, the slowest pace since 2021. It's not a rate-cut number, but it takes away the urgency. The result: the odds of **holding rates in October rise to 78.4%** (CME FedWatch) and the tightening priced for **December stays around 25.3 bp**. In other words, the market moves from "hike in October" to "pause now, maybe December".
 
-## This week's calendar (CT)
+This week decides whether that read holds. On Friday, Wall Street cheered: the S&P 500 rose 0.7% and the Nasdaq 100 hit a record, helped by cheaper oil after the G7 signaled emergency releases of diesel and crude. The NFP came in below every estimate in Bloomberg's survey and gave some relief to Treasuries after months of selling on persistent inflation, government spending and corporate borrowing tied to AI investment.
 
-Consensus from Trading Economics unless another source is noted.
+At Monday's Asian open the tone carries on: the MSCI Asia-Pacific index is up ~1% and the Nikkei ~2%, and money markets now give an October hike less than a 20% chance. The 10-year is still above **5.30%** by my numbers, though it trades around **5.26%** at the Asian open, down 1 bp. Either way, it's close to Thursday's **5.34%** (a 24-year high), with **$119B** in auctions from Tuesday to Thursday. Brent is down ~0.5% to around **$101.75** after Saudi Arabia cut its official prices for Asia, but it stays above $100 with Aramco and Hormuz in the background. And the **euro** drops to ~**1.1161**, its lowest against the dollar since May 2025, on political uncertainty in Spain; Bunds rise and French debt lags, with the France–Germany spread around **150 bp** by my numbers.
 
-| Day   | Time (CT)                   | Event                                | Consensus / prior                                                                                                                |
-| ----- | --------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| Mon 5 | 8:45 AM                     | S&P final services PMI               | Prelim 58.7 (composite 58.4)                                                                                                     |
-| Mon 5 | 9:00 AM                     | ISM services                         | Consensus 55.7; prior 55.4. Prices: prior 72.6 (highest since 2022). Employment: prior 47.8. BBH expects 55.0 and prices at 73.2 |
-| Tue 6 | 7:30 AM                     | Trade balance (August)               | Consensus −⁠$89.8B; prior −⁠$88.6B                                                                                               |
-| Tue 6 | 8:05 AM / 9:45 AM / 6:00 PM | Williams, Bowman and Logan speak     | —                                                                                                                                |
-| Tue 6 | 12:00 PM                    | 3-year note auction                  | —                                                                                                                                |
-| Tue 6 | —                           | Earnings: Constellation Brands (STZ) | —                                                                                                                                |
-| Wed 7 | 9:30 AM                     | EIA crude inventories                | —                                                                                                                                |
-| Wed 7 | 12:00 PM                    | 10-year auction                      | —                                                                                                                                |
-| Wed 7 | 1:00 PM                     | **FOMC minutes**                     | —                                                                                                                                |
-| Wed 7 | —                           | RBI (India) rate decision            | —                                                                                                                                |
-| Wed 7 | After the close             | Earnings: Levi's (LEVI)              | —                                                                                                                                |
-| Thu 8 | 6:30 AM                     | ECB accounts                         | —                                                                                                                                |
-| Thu 8 | 7:30 AM                     | Initial jobless claims               | Consensus 195K; prior 197K                                                                                                       |
-| Thu 8 | 12:00 PM                    | 30-year auction                      | —                                                                                                                                |
-| Thu 8 | 12:40 PM                    | Musalem speaks                       | —                                                                                                                                |
-| Thu 8 | Before the open             | Earnings: PepsiCo (PEP)              | EPS est. $2.28; revenue est. $24.97B (Webull)                                                                                    |
-| Fri 9 | 7:30 AM                     | Canada employment                    | Consensus +9.5K; prior −⁠41.7K                                                                                                   |
-| Fri 9 | 9:00 AM                     | Michigan sentiment (prelim)          | Consensus 48.1; 1-year inflation expectations: prior 4.6%                                                                        |
-| Fri 9 | 3:00 PM                     | Collins speaks                       | —                                                                                                                                |
-| Fri 9 | Before the open             | Earnings: Delta (DAL)                | EPS est. $1.94; revenue est. $18.83B (Webull)                                                                                    |
-| Fri 9 | —                           | Earnings: BlackRock (BLK)            | —                                                                                                                                |
+## The week at a glance (CT)
 
-**On the radar for the following week:** a Russia–Saudi Arabia meeting (Oct 12), the start of bank earnings with JPMorgan (Oct 13) and September CPI (Wednesday, Oct 14, 7:30 AM CT).
+Only the releases that can really move markets; consensus from Trading Economics unless noted.
 
-## Asset by asset: my read
+- **Mon 5, 8:45 AM:** S&P Global services PMI (September final). Prelim: composite 58.4.
+- **Mon 5, 9:00 AM:** ISM services. Consensus 55.7; prior 55.4.
+- **Tue 6, 7:30 AM:** August trade balance. Consensus −$89.8B; prior −$88.6B.
+- **Wed 7, 1:00 PM:** **FOMC minutes** from September.
+- **Thu 8:** no major US data; just weekly jobless claims.
+- **Fri 9, 7:30 AM:** Canada employment. Consensus +7K and 6.5% unemployment per my source; +9.5K per Trading Economics.
+- **Fri 9, 9:00 AM:** Michigan sentiment (October prelim). Consensus 47.8; prior 48.1.
+- **Earnings:** PepsiCo (Thursday) and Delta (Friday), the latter as a gauge of fuel costs for airlines.
 
-_Prices from Sunday night's Asian close. These aren't price forecasts: they're the factors I'm watching for each market._
+The key question for the minutes: whether the 12-0 hike reflected broad conviction that more tightening is needed, or whether part of the committee backed it with reservations. BBH thinks they may sound stale, since Williams, Jefferson and Bowman have already called for patience.
 
-### Bonds
+## ISM services: the employment component
 
-10-year **5.26%**, 2-year **4.81%**; the 10-year hit **5.34%** on Thursday, a 24-year high. The 3-, 10- and 30-year auctions run Tuesday through Thursday, **$119B** in total. The risk factors I see are the minutes, the ISM prices component and oil. BBH thinks the minutes may feel stale, since Williams, Jefferson and Bowman have already called for patience.
+This is Monday's most important number. In August, ISM services rose to **55.4** but **employment stayed in contraction at 47.8** (from 47.4), a second month below 50. Strong activity with weak hiring: the same divergence the NFP confirmed.
 
-### Oil
+- **Base case:** employment stays below 50. That fits the 29k NFP and supports an October hold.
+- **What would change the script:** an employment rebound above 50, alongside high prices, would clash with the NFP read and put a hike before December back on the table.
 
-Brent **$102.20**, WTI **$90.75**. The Houthis claim they struck Aramco facilities in Riyadh and Khurais; Saudi Arabia hasn't confirmed it. Iran says it won't reopen Hormuz until its conditions are met, and UKMTO reported explosions near a tanker off Yemen. OPEC+ is keeping November quotas unchanged. EIA inventories come out on **Wednesday the 7th**. For me, Hormuz is the key variable of the week.
+## Services prices and new orders
 
-### Gold
+This is where the hawkish risk sits. The **prices** index rose to **72.6** in August, the highest since August 2022, and has been above 60 for 21 months. **New orders** jumped to **60.9** (from 57.2) and activity to **61.7**, its best reading since February 2022. S&P Global's preliminary September PMI pointed the same way: input costs rising at the fastest pace in nearly four years and a composite of **58.4**. BBH expects ISM at **55.0** with prices at **73.2**.
 
-**$4,154**. Supported by geopolitical safe-haven demand and held back by high real yields.
+- **Base case:** high prices without a clear acceleration. The market tolerates that while hiring stays soft, and December remains the most likely date for a move.
+- **What would change the script:** another jump in prices with strong orders would push yields higher and reinforce December; if employment also rebounds, October is back in play. Falling orders and prices would point the other way: services cooling.
 
-### Indices
+## Jobless claims
 
-Nasdaq futures **+0.3%**, S&P futures **+0.1%**. S&P 500 Q3 earnings are expected to grow more than **30%** (per LSEG). High rates weigh more on small caps, and the **Nov 3** midterm elections are another factor for stocks. Delta (DAL) will be the benchmark for how much fuel costs are hitting airlines.
+It's not a top-tier release, but after a 29k NFP every labor-market signal counts. Consensus **195K**; prior **197K**.
 
-### Dollar and FX
+- **Base case:** a print near consensus doesn't move the needle.
+- **What would change the script:** a clear jump would reinforce the NFP's cooling message and the October pause; a low print would soften that read.
 
-I'm not quoting FX levels in this summary. What I'm watching by currency:
+## Canada employment
 
-- **USD:** ISM services is the US data point most able to move the dollar this week.
-- **CAD:** Canada jobs on Friday.
-- **INR:** the RBI decision on Wednesday.
-- **EUR:** the ECB accounts on Thursday.
-- **JPY:** Uchida (BoJ) described AI as a strongly positive demand shock pushing activity and prices higher.
+In August Canada **lost 42k jobs** (−41.7K), unemployment held at **6.4%** and wages slowed to **2.0% year over year**, the weakest pace outside the pandemic since November 2017. The Bank of Canada held its rate at **2.25%** in September and, by my numbers, markets price a **67.1%** chance of a pause in October and **~27.9 bp** by December.
 
-### Other
+For September, the consensus I'm using is **+7K** with unemployment rising to **6.5%** (from 6.4%); Trading Economics points to **+9.5K**. The gap is small, but it matters when reading the surprise.
 
-Brazil: Flávio Bolsonaro advances to a runoff against Lula.
+- **Base case:** a modest recovery in line with consensus; August reads as a stumble.
+- **What would change the script:** a strong rebound with firmer wages would support CAD and call the 67.1% October pause into question; a second negative print with unemployment above 6.5% would pressure CAD and reinforce the pause.
 
-## Risks for the week
+## Michigan sentiment and inflation expectations
 
-1. **FOMC minutes (Wed 1:00 PM CT).** Broad support for more hikes would clash with the 22% FedWatch now prices for October; a divided committee would fit the patience Williams, Jefferson and Bowman have called for.
-2. **3-, 10- and 30-year auctions.** $119B of supply with the 10-year a few basis points from its 24-year high.
-3. **Hormuz and Aramco.** A Saudi confirmation of the attack or a shift in Iran's conditions moves Brent, which is already above $100.
-4. **ISM services prices (Mon).** The prices component comes in from 72.6, the highest since 2022, and BBH expects 73.2.
-5. **Earnings.** PepsiCo and Delta report this week; Delta gauges the fuel hit, and small caps remain the most exposed to high rates.
+In September sentiment fell to **48.1** (from 51.7), the expectations index to **46.3**, **1-year inflation expectations rose to 4.6%** (from 4.0%) and **5–10-year expectations to 3.4%** (from 3.3%). For the October prelim, consensus is **47.8** for sentiment and **45.9** for expectations.
+
+- **Base case:** weak sentiment and still-elevated expectations. The Fed watches expectations more than the headline.
+- **What would change the script:** another rise, especially in the 5–10-year measure, would feed concerns that inflation is settling at a higher level and reinforce restrictive policy heading into December. A decline in both measures would be reassuring and support the pause.
+
+## The read for the week
+
+The market's base case is **a pause in October** with December open. What would challenge it is a specific combination: **ISM employment rebounding, services prices accelerating and minutes showing broad support for more hikes**. Without that, the NFP stays in charge.
 
 ---
 

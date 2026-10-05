@@ -1,103 +1,88 @@
 ---
-title: "Semana del 5 al 9 de octubre: minutas de la Fed, bonos en máximos y petróleo sobre 100 $"
-description: "Sin CPI ni nóminas, mandan las minutas del FOMC, 119 mil M$ en subastas con el 10 años cerca de máximos de 24 años y el Brent por encima de 100 $."
-pubDatetime: 2026-10-04T21:00:00-05:00
+title: "Semana del 5 al 9 de octubre: servicios, minutas de la Fed y empleo en Canadá ponen a prueba la pausa"
+description: "Tras un NFP de 29k, el mercado ve un 78,4 % de hold en octubre. ISM servicios, las minutas del FOMC, el empleo de Canadá y Michigan lo ponen a prueba."
+pubDatetime: 2026-10-05T00:45:00-05:00
 tags:
   - fed
+  - nfp
   - bonos
-  - treasuries
+  - forex
   - petroleo
-  - brent
-  - oro
-  - hormuz
-  - acciones
 takeaways:
-  - "Semana ligera de datos (sin CPI ni nóminas): los catalizadores son las <strong>minutas del FOMC</strong> (miércoles 13:00 CT), las subastas y el petróleo."
-  - "Fed: subió 25 pb a 3,75–4,00 % en septiembre (12-0); CME FedWatch da un <strong>22 %</strong> de alza en octubre, frente al 64 % de hace una semana."
-  - "Bonos: el 10 años está en <strong>5,26 %</strong> tras tocar 5,34 % el jueves (máximo de 24 años), con 119 mil M$ en subastas de 3, 10 y 30 años."
-  - "Petróleo: Brent <strong>102,20 $</strong> / WTI 90,75 $ con el ataque hutí reivindicado contra Aramco (sin confirmar por Riad) e Irán sin reabrir Ormuz."
-  - "Agenda: ISM servicios (lunes), minutas (miércoles), PepsiCo (jueves), Delta y empleo de Canadá (viernes); CPI de septiembre el 14 de octubre."
+  - "Tesis: los servicios de EE.UU., la comunicación de la Fed y el empleo de Canadá ponen a prueba a un mercado que se inclina por mantener tasas a corto plazo."
+  - "El NFP (+29k vs 90k esperadas, revisiones −60k, paro 4,2 %, salarios 3,0 % a/a) llevó el hold de octubre al <strong>78,4 %</strong>; para diciembre se descuentan ~25,3 pb de endurecimiento."
+  - "ISM servicios (lunes): el empleo viene de <strong>47,8</strong> y los precios de <strong>72,6</strong>, máximo desde 2022; un rebote del empleo con precios altos reabriría octubre."
+  - "Minutas del FOMC (miércoles 13:00 CT): ¿apoyo amplio a más alzas tras la subida 12-0 o un comité dividido?"
+  - "Viernes: empleo de Canadá (consenso +7k según mi fuente, +9,5k según Trading Economics) y Michigan (consenso 47,8 frente a 48,1 previo)."
 ---
 
-> **Dallas, Texas — 4 Oct 2026, domingo por la noche CT:** Semana ligera de datos —no hay CPI ni nóminas— pero cargada de catalizadores: las minutas del FOMC el miércoles, un mercado de bonos cerca de máximos de 24 años que tiene que absorber 119 mil M$ en subastas, y un petróleo por encima de 100 $ tras el ataque que los hutíes dicen haber lanzado contra Aramco, con la tensión EE.UU.–Irán en Ormuz de fondo.
+> **Dallas, Texas — 5 Oct 2026, 00:45 CT:** Los servicios de EE.UU., la comunicación de la Fed y el empleo de Canadá son las tres pruebas de la semana para un mercado que, después del NFP, se inclina por mantener tasas a corto plazo. No hay CPI ni nóminas: el examen lo ponen el ISM del lunes, las minutas del miércoles y el doble dato del viernes.
 
-## Resumen Ejecutivo
+## Cómo llegamos aquí: el NFP cambió el guion
 
-En septiembre la Fed subió **25 pb hasta 3,75–4,00 %** por unanimidad (12-0). Sus proyecciones sitúan la tasa mediana en **4,1 %** para 2026 y 2027, y el PCE subyacente de 2026 en **3,4 %**. La pregunta para el miércoles es si las minutas muestran un apoyo amplio a más alzas o un comité dividido. El mercado ya recortó la apuesta: según CME FedWatch, la probabilidad de una subida en octubre cayó al **22 %**, desde el **64 %** de hace una semana, por unas nóminas más flojas.
+En septiembre la Fed subió **25 pb hasta 3,75–4,00 %** por unanimidad (12-0) y movió al alza su senda: tasa mediana de **4,1 %** para 2026 y 2027. Con ese telón de fondo, el mercado llegó al NFP pensando en otra subida pronto.
 
-En el cierre asiático del domingo, el **10 años** está en **5,26 %** y el **2 años** en **4,81 %**, después de que el 10 años tocara **5,34 %** el jueves, máximo de 24 años. El **Brent** cotiza en **102,20 $** y el **WTI** en **90,75 $**; el **oro**, en **4.154 $**. Los futuros del Nasdaq suben un 0,3 % y los del S&P un 0,1 %.
+El dato lo cambió. Nóminas de **+29k** frente a **90k** esperadas, revisiones de los dos meses previos por **−60k**, paro en **4,2 %** y salarios en **3,0 % interanual**, el ritmo más bajo desde 2021. No es un dato de recortes, pero sí uno que quita prisa. Resultado: la probabilidad de **mantener tasas en octubre sube al 78,4 %** (CME FedWatch) y el endurecimiento descontado para **diciembre se queda en ~25,3 pb**. Es decir, el mercado pasa de "subida en octubre" a "pausa ahora, quizá en diciembre".
 
-## Calendario de la semana (hora CT)
+La semana decide si esa lectura aguanta. El viernes, Wall Street lo celebró: el S&P 500 subió un 0,7 % y el Nasdaq 100 marcó récord, con el alivio añadido de un petróleo más barato después de que el G7 anticipara liberaciones de emergencia de diésel y crudo. El NFP quedó por debajo de todas las estimaciones de la encuesta de Bloomberg y dio un respiro a unos Treasuries que llevaban meses de ventas por la inflación persistente, el gasto público y la deuda corporativa ligada a la inversión en IA.
 
-Consenso de Trading Economics salvo que se indique otra fuente.
+En la apertura asiática del lunes el tono continúa: el MSCI Asia-Pacífico sube ~1 % y el Nikkei ~2 %, y los mercados monetarios ya dan menos de un 20 % de probabilidad a una subida en octubre. El 10 años sigue por encima de **5,30 %** según mis datos, aunque en la apertura asiática ronda el **5,26 %**, 1 pb abajo. En cualquier caso, cerca del **5,34 %** del jueves (máximo de 24 años), con **119 mil M$** en subastas entre martes y jueves. El Brent baja ~0,5 % hasta unos **101,75 $** después de que Arabia Saudita recortara sus precios oficiales para Asia, pero sigue por encima de 100 $ con Aramco y Ormuz de fondo. Y el **euro** cae hasta ~**1,1161**, su mínimo frente al dólar desde mayo de 2025, por la incertidumbre política en España; los Bunds suben y la deuda francesa se queda atrás, con el diferencial Francia–Alemania en torno a **150 pb** según mis datos.
 
-| Día   | Hora (CT)             | Evento                                 | Consenso / anterior                                                                                                             |
-| ----- | --------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Lun 5 | 08:45                 | PMI servicios final S&P                | Prelim. 58,7 (compuesto 58,4)                                                                                                   |
-| Lun 5 | 09:00                 | ISM servicios                          | Consenso 55,7; anterior 55,4. Precios: anterior 72,6 (máximo desde 2022). Empleo: anterior 47,8. BBH espera 55,0 y precios 73,2 |
-| Mar 6 | 07:30                 | Balanza comercial (agosto)             | Consenso −⁠89,8 mil M$; anterior −⁠88,6 mil M$                                                                                  |
-| Mar 6 | 08:05 / 09:45 / 18:00 | Hablan Williams, Bowman y Logan        | —                                                                                                                               |
-| Mar 6 | 12:00                 | Subasta de notas a 3 años              | —                                                                                                                               |
-| Mar 6 | —                     | Resultados: Constellation Brands (STZ) | —                                                                                                                               |
-| Mié 7 | 09:30                 | Inventarios de crudo EIA               | —                                                                                                                               |
-| Mié 7 | 12:00                 | Subasta a 10 años                      | —                                                                                                                               |
-| Mié 7 | 13:00                 | **Minutas del FOMC**                   | —                                                                                                                               |
-| Mié 7 | —                     | Decisión de tasas del RBI (India)      | —                                                                                                                               |
-| Mié 7 | Tras el cierre        | Resultados: Levi's (LEVI)              | —                                                                                                                               |
-| Jue 8 | 06:30                 | Actas del BCE                          | —                                                                                                                               |
-| Jue 8 | 07:30                 | Solicitudes de desempleo               | Consenso 195k; anterior 197k                                                                                                    |
-| Jue 8 | 12:00                 | Subasta a 30 años                      | —                                                                                                                               |
-| Jue 8 | 12:40                 | Habla Musalem                          | —                                                                                                                               |
-| Jue 8 | Antes de la apertura  | Resultados: PepsiCo (PEP)              | BPA est. 2,28 $; ingresos est. 24,97 mil M$ (Webull)                                                                            |
-| Vie 9 | 07:30                 | Empleo de Canadá                       | Consenso +9,5k; anterior −⁠41,7k                                                                                                |
-| Vie 9 | 09:00                 | Sentimiento de Michigan (prelim.)      | Consenso 48,1; expectativa de inflación a 1 año: anterior 4,6 %                                                                 |
-| Vie 9 | 15:00                 | Habla Collins                          | —                                                                                                                               |
-| Vie 9 | Antes de la apertura  | Resultados: Delta (DAL)                | BPA est. 1,94 $; ingresos est. 18,83 mil M$ (Webull)                                                                            |
-| Vie 9 | —                     | Resultados: BlackRock (BLK)            | —                                                                                                                               |
+## La semana en breve (hora CT)
 
-**En el radar para la semana siguiente:** reunión Rusia–Arabia Saudita (12 oct), arranque de la temporada de bancos con JPMorgan (13 oct) y CPI de septiembre (miércoles 14 oct, 07:30 CT).
+Solo los datos que de verdad pueden mover el mercado; consenso de Trading Economics salvo que indique otra cosa.
 
-## Por activo: mi lectura
+- **Lun 5, 08:45:** PMI de servicios S&P Global (final de septiembre). Preliminar: compuesto 58,4.
+- **Lun 5, 09:00:** ISM de servicios. Consenso 55,7; anterior 55,4.
+- **Mar 6, 07:30:** balanza comercial de agosto. Consenso −89,8 mil M$; anterior −88,6 mil M$.
+- **Mié 7, 13:00:** **minutas del FOMC** de septiembre.
+- **Jue 8:** sin datos de peso en EE.UU.; solo las solicitudes de desempleo semanales.
+- **Vie 9, 07:30:** empleo de Canadá. Consenso +7k y paro 6,5 % según mi fuente; +9,5k según Trading Economics.
+- **Vie 9, 09:00:** sentimiento de Michigan (preliminar de octubre). Consenso 47,8; anterior 48,1.
+- **Resultados:** PepsiCo (jueves) y Delta (viernes), esta última como termómetro del coste del combustible para las aerolíneas.
 
-_Precios del cierre asiático del domingo por la noche. No son pronósticos de precio: son los factores que veo para cada mercado._
+La pregunta de fondo para las minutas: si la subida 12-0 reflejó una convicción amplia de que hay que endurecer más, o si parte del comité la apoyó con reservas. BBH cree que pueden sonar viejas, porque Williams, Jefferson y Bowman ya han pedido paciencia.
 
-### Bonos
+## ISM servicios: el componente de empleo
 
-10 años **5,26 %**, 2 años **4,81 %**; el 10 años marcó **5,34 %** el jueves, máximo de 24 años. Entre martes y jueves salen las subastas de 3, 10 y 30 años, **119 mil M$** en total. Los factores de riesgo que veo son las minutas, el componente de precios del ISM y el petróleo. BBH cree que las minutas pueden quedarse viejas, porque Williams, Jefferson y Bowman ya han hecho llamados a la paciencia.
+Es el dato más importante del lunes. En agosto, el ISM de servicios subió a **55,4** pero el **empleo siguió en contracción, en 47,8** (desde 47,4), por segundo mes por debajo de 50. Actividad fuerte con contratación débil: la misma divergencia que el NFP confirmó.
 
-### Petróleo
+- **Escenario base:** el empleo sigue por debajo de 50. Encaja con el NFP de 29k y sostiene el hold de octubre.
+- **Qué cambiaría el guion:** un rebote del empleo por encima de 50, junto con precios altos, chocaría con la lectura del NFP y volvería a poner sobre la mesa una subida antes de diciembre.
 
-Brent **102,20 $**, WTI **90,75 $**. Los hutíes afirman haber atacado instalaciones de Aramco en Riad y Khurais; Arabia Saudita no lo ha confirmado. Irán mantiene que no reabrirá Ormuz hasta que se cumplan sus condiciones, y UKMTO informó de explosiones cerca de un tanquero frente a Yemen. La OPEP+ deja sin cambios las cuotas de noviembre. Inventarios de la EIA el **miércoles 7**. Para mí, Ormuz es la variable central de la semana.
+## Precios de servicios y nuevos pedidos
 
-### Oro
+Aquí está el riesgo hawkish. El índice de **precios** subió en agosto a **72,6**, máximo desde agosto de 2022, y lleva 21 meses por encima de 60. Los **nuevos pedidos** saltaron a **60,9** (desde 57,2) y la actividad a **61,7**, su mejor lectura desde febrero de 2022. El PMI preliminar de S&P Global de septiembre apuntaba en la misma dirección: costes de insumos al ritmo más alto en casi cuatro años y un compuesto de **58,4**. BBH espera un ISM de **55,0** con precios en **73,2**.
 
-**4.154 $**. Lo sostiene la demanda de refugio por la geopolítica y lo frenan los rendimientos reales altos.
+- **Escenario base:** precios altos pero sin aceleración clara. El mercado lo tolera mientras el empleo siga flojo y diciembre sigue siendo la fecha más probable para un movimiento.
+- **Qué cambiaría el guion:** otro salto de precios con pedidos fuertes presionaría los yields al alza y reforzaría diciembre; si además el empleo rebota, octubre vuelve a estar en juego. Pedidos y precios a la baja irían en la dirección contraria: servicios enfriándose.
 
-### Índices
+## Solicitudes de desempleo
 
-Futuros del Nasdaq **+0,3 %** y del S&P **+0,1 %**. Se espera que las ganancias del S&P 500 del 3T crezcan más de un **30 %** (según LSEG). Las tasas altas pesan más sobre las small caps, y las elecciones de medio término del **3 de noviembre** son otro factor para la bolsa. Delta (DAL) será la referencia para medir cuánto pesa el combustible en las aerolíneas.
+No es un dato de primera línea, pero tras un NFP de 29k cualquier señal del mercado laboral cuenta. Consenso **195k**; anterior **197k**.
 
-### Dólar y divisas
+- **Escenario base:** un dato cerca del consenso no mueve la aguja.
+- **Qué cambiaría el guion:** un salto claro reforzaría la lectura de enfriamiento del NFP y la pausa de octubre; un dato bajo matizaría esa lectura.
 
-No doy niveles para las divisas en este resumen. Lo que vigilo por divisa:
+## Empleo en Canadá
 
-- **USD:** el ISM de servicios es el dato de EE.UU. con más capacidad de mover el dólar esta semana.
-- **CAD:** empleo de Canadá el viernes.
-- **INR:** decisión del RBI el miércoles.
-- **EUR:** actas del BCE el jueves.
-- **JPY:** Uchida (BoJ) describió la IA como un choque de demanda fuertemente positivo que empuja al alza la actividad y los precios.
+En agosto Canadá **perdió 42k empleos** (−41,7k), el paro se mantuvo en **6,4 %** y los salarios frenaron a **2,0 % interanual**, el menor ritmo fuera de la pandemia desde noviembre de 2017. El Banco de Canadá dejó su tasa en **2,25 %** en septiembre y, según mis datos, el mercado da un **67,1 %** de pausa en octubre y descuenta **~27,9 pb** para diciembre.
 
-### Otros
+Para septiembre, el consenso que manejo es de **+7k** con el paro subiendo a **6,5 %** (desde 6,4 %); Trading Economics apunta a **+9,5k**. La diferencia es pequeña, pero conviene tenerla en cuenta para leer la sorpresa.
 
-Brasil: Flávio Bolsonaro pasa a segunda vuelta contra Lula.
+- **Escenario base:** recuperación modesta, en línea con el consenso; agosto se lee como un tropiezo.
+- **Qué cambiaría el guion:** un rebote fuerte con salarios más firmes apoyaría al CAD y pondría en duda el 67,1 % de pausa en octubre; un segundo dato negativo con el paro por encima del 6,5 % presionaría al CAD y reforzaría la pausa.
 
-## Riesgos de la semana
+## Sentimiento de Michigan y expectativas de inflación
 
-1. **Minutas del FOMC (mié 13:00 CT).** Un apoyo amplio a más alzas chocaría con el 22 % que hoy descuenta FedWatch para octubre; un comité dividido iría en la línea de la paciencia que pidieron Williams, Jefferson y Bowman.
-2. **Subastas de 3, 10 y 30 años.** 119 mil M$ de oferta con el 10 años a pocos puntos básicos de su máximo de 24 años.
-3. **Ormuz y Aramco.** Una confirmación saudí del ataque o un cambio en las condiciones de Irán mueve el Brent, que ya está por encima de 100 $.
-4. **Precios del ISM servicios (lun).** El componente de precios viene de 72,6, máximo desde 2022, y BBH espera 73,2.
-5. **Resultados.** PepsiCo y Delta reportan esta semana; Delta mide el golpe del combustible y las small caps siguen siendo las más expuestas a tasas altas.
+En septiembre el sentimiento cayó a **48,1** (desde 51,7), el índice de expectativas a **46,3**, la expectativa de inflación a **1 año subió a 4,6 %** (desde 4,0 %) y la de **5–10 años a 3,4 %** (desde 3,3 %). Para el preliminar de octubre, el consenso es **47,8** en sentimiento y **45,9** en expectativas.
+
+- **Escenario base:** sentimiento débil y expectativas todavía altas. La Fed mira más las expectativas que el titular.
+- **Qué cambiaría el guion:** una nueva subida, sobre todo en la de 5–10 años, alimentaría el temor a que la inflación se esté anclando más arriba y reforzaría la política restrictiva de cara a diciembre. Una bajada de ambas medidas daría tranquilidad y apoyaría la pausa.
+
+## Lectura de la semana
+
+El escenario base del mercado es **pausa en octubre** con diciembre abierto. Lo que lo pondría en duda es una combinación concreta: **empleo del ISM rebotando, precios de servicios acelerando y minutas con apoyo amplio a más alzas**. Si eso no aparece, el NFP sigue mandando.
 
 ---
 
