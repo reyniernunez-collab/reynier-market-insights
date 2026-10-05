@@ -17,6 +17,13 @@ import config from "./astro-paper.config";
 export default defineConfig({
   site: config.site.url,
   base: "/reynier-market-insights/",
+  // Old slug of the Sept 28 week-ahead post; keeps existing links working.
+  redirects: {
+    "/posts/week-ahead-fjelite-0928":
+      "/reynier-market-insights/posts/week-ahead-0928/",
+    "/en/posts/week-ahead-fjelite-0928":
+      "/reynier-market-insights/en/posts/week-ahead-0928/",
+  },
   integrations: [
     mdx(),
     sitemap({

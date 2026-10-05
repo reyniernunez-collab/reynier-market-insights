@@ -16,9 +16,6 @@ takeaways:
   - "Las acciones siguen (ES 7829, NQ 30779); JPM ve un rally tech más amplio."
   - "La Fed no se ablanda: Dic hike 78 %; el BCE Oct pasa a hold 53 % y el RBA del 29-sep sigue en 86 %."
   - "Riesgo clave: Brent <95 / WTI <90 amplía el lastre de CAD; solo un nuevo ataque East-West / Houthi revierte el sesgo bajista."
-sources:
-  - "JPMorgan"
-  - "Goldman Sachs"
 ---
 
 > **Dallas, Texas — 22 Sept 2026:** El petróleo perforó 100: Brent **99,35** y WTI **94,69**. El beta 30d del crudo con EUR se estabilizó en 0,52 y con ES en -0,81: el shock de oferta ya no manda el FX europeo.

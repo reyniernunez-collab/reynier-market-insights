@@ -17,26 +17,15 @@ takeaways:
   - "Bonds: the 10-year sits at <strong>5.26%</strong> after hitting 5.34% on Thursday (a 24-year high), with $119B in 3-, 10- and 30-year auctions."
   - "Oil: Brent <strong>$102.20</strong> / WTI $90.75 after the Houthis' claimed attack on Aramco (unconfirmed by Riyadh) and Iran keeping Hormuz shut."
   - "Calendar: ISM services (Monday), minutes (Wednesday), PepsiCo (Thursday), Delta and Canada jobs (Friday); September CPI on Oct 14."
-sources:
-  - "FinancialJuice"
-  - "Trading Economics"
-  - "Reuters"
-  - "BBH"
-  - "FinancialMarkets.com"
-  - "Kalkine (premium)"
-  - "Bloomberg (Stock Movers podcast)"
-  - "CME FedWatch"
-  - "LSEG"
-  - "Webull"
 ---
 
 > **Dallas, Texas — Oct 4, 2026, Sunday evening CT:** A light data week — no CPI, no payrolls — but plenty of catalysts: the FOMC minutes on Wednesday, a bond market near 24-year highs that has to absorb $119B in auctions, and oil above $100 after the attack the Houthis say they launched on Aramco, with US–Iran tension over Hormuz in the background.
 
 ## Executive Summary
 
-In September the Fed hiked **25 bp to 3.75–4.00%** in a unanimous 12-0 vote. Its projections put the median rate at **4.1%** for both 2026 and 2027, and 2026 core PCE at **3.4%**. Wednesday's question is whether the minutes show broad support for more hikes or a divided committee. The market has already scaled back: CME FedWatch shows the odds of an October hike down to **22%**, from **64%** a week earlier, after softer payrolls (Reuters).
+In September the Fed hiked **25 bp to 3.75–4.00%** in a unanimous 12-0 vote. Its projections put the median rate at **4.1%** for both 2026 and 2027, and 2026 core PCE at **3.4%**. Wednesday's question is whether the minutes show broad support for more hikes or a divided committee. The market has already scaled back: CME FedWatch shows the odds of an October hike down to **22%**, from **64%** a week earlier, after softer payrolls.
 
-At Sunday's Asian close (Reuters), the **10-year** is at **5.26%** and the **2-year** at **4.81%**, after the 10-year touched **5.34%** on Thursday, a 24-year high. **Brent** trades at **$102.20** and **WTI** at **$90.75**; **gold** at **$4,154**. Nasdaq futures are up 0.3% and S&P futures up 0.1%.
+At Sunday's Asian close, the **10-year** is at **5.26%** and the **2-year** at **4.81%**, after the 10-year touched **5.34%** on Thursday, a 24-year high. **Brent** trades at **$102.20** and **WTI** at **$90.75**; **gold** at **$4,154**. Nasdaq futures are up 0.3% and S&P futures up 0.1%.
 
 ## This week's calendar (CT)
 
@@ -68,17 +57,17 @@ Consensus from Trading Economics unless another source is noted.
 
 **On the radar for the following week:** a Russia–Saudi Arabia meeting (Oct 12), the start of bank earnings with JPMorgan (Oct 13) and September CPI (Wednesday, Oct 14, 7:30 AM CT).
 
-## Asset by asset: what the sources flag
+## Asset by asset: my read
 
-_Prices from Sunday night's Asian close (Reuters). These aren't my forecasts: they're the factors the sources highlight for each market._
+_Prices from Sunday night's Asian close. These aren't price forecasts: they're the factors I'm watching for each market._
 
 ### Bonds
 
-10-year **5.26%**, 2-year **4.81%**; the 10-year hit **5.34%** on Thursday, a 24-year high. The 3-, 10- and 30-year auctions run Tuesday through Thursday, **$119B** in total (FinancialMarkets.com). The risk factors cited are the minutes, the ISM prices component and oil. BBH thinks the minutes may feel stale, since Williams, Jefferson and Bowman have already called for patience.
+10-year **5.26%**, 2-year **4.81%**; the 10-year hit **5.34%** on Thursday, a 24-year high. The 3-, 10- and 30-year auctions run Tuesday through Thursday, **$119B** in total. The risk factors I see are the minutes, the ISM prices component and oil. BBH thinks the minutes may feel stale, since Williams, Jefferson and Bowman have already called for patience.
 
 ### Oil
 
-Brent **$102.20**, WTI **$90.75**. The Houthis claim they struck Aramco facilities in Riyadh and Khurais; Saudi Arabia hasn't confirmed it. Iran says it won't reopen Hormuz until its conditions are met, and UKMTO reported explosions near a tanker off Yemen. OPEC+ is keeping November quotas unchanged. EIA inventories come out on **Wednesday the 7th**. Kalkine (premium content) sees Hormuz as the key variable of the week.
+Brent **$102.20**, WTI **$90.75**. The Houthis claim they struck Aramco facilities in Riyadh and Khurais; Saudi Arabia hasn't confirmed it. Iran says it won't reopen Hormuz until its conditions are met, and UKMTO reported explosions near a tanker off Yemen. OPEC+ is keeping November quotas unchanged. EIA inventories come out on **Wednesday the 7th**. For me, Hormuz is the key variable of the week.
 
 ### Gold
 
@@ -86,11 +75,11 @@ Brent **$102.20**, WTI **$90.75**. The Houthis claim they struck Aramco faciliti
 
 ### Indices
 
-Nasdaq futures **+0.3%**, S&P futures **+0.1%**. S&P 500 Q3 earnings are expected to grow more than **30%** (LSEG, via Reuters). High rates weigh more on small caps, and the **Nov 3** midterm elections are another factor cited for stocks. Delta (DAL) will be the benchmark for how much fuel costs are hitting airlines.
+Nasdaq futures **+0.3%**, S&P futures **+0.1%**. S&P 500 Q3 earnings are expected to grow more than **30%** (per LSEG). High rates weigh more on small caps, and the **Nov 3** midterm elections are another factor for stocks. Delta (DAL) will be the benchmark for how much fuel costs are hitting airlines.
 
 ### Dollar and FX
 
-The sources behind this summary don't give levels, so I'm not quoting any. What's flagged by currency:
+I'm not quoting FX levels in this summary. What I'm watching by currency:
 
 - **USD:** ISM services is the US data point most able to move the dollar this week.
 - **CAD:** Canada jobs on Friday.
@@ -100,7 +89,7 @@ The sources behind this summary don't give levels, so I'm not quoting any. What'
 
 ### Other
 
-Brazil: Flávio Bolsonaro advances to a runoff against Lula (Reuters).
+Brazil: Flávio Bolsonaro advances to a runoff against Lula.
 
 ## Risks for the week
 
@@ -109,18 +98,6 @@ Brazil: Flávio Bolsonaro advances to a runoff against Lula (Reuters).
 3. **Hormuz and Aramco.** A Saudi confirmation of the attack or a shift in Iran's conditions moves Brent, which is already above $100.
 4. **ISM services prices (Mon).** The prices component comes in from 72.6, the highest since 2022, and BBH expects 73.2.
 5. **Earnings.** PepsiCo and Delta report this week; Delta gauges the fuel hit, and small caps remain the most exposed to high rates.
-
-## Source links
-
-- [FinancialJuice — Week Ahead: Economic Indicators 5th–9th October (US)](https://features.financialjuice.com/2026/10/02/week-ahead-economic-indicators-5th-9th-october-us/)
-- [Trading Economics — economic calendar](https://tradingeconomics.com/calendar)
-- [Reuters — global markets wrap](https://www.reuters.com/world/china/global-markets-global-markets-2026-10-05/)
-- [Reuters Wall Street Week Ahead (via Business Recorder)](https://www.brecorder.com/news/40442646/wall-street-week-ahead-spiking-bond-yields-midterms-earnings-to-test-us-stocks)
-- [BBH — Drivers for the Week of October 5](https://www.bbh.com/us/en/insights/blog/mind-on-the-markets/Drivers-for-the-Week-of-October-5-2026.html)
-- [FinancialMarkets.com — Softer jobs meet $119 billion of supply](https://www.financialmarkets.com/article/softer-jobs-meet-119-billion-of-supply)
-- [Kalkine (premium content)](https://kalkine.com/news/premium/week-ahead-october-5-to-9-fomc-minutes-pepsico-and-delta-earnings-and-the-strait-of-hormuz-standoff-converge)
-- [Bloomberg — Stock Movers podcast: Week Ahead](https://podme.com/no/episode/13633005/)
-- Weekend headlines (Aramco, OPEC+, Hormuz, UKMTO, Uchida): FinancialJuice live feed.
 
 ---
 

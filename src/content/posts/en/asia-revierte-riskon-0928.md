@@ -19,9 +19,6 @@ takeaways:
   - "The regime goes back to <em>oil + duration + Fed hike</em>; a deal is no longer priced in."
   - "Two tails: a deal would lower oil; a diesel export ban would lift crack spreads and CPI."
   - "The RBA decides today (hike at 91%), with the 10-year ACGB at 5.42%."
-sources:
-  - "Reuters"
-  - "Axios"
 ---
 
 > **Dallas, Texas — Sept 27, 2026, 08:20 CDT:** Asia reverses Friday's risk-on: Trump rejected Iran's proposal to reopen Hormuz in 7 days. Brent +1.5% to +2% to 105.7–106.5; WTI 93.3–93.8. 2-year UST up to 4.90%; 10-year ~5.20%. Gold ~4,233 (-1.2%). USD/JPY 157.8. EUR 1.1385. The regime goes back to oil + duration + Fed hike. RBA today at 91%.
@@ -36,7 +33,7 @@ Asia reverses Friday's _risk-on_: Trump rejected Iran's proposal to reopen Hormu
 **Detailed Analysis**
 
 **Data and cycle**  
-No new US data; the driver is geopolitics → embedded inflation (diesel at highs vs crude, refining capacity). Reuters: Brent's gains for the month ~18%. The Fed path, Oct **73%** / Dec **79%**, is reaffirmed, not relaxed.
+No new US data; the driver is geopolitics → embedded inflation (diesel at highs vs crude, refining capacity). Brent's gains for the month: ~18%. The Fed path, Oct **73%** / Dec **79%**, is reaffirmed, not relaxed.
 
 **Geopolitics**  
 Trump rejects the 7-day plan; Iran doesn't soften its conditions. Axios: Trump expects negotiations _to resume this week_ and is weighing a diesel export ban "very seriously". Two tails: a deal (oil down) vs a diesel ban (crack spreads / CPI).

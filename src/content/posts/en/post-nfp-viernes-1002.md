@@ -16,14 +16,6 @@ takeaways:
   - "The yen leads the session and CAD is the weakest in G10; the dollar and yields give way."
   - "France is the exception: the OAT-Bund spread widens while Bunds and Treasuries are bought."
   - "Brent tactically bearish on the proposal to release up to 100 million barrels; gold tactically bullish."
-sources:
-  - "BLS"
-  - "CME FedWatch"
-  - "Goldman Sachs"
-  - "Moody's"
-  - "CNN Fear & Greed"
-  - "IEA"
-  - "FJ (news feed)"
 ---
 
 > **Dallas, Texas — Oct 2, 2026, 14:30 CDT:** September payrolls came in at **+29,000** versus ~90,000 expected —below the entire range of estimates— with July-August revised down by about 60,000 and wages at **3.0% year over year**, the lowest since 2021. Unemployment rose to **4.2%**. Swaps no longer price a full Fed hike in 2026: October "no change" moves to **~83%** and December stays at **~70%**. The dollar and yields give way; the S&P rises and the VIX falls ~5% to **15.6**. The yen is the day's strongest currency and CAD the weakest. France is still the exception: the OAT-Bund spread widens while Bunds and Treasuries are bought. Brent/WTI ease on proposals to release diesel and crude (Macron: up to 100 million barrels).
@@ -43,11 +35,11 @@ BLS: nonfarm payrolls **+29,000**, versus an average of **+45,000** over the pri
 
 ### Monetary policy
 
-Before the NFP, the futures table had October hold at 74% and December hike at 73%. After the print, the FJ tape puts October hold at **82.8%** and December hike near **70%**. An external read (FedWatch) leaves October hike at ~22% and December still priced. The divergence between venues doesn't change the sign: **October is practically dead; December is the only residual hike of 2026 and no longer adds up to a full hike for the year**. ECB October hold 85% and December hike 70% remain relatively more hawkish than the short-term Fed, but French fiscal stress cancels that advantage. BoJ: October hold 86%, no 50 bp — the yen leads on rate differentials and safe-haven demand, not on the Summary.
+Before the NFP, the futures table had October hold at 74% and December hike at 73%. After the print, futures put October hold at **82.8%** and December hike near **70%**. An external read (FedWatch) leaves October hike at ~22% and December still priced. The divergence between venues doesn't change the sign: **October is practically dead; December is the only residual hike of 2026 and no longer adds up to a full hike for the year**. ECB October hold 85% and December hike 70% remain relatively more hawkish than the short-term Fed, but French fiscal stress cancels that advantage. BoJ: October hold 86%, no 50 bp — the yen leads on rate differentials and safe-haven demand, not on the Summary.
 
 ### Geopolitics and energy
 
-The US asked major European countries to release diesel (the tape mentions 800,000 kilotonnes over six months; the unit isn't confirmed by a primary source). France proposed 50 million barrels of European diesel and 50 million of crude via the IEA; Macron spoke of **up to 100 million**. WTI broke toward **88–89** and is back in the ~94 band, below recent resistance. The US–Iran diplomatic tone remains sour; an attributable incident would reopen the premium. Pakistan mediates with Riyadh on the Houthis next week: political rather than kinetic engagement is bearish for crude; a kinetic turn reverses it.
+The US asked major European countries to release diesel (reports mention 800,000 kilotonnes over six months; the unit isn't confirmed by a primary source). France proposed 50 million barrels of European diesel and 50 million of crude via the IEA; Macron spoke of **up to 100 million**. WTI broke toward **88–89** and is back in the ~94 band, below recent resistance. The US–Iran diplomatic tone remains sour; an attributable incident would reopen the premium. Pakistan mediates with Riyadh on the Houthis next week: political rather than kinetic engagement is bearish for crude; a kinetic turn reverses it.
 
 ### Sentiment and flows
 
