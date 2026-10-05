@@ -14,18 +14,6 @@ takeaways:
   - "ISM servicios (lunes): el empleo viene de <strong>47,8</strong> y los precios de <strong>72,6</strong>, máximo desde 2022; un rebote del empleo con precios altos reabriría octubre."
   - "Minutas del FOMC (miércoles 13:00 CT): ¿apoyo amplio a más alzas tras la subida 12-0 o un comité dividido?"
   - "Viernes: empleo de Canadá (consenso +7k según mi fuente, +9,5k según Trading Economics) y Michigan (consenso 47,8 frente a 48,1 previo)."
-sources:
-  - "FinancialJuice"
-  - "Trading Economics"
-  - "CME FedWatch"
-  - "BLS"
-  - "ISM"
-  - "S&P Global"
-  - "Statistics Canada"
-  - "Universidad de Michigan"
-  - "BBH"
-  - "Reuters"
-  - "FinancialMarkets.com"
 ---
 
 > **Dallas, Texas — 5 Oct 2026, 00:45 CT:** Los servicios de EE.UU., la comunicación de la Fed y el empleo de Canadá son las tres pruebas de la semana para un mercado que, después del NFP, se inclina por mantener tasas a corto plazo. No hay CPI ni nóminas: el examen lo ponen el ISM del lunes, las minutas del miércoles y el doble dato del viernes.
@@ -36,19 +24,19 @@ En septiembre la Fed subió **25 pb hasta 3,75–4,00 %** por unanimidad (12-0) 
 
 El dato lo cambió. Nóminas de **+29k** frente a **90k** esperadas, revisiones de los dos meses previos por **−60k**, paro en **4,2 %** y salarios en **3,0 % interanual**, el ritmo más bajo desde 2021. No es un dato de recortes, pero sí uno que quita prisa. Resultado: la probabilidad de **mantener tasas en octubre sube al 78,4 %** (CME FedWatch) y el endurecimiento descontado para **diciembre se queda en ~25,3 pb**. Es decir, el mercado pasa de "subida en octubre" a "pausa ahora, quizá en diciembre".
 
-La semana decide si esa lectura aguanta. El viernes, Wall Street lo celebró: el S&P 500 subió un 0,7 % y el Nasdaq 100 marcó récord, con el alivio añadido de un petróleo más barato después de que el G7 anticipara liberaciones de emergencia de diésel y crudo. El NFP quedó por debajo de todas las estimaciones de la encuesta de Bloomberg y dio un respiro a unos Treasuries que llevaban meses de ventas por la inflación persistente, el gasto público y la deuda corporativa ligada a la inversión en IA (FinancialJuice, US Market Wrap).
+La semana decide si esa lectura aguanta. El viernes, Wall Street lo celebró: el S&P 500 subió un 0,7 % y el Nasdaq 100 marcó récord, con el alivio añadido de un petróleo más barato después de que el G7 anticipara liberaciones de emergencia de diésel y crudo. El NFP quedó por debajo de todas las estimaciones de la encuesta de Bloomberg y dio un respiro a unos Treasuries que llevaban meses de ventas por la inflación persistente, el gasto público y la deuda corporativa ligada a la inversión en IA.
 
-En la apertura asiática del lunes el tono continúa: el MSCI Asia-Pacífico sube ~1 % y el Nikkei ~2 %, y los mercados monetarios ya dan menos de un 20 % de probabilidad a una subida en octubre. El 10 años sigue por encima de **5,30 %** según mis datos; FinancialJuice y Reuters lo sitúan en **5,26 %** en la apertura asiática, tras cerrar 1 pb abajo. En cualquier caso, cerca del **5,34 %** del jueves (máximo de 24 años), con **119 mil M$** en subastas entre martes y jueves. El Brent baja ~0,5 % hasta unos **101,75 $** después de que Arabia Saudita recortara sus precios oficiales para Asia, pero sigue por encima de 100 $ con Aramco y Ormuz de fondo. Y el **euro** cae hasta ~**1,1161**, su mínimo frente al dólar desde mayo de 2025, por la incertidumbre política en España; los Bunds suben y la deuda francesa se queda atrás, con el diferencial Francia–Alemania en torno a **150 pb** según mis datos (FinancialJuice, Asia Market Wrap; FinancialMarkets.com).
+En la apertura asiática del lunes el tono continúa: el MSCI Asia-Pacífico sube ~1 % y el Nikkei ~2 %, y los mercados monetarios ya dan menos de un 20 % de probabilidad a una subida en octubre. El 10 años sigue por encima de **5,30 %** según mis datos, aunque en la apertura asiática ronda el **5,26 %**, 1 pb abajo. En cualquier caso, cerca del **5,34 %** del jueves (máximo de 24 años), con **119 mil M$** en subastas entre martes y jueves. El Brent baja ~0,5 % hasta unos **101,75 $** después de que Arabia Saudita recortara sus precios oficiales para Asia, pero sigue por encima de 100 $ con Aramco y Ormuz de fondo. Y el **euro** cae hasta ~**1,1161**, su mínimo frente al dólar desde mayo de 2025, por la incertidumbre política en España; los Bunds suben y la deuda francesa se queda atrás, con el diferencial Francia–Alemania en torno a **150 pb** según mis datos.
 
 ## La semana en breve (hora CT)
 
-Indicadores que destaca el calendario de FinancialJuice; consenso de Trading Economics.
+Solo los datos que de verdad pueden mover el mercado; consenso de Trading Economics salvo que indique otra cosa.
 
 - **Lun 5, 08:45:** PMI de servicios S&P Global (final de septiembre). Preliminar: compuesto 58,4.
 - **Lun 5, 09:00:** ISM de servicios. Consenso 55,7; anterior 55,4.
 - **Mar 6, 07:30:** balanza comercial de agosto. Consenso −89,8 mil M$; anterior −88,6 mil M$.
 - **Mié 7, 13:00:** **minutas del FOMC** de septiembre.
-- **Jue 8:** FinancialJuice no destaca indicadores de EE.UU.; salen las solicitudes de desempleo semanales.
+- **Jue 8:** sin datos de peso en EE.UU.; solo las solicitudes de desempleo semanales.
 - **Vie 9, 07:30:** empleo de Canadá. Consenso +7k y paro 6,5 % según mi fuente; +9,5k según Trading Economics.
 - **Vie 9, 09:00:** sentimiento de Michigan (preliminar de octubre). Consenso 47,8; anterior 48,1.
 - **Resultados:** PepsiCo (jueves) y Delta (viernes), esta última como termómetro del coste del combustible para las aerolíneas.
@@ -71,7 +59,7 @@ Aquí está el riesgo hawkish. El índice de **precios** subió en agosto a **72
 
 ## Solicitudes de desempleo
 
-FinancialJuice no lo destaca, pero tras un NFP de 29k cualquier señal del mercado laboral cuenta. Consenso **195k**; anterior **197k**.
+No es un dato de primera línea, pero tras un NFP de 29k cualquier señal del mercado laboral cuenta. Consenso **195k**; anterior **197k**.
 
 - **Escenario base:** un dato cerca del consenso no mueve la aguja.
 - **Qué cambiaría el guion:** un salto claro reforzaría la lectura de enfriamiento del NFP y la pausa de octubre; un dato bajo matizaría esa lectura.
@@ -95,16 +83,6 @@ En septiembre el sentimiento cayó a **48,1** (desde 51,7), el índice de expect
 ## Lectura de la semana
 
 El escenario base del mercado es **pausa en octubre** con diciembre abierto. Lo que lo pondría en duda es una combinación concreta: **empleo del ISM rebotando, precios de servicios acelerando y minutas con apoyo amplio a más alzas**. Si eso no aparece, el NFP sigue mandando.
-
-## Enlaces de las fuentes
-
-- [FinancialJuice — Week Ahead: Economic Indicators 5th–9th October (US)](https://features.financialjuice.com/2026/10/02/week-ahead-economic-indicators-5th-9th-october-us/)
-- [FinancialJuice — US Market Wrap (2 oct)](https://features.financialjuice.com/2026/10/02/stocks-rebound-as-treasury-rally-provides-relief-from-rate-fears-us-market-wrap-2/)
-- [FinancialJuice — Asia Market Wrap (5 oct)](https://features.financialjuice.com/2026/10/05/stock-rally-extends-as-fed-bets-ease-euro-drops-asia-market-wrap/)
-- [Trading Economics — calendario económico](https://tradingeconomics.com/calendar)
-- [BBH — Drivers for the Week of October 5](https://www.bbh.com/us/en/insights/blog/mind-on-the-markets/Drivers-for-the-Week-of-October-5-2026.html)
-- [Reuters — cierre de mercados globales](https://www.reuters.com/world/china/global-markets-global-markets-2026-10-05/)
-- [FinancialMarkets.com — Softer jobs meet $119 billion of supply](https://www.financialmarkets.com/article/softer-jobs-meet-119-billion-of-supply)
 
 ---
 

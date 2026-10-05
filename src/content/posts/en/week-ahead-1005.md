@@ -14,18 +14,6 @@ takeaways:
   - "ISM services (Monday): employment comes in from <strong>47.8</strong> and prices from <strong>72.6</strong>, the highest since 2022; a hiring rebound with high prices would reopen October."
   - "FOMC minutes (Wednesday 1:00 PM CT): broad support for more hikes after the 12-0 decision, or a divided committee?"
   - "Friday: Canada jobs (consensus +7K per my source, +9.5K per Trading Economics) and Michigan (consensus 47.8 vs 48.1 prior)."
-sources:
-  - "FinancialJuice"
-  - "Trading Economics"
-  - "CME FedWatch"
-  - "BLS"
-  - "ISM"
-  - "S&P Global"
-  - "Statistics Canada"
-  - "University of Michigan"
-  - "BBH"
-  - "Reuters"
-  - "FinancialMarkets.com"
 ---
 
 > **Dallas, Texas — Oct 5, 2026, 12:45 AM CT:** US services, Fed communication and Canada's jobs report are this week's three tests for a market that, after the NFP, leans toward holding rates in the short term. There's no CPI and no payrolls: the exam comes from Monday's ISM, Wednesday's minutes and Friday's double release.
@@ -36,19 +24,19 @@ In September the Fed hiked **25 bp to 3.75–4.00%** in a unanimous 12-0 vote an
 
 The data changed that. Payrolls of **+29k** against **90k** expected, revisions to the prior two months of **−60k**, unemployment at **4.2%** and wages at **3.0% year over year**, the slowest pace since 2021. It's not a rate-cut number, but it takes away the urgency. The result: the odds of **holding rates in October rise to 78.4%** (CME FedWatch) and the tightening priced for **December stays around 25.3 bp**. In other words, the market moves from "hike in October" to "pause now, maybe December".
 
-This week decides whether that read holds. On Friday, Wall Street cheered: the S&P 500 rose 0.7% and the Nasdaq 100 hit a record, helped by cheaper oil after the G7 signaled emergency releases of diesel and crude. The NFP came in below every estimate in Bloomberg's survey and gave some relief to Treasuries after months of selling on persistent inflation, government spending and corporate borrowing tied to AI investment (FinancialJuice, US Market Wrap).
+This week decides whether that read holds. On Friday, Wall Street cheered: the S&P 500 rose 0.7% and the Nasdaq 100 hit a record, helped by cheaper oil after the G7 signaled emergency releases of diesel and crude. The NFP came in below every estimate in Bloomberg's survey and gave some relief to Treasuries after months of selling on persistent inflation, government spending and corporate borrowing tied to AI investment.
 
-At Monday's Asian open the tone carries on: the MSCI Asia-Pacific index is up ~1% and the Nikkei ~2%, and money markets now give an October hike less than a 20% chance. The 10-year is still above **5.30%** by my numbers; FinancialJuice and Reuters put it at **5.26%** at the Asian open, after a 1 bp dip. Either way, it's close to Thursday's **5.34%** (a 24-year high), with **$119B** in auctions from Tuesday to Thursday. Brent is down ~0.5% to around **$101.75** after Saudi Arabia cut its official prices for Asia, but it stays above $100 with Aramco and Hormuz in the background. And the **euro** drops to ~**1.1161**, its lowest against the dollar since May 2025, on political uncertainty in Spain; Bunds rise and French debt lags, with the France–Germany spread around **150 bp** by my numbers (FinancialJuice, Asia Market Wrap; FinancialMarkets.com).
+At Monday's Asian open the tone carries on: the MSCI Asia-Pacific index is up ~1% and the Nikkei ~2%, and money markets now give an October hike less than a 20% chance. The 10-year is still above **5.30%** by my numbers, though it trades around **5.26%** at the Asian open, down 1 bp. Either way, it's close to Thursday's **5.34%** (a 24-year high), with **$119B** in auctions from Tuesday to Thursday. Brent is down ~0.5% to around **$101.75** after Saudi Arabia cut its official prices for Asia, but it stays above $100 with Aramco and Hormuz in the background. And the **euro** drops to ~**1.1161**, its lowest against the dollar since May 2025, on political uncertainty in Spain; Bunds rise and French debt lags, with the France–Germany spread around **150 bp** by my numbers.
 
 ## The week at a glance (CT)
 
-Indicators highlighted in FinancialJuice's calendar; consensus from Trading Economics.
+Only the releases that can really move markets; consensus from Trading Economics unless noted.
 
 - **Mon 5, 8:45 AM:** S&P Global services PMI (September final). Prelim: composite 58.4.
 - **Mon 5, 9:00 AM:** ISM services. Consensus 55.7; prior 55.4.
 - **Tue 6, 7:30 AM:** August trade balance. Consensus −$89.8B; prior −$88.6B.
 - **Wed 7, 1:00 PM:** **FOMC minutes** from September.
-- **Thu 8:** FinancialJuice flags no major US indicators; weekly jobless claims are out.
+- **Thu 8:** no major US data; just weekly jobless claims.
 - **Fri 9, 7:30 AM:** Canada employment. Consensus +7K and 6.5% unemployment per my source; +9.5K per Trading Economics.
 - **Fri 9, 9:00 AM:** Michigan sentiment (October prelim). Consensus 47.8; prior 48.1.
 - **Earnings:** PepsiCo (Thursday) and Delta (Friday), the latter as a gauge of fuel costs for airlines.
@@ -71,7 +59,7 @@ This is where the hawkish risk sits. The **prices** index rose to **72.6** in Au
 
 ## Jobless claims
 
-FinancialJuice doesn't flag it, but after a 29k NFP every labor-market signal counts. Consensus **195K**; prior **197K**.
+It's not a top-tier release, but after a 29k NFP every labor-market signal counts. Consensus **195K**; prior **197K**.
 
 - **Base case:** a print near consensus doesn't move the needle.
 - **What would change the script:** a clear jump would reinforce the NFP's cooling message and the October pause; a low print would soften that read.
@@ -95,16 +83,6 @@ In September sentiment fell to **48.1** (from 51.7), the expectations index to *
 ## The read for the week
 
 The market's base case is **a pause in October** with December open. What would challenge it is a specific combination: **ISM employment rebounding, services prices accelerating and minutes showing broad support for more hikes**. Without that, the NFP stays in charge.
-
-## Source links
-
-- [FinancialJuice — Week Ahead: Economic Indicators 5th–9th October (US)](https://features.financialjuice.com/2026/10/02/week-ahead-economic-indicators-5th-9th-october-us/)
-- [FinancialJuice — US Market Wrap (Oct 2)](https://features.financialjuice.com/2026/10/02/stocks-rebound-as-treasury-rally-provides-relief-from-rate-fears-us-market-wrap-2/)
-- [FinancialJuice — Asia Market Wrap (Oct 5)](https://features.financialjuice.com/2026/10/05/stock-rally-extends-as-fed-bets-ease-euro-drops-asia-market-wrap/)
-- [Trading Economics — economic calendar](https://tradingeconomics.com/calendar)
-- [BBH — Drivers for the Week of October 5](https://www.bbh.com/us/en/insights/blog/mind-on-the-markets/Drivers-for-the-Week-of-October-5-2026.html)
-- [Reuters — global markets wrap](https://www.reuters.com/world/china/global-markets-global-markets-2026-10-05/)
-- [FinancialMarkets.com — Softer jobs meet $119 billion of supply](https://www.financialmarkets.com/article/softer-jobs-meet-119-billion-of-supply)
 
 ---
 
