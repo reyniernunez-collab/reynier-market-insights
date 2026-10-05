@@ -35,6 +35,7 @@ export default {
     previousPost: "Artículo anterior",
     nextPost: "Artículo siguiente",
     readingTime: "{{minutes}} min de lectura",
+    readMore: "Leer",
     keyTakeaways: "Lo esencial",
     sources: "Fuentes",
     infographic: "Infografía",
