@@ -21,18 +21,24 @@ const isFallback = postLocale !== locale;
 const minutes = getReadingTime(body);
 ---
 
-<li class="my-6">
+<li class="my-4">
   <a
     href={getPostUrl(id, filePath, locale)}
     class:list={[
-      "text-accent inline-block text-lg font-medium",
-      "decoration-dashed underline-offset-4 hover:underline",
-      "focus-visible:no-underline focus-visible:underline-offset-0",
+      "group block cursor-pointer rounded-xl border p-4 sm:p-5",
+      "border-border/70 transition-colors duration-150",
+      "hover:border-accent/60 hover:bg-surface",
+      "focus-visible:border-accent/60 focus-visible:bg-surface",
     ]}
   >
     <Heading
       transition:name={toTransitionName(id)}
       lang={isFallback ? postLocale : undefined}
+      class:list={[
+        "text-accent text-lg font-medium",
+        "decoration-dashed underline-offset-4",
+        "group-hover:underline group-focus-visible:underline",
+      ]}
     >
       {title}
       {
@@ -43,12 +49,24 @@ const minutes = getReadingTime(body);
         )
       }
     </Heading>
-  </a>
-  <Datetime {...props}>
-    <span class="text-muted-foreground text-sm" aria-hidden="true">·</span>
-    <span class="text-muted-foreground text-sm">
-      {tplStr(t.post.readingTime, { minutes })}
+    <Datetime {...props} class="mt-1">
+      <span class="text-muted-foreground text-sm" aria-hidden="true">·</span>
+      <span class="text-muted-foreground text-sm">
+        {tplStr(t.post.readingTime, { minutes })}
+      </span>
+    </Datetime>
+    <p class="text-foreground mt-1" lang={isFallback ? postLocale : undefined}>
+      {description}
+    </p>
+    <span
+      class="text-accent mt-3 inline-flex items-center gap-1 text-sm font-semibold"
+    >
+      {t.post.readMore}
+      <span
+        aria-hidden="true"
+        class="transition-transform duration-150 group-hover:translate-x-1 group-focus-visible:translate-x-1 motion-reduce:transition-none"
+        >→</span
+      >
     </span>
-  </Datetime>
-  <p lang={isFallback ? postLocale : undefined}>{description}</p>
+  </a>
 </li>
