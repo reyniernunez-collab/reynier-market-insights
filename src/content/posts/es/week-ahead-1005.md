@@ -1,7 +1,7 @@
 ---
 title: "Semana del 5 al 9 de octubre: servicios, minutas de la Fed y empleo en Canadá ponen a prueba la pausa"
 description: "Tras un NFP de 29k, el mercado ve un 78,4 % de hold en octubre. ISM servicios, las minutas del FOMC, el empleo de Canadá y Michigan lo ponen a prueba."
-pubDatetime: 2026-10-04T21:00:00-05:00
+pubDatetime: 2026-10-05T00:45:00-05:00
 tags:
   - fed
   - nfp
@@ -28,7 +28,7 @@ sources:
   - "FinancialMarkets.com"
 ---
 
-> **Dallas, Texas — 4 Oct 2026, domingo por la noche CT:** Los servicios de EE.UU., la comunicación de la Fed y el empleo de Canadá son las tres pruebas de la semana para un mercado que, después del NFP, se inclina por mantener tasas a corto plazo. No hay CPI ni nóminas: el examen lo ponen el ISM del lunes, las minutas del miércoles y el doble dato del viernes.
+> **Dallas, Texas — 5 Oct 2026, 00:45 CT:** Los servicios de EE.UU., la comunicación de la Fed y el empleo de Canadá son las tres pruebas de la semana para un mercado que, después del NFP, se inclina por mantener tasas a corto plazo. No hay CPI ni nóminas: el examen lo ponen el ISM del lunes, las minutas del miércoles y el doble dato del viernes.
 
 ## Cómo llegamos aquí: el NFP cambió el guion
 
@@ -36,7 +36,9 @@ En septiembre la Fed subió **25 pb hasta 3,75–4,00 %** por unanimidad (12-0) 
 
 El dato lo cambió. Nóminas de **+29k**, revisiones de los dos meses previos por **−60k**, paro en **4,2 %** y salarios en **3,0 % interanual**, el ritmo más bajo desde 2021. No es un dato de recortes, pero sí uno que quita prisa. Resultado: la probabilidad de **mantener tasas en octubre sube al 78,4 %** (CME FedWatch) y el endurecimiento descontado para **diciembre se queda en ~25,3 pb**. Es decir, el mercado pasa de "subida en octubre" a "pausa ahora, quizá en diciembre".
 
-La semana decide si esa lectura aguanta. El contexto no ayuda a relajarse: el 10 años cerró el domingo en **5,26 %** tras tocar **5,34 %** el jueves, máximo de 24 años, con **119 mil M$** en subastas entre martes y jueves, y el Brent sigue por encima de **100 $** por Aramco y Ormuz (Reuters, FinancialMarkets.com).
+La semana decide si esa lectura aguanta. El viernes, Wall Street lo celebró: el S&P 500 subió un 0,7 % y el Nasdaq 100 marcó récord, con el alivio añadido de un petróleo más barato después de que el G7 anticipara liberaciones de emergencia de diésel y crudo. El NFP quedó por debajo de todas las estimaciones de la encuesta de Bloomberg y dio un respiro a unos Treasuries que llevaban meses de ventas por la inflación persistente, el gasto público y la deuda corporativa ligada a la inversión en IA (FinancialJuice, US Market Wrap).
+
+En la apertura asiática del lunes el tono continúa: el MSCI Asia-Pacífico sube ~1 % y el Nikkei ~2 %, y los mercados monetarios ya dan menos de un 20 % de probabilidad a una subida en octubre. El 10 años cede 1 pb hasta **5,26 %**, todavía cerca del **5,34 %** del jueves (máximo de 24 años), con **119 mil M$** en subastas entre martes y jueves. El Brent baja ~0,5 % hasta unos **101,75 $** después de que Arabia Saudita recortara sus precios oficiales para Asia, pero sigue por encima de 100 $ con Aramco y Ormuz de fondo. Y el **euro** cae hasta ~**1,1161**, su mínimo frente al dólar desde mayo de 2025, por la incertidumbre política en España; los Bunds suben y la deuda francesa se queda atrás (FinancialJuice, Asia Market Wrap; FinancialMarkets.com).
 
 ## La semana en breve (hora CT)
 
@@ -94,6 +96,8 @@ El escenario base del mercado es **pausa en octubre** con diciembre abierto. Lo 
 ## Enlaces de las fuentes
 
 - [FinancialJuice — Week Ahead: Economic Indicators 5th–9th October (US)](https://features.financialjuice.com/2026/10/02/week-ahead-economic-indicators-5th-9th-october-us/)
+- [FinancialJuice — US Market Wrap (2 oct)](https://features.financialjuice.com/2026/10/02/stocks-rebound-as-treasury-rally-provides-relief-from-rate-fears-us-market-wrap-2/)
+- [FinancialJuice — Asia Market Wrap (5 oct)](https://features.financialjuice.com/2026/10/05/stock-rally-extends-as-fed-bets-ease-euro-drops-asia-market-wrap/)
 - [Trading Economics — calendario económico](https://tradingeconomics.com/calendar)
 - [BBH — Drivers for the Week of October 5](https://www.bbh.com/us/en/insights/blog/mind-on-the-markets/Drivers-for-the-Week-of-October-5-2026.html)
 - [Reuters — cierre de mercados globales](https://www.reuters.com/world/china/global-markets-global-markets-2026-10-05/)
