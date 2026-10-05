@@ -17,8 +17,6 @@ takeaways:
   - "Brent slips ~0.5% to ~<strong>$101.75</strong> after Saudi Arabia cut prices on its crude for Asia."
   - "The euro falls to ~<strong>1.1161</strong>, its lowest against the dollar since May 2025, on Spanish politics and Europe's fiscal worries; French debt lags."
   - "US futures flat to slightly lower; Europe points to a modestly higher open."
-sources:
-  - "FinancialJuice (Asia Market Wrap)"
 ---
 
 > **Dallas, Texas — Oct 5, 2026, 1:00 AM CT:** Friday's upbeat tone on Wall Street carries into Asia. Stocks rise, Treasuries stay firm because the soft NFP took pressure off the Fed, Brent eases a little, and the sour note comes from the euro, which drops to its lowest against the dollar since May 2025.
@@ -49,12 +47,7 @@ The euro falls as much as **0.8%** to ~**1.1161**, its lowest against the dollar
 
 - **Euro:** whether the lowest level since May 2025 extends into the European open, and whether French debt keeps lagging German debt.
 - **Treasuries:** whether the 10-year settles below last week's highs with markets pricing less than a 20% chance of an October hike.
-- **US data (CT):** S&P Global final services PMI at 8:45 AM and ISM services at 9:00 AM, per FinancialJuice's calendar.
-
-## Source links
-
-- [FinancialJuice — Stock Rally Extends as Fed Bets Ease, Euro Drops (Asia Market Wrap)](https://features.financialjuice.com/2026/10/05/stock-rally-extends-as-fed-bets-ease-euro-drops-asia-market-wrap/)
-- [FinancialJuice — Week Ahead: Economic Indicators 5th–9th October (US)](https://features.financialjuice.com/2026/10/02/week-ahead-economic-indicators-5th-9th-october-us/)
+- **US data (CT):** S&P Global final services PMI at 8:45 AM and ISM services at 9:00 AM.
 
 ---
 

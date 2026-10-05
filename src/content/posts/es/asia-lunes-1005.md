@@ -17,8 +17,6 @@ takeaways:
   - "El Brent cede ~0,5 % hasta ~<strong>101,75 $</strong> después de que Arabia Saudita recortara los precios de su crudo para Asia."
   - "El euro cae hasta ~<strong>1,1161</strong>, mínimo frente al dólar desde mayo de 2025, por la política española y las dudas fiscales en Europa; la deuda francesa se queda atrás."
   - "Futuros de EE.UU. planos o algo abajo; Europa apunta a una apertura ligeramente al alza."
-sources:
-  - "FinancialJuice (Asia Market Wrap)"
 ---
 
 > **Dallas, Texas — 5 Oct 2026, 01:00 CT:** El buen tono del viernes en Wall Street cruza a Asia. Las bolsas suben, los Treasuries siguen firmes porque el NFP flojo le quitó presión a la Fed, el Brent cede un poco y la nota negativa la pone el euro, que cae a su nivel más bajo frente al dólar desde mayo de 2025.
@@ -49,12 +47,7 @@ El euro llega a caer hasta un **0,8 %**, hasta ~**1,1161**, su nivel más bajo f
 
 - **Euro:** si el mínimo desde mayo de 2025 se extiende en la apertura europea y si la deuda francesa sigue rezagada frente a la alemana.
 - **Treasuries:** si el 10 años consolida por debajo de los máximos de la semana pasada con el mercado descontando menos de un 20 % de alza en octubre.
-- **Datos de EE.UU. (hora CT):** PMI de servicios final de S&P Global a las 08:45 e ISM de servicios a las 09:00, según el calendario de FinancialJuice.
-
-## Enlace de la fuente
-
-- [FinancialJuice — Stock Rally Extends as Fed Bets Ease, Euro Drops (Asia Market Wrap)](https://features.financialjuice.com/2026/10/05/stock-rally-extends-as-fed-bets-ease-euro-drops-asia-market-wrap/)
-- [FinancialJuice — Week Ahead: Economic Indicators 5th–9th October (US)](https://features.financialjuice.com/2026/10/02/week-ahead-economic-indicators-5th-9th-october-us/)
+- **Datos de EE.UU. (hora CT):** PMI de servicios final de S&P Global a las 08:45 e ISM de servicios a las 09:00.
 
 ---
 
