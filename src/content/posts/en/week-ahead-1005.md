@@ -10,10 +10,10 @@ tags:
   - oil
 takeaways:
   - "Thesis: US services, Fed communication and Canada's jobs report test a market that leans toward holding rates in the short term."
-  - "The NFP (+29k, −60k revisions, 4.2% unemployment, 3.0% y/y wages) pushed October hold odds to <strong>78.4%</strong>; ~25.3 bp of tightening is priced by December."
+  - "The NFP (+29k vs 90k expected, −60k revisions, 4.2% unemployment, 3.0% y/y wages) pushed October hold odds to <strong>78.4%</strong>; ~25.3 bp of tightening is priced by December."
   - "ISM services (Monday): employment comes in from <strong>47.8</strong> and prices from <strong>72.6</strong>, the highest since 2022; a hiring rebound with high prices would reopen October."
   - "FOMC minutes (Wednesday 1:00 PM CT): broad support for more hikes after the 12-0 decision, or a divided committee?"
-  - "Friday: Canada jobs (consensus +9.5K after −41.7K) and Michigan, with 1-year inflation expectations at 4.6%."
+  - "Friday: Canada jobs (consensus +7K per my source, +9.5K per Trading Economics) and Michigan (consensus 47.8 vs 48.1 prior)."
 sources:
   - "FinancialJuice"
   - "Trading Economics"
@@ -34,11 +34,11 @@ sources:
 
 In September the Fed hiked **25 bp to 3.75–4.00%** in a unanimous 12-0 vote and moved its path higher: a median rate of **4.1%** for 2026 and 2027. Against that backdrop, the market went into the NFP thinking about another hike soon.
 
-The data changed that. Payrolls of **+29k**, revisions to the prior two months of **−60k**, unemployment at **4.2%** and wages at **3.0% year over year**, the slowest pace since 2021. It's not a rate-cut number, but it takes away the urgency. The result: the odds of **holding rates in October rise to 78.4%** (CME FedWatch) and the tightening priced for **December stays around 25.3 bp**. In other words, the market moves from "hike in October" to "pause now, maybe December".
+The data changed that. Payrolls of **+29k** against **90k** expected, revisions to the prior two months of **−60k**, unemployment at **4.2%** and wages at **3.0% year over year**, the slowest pace since 2021. It's not a rate-cut number, but it takes away the urgency. The result: the odds of **holding rates in October rise to 78.4%** (CME FedWatch) and the tightening priced for **December stays around 25.3 bp**. In other words, the market moves from "hike in October" to "pause now, maybe December".
 
 This week decides whether that read holds. On Friday, Wall Street cheered: the S&P 500 rose 0.7% and the Nasdaq 100 hit a record, helped by cheaper oil after the G7 signaled emergency releases of diesel and crude. The NFP came in below every estimate in Bloomberg's survey and gave some relief to Treasuries after months of selling on persistent inflation, government spending and corporate borrowing tied to AI investment (FinancialJuice, US Market Wrap).
 
-At Monday's Asian open the tone carries on: the MSCI Asia-Pacific index is up ~1% and the Nikkei ~2%, and money markets now give an October hike less than a 20% chance. The 10-year slips 1 bp to **5.26%**, still close to Thursday's **5.34%** (a 24-year high), with **$119B** in auctions from Tuesday to Thursday. Brent is down ~0.5% to around **$101.75** after Saudi Arabia cut its official prices for Asia, but it stays above $100 with Aramco and Hormuz in the background. And the **euro** drops to ~**1.1161**, its lowest against the dollar since May 2025, on political uncertainty in Spain; Bunds rise and French debt lags (FinancialJuice, Asia Market Wrap; FinancialMarkets.com).
+At Monday's Asian open the tone carries on: the MSCI Asia-Pacific index is up ~1% and the Nikkei ~2%, and money markets now give an October hike less than a 20% chance. The 10-year is still above **5.30%** by my numbers; FinancialJuice and Reuters put it at **5.26%** at the Asian open, after a 1 bp dip. Either way, it's close to Thursday's **5.34%** (a 24-year high), with **$119B** in auctions from Tuesday to Thursday. Brent is down ~0.5% to around **$101.75** after Saudi Arabia cut its official prices for Asia, but it stays above $100 with Aramco and Hormuz in the background. And the **euro** drops to ~**1.1161**, its lowest against the dollar since May 2025, on political uncertainty in Spain; Bunds rise and French debt lags, with the France–Germany spread around **150 bp** by my numbers (FinancialJuice, Asia Market Wrap; FinancialMarkets.com).
 
 ## The week at a glance (CT)
 
@@ -49,7 +49,8 @@ Indicators highlighted in FinancialJuice's calendar; consensus from Trading Econ
 - **Tue 6, 7:30 AM:** August trade balance. Consensus −$89.8B; prior −$88.6B.
 - **Wed 7, 1:00 PM:** **FOMC minutes** from September.
 - **Thu 8:** FinancialJuice flags no major US indicators; weekly jobless claims are out.
-- **Fri 9, 7:30 AM:** Canada employment. **9:00 AM:** Michigan sentiment (October prelim).
+- **Fri 9, 7:30 AM:** Canada employment. Consensus +7K and 6.5% unemployment per my source; +9.5K per Trading Economics.
+- **Fri 9, 9:00 AM:** Michigan sentiment (October prelim). Consensus 47.8; prior 48.1.
 - **Earnings:** PepsiCo (Thursday) and Delta (Friday), the latter as a gauge of fuel costs for airlines.
 
 The key question for the minutes: whether the 12-0 hike reflected broad conviction that more tightening is needed, or whether part of the committee backed it with reservations. BBH thinks they may sound stale, since Williams, Jefferson and Bowman have already called for patience.
@@ -77,14 +78,16 @@ FinancialJuice doesn't flag it, but after a 29k NFP every labor-market signal co
 
 ## Canada employment
 
-In August Canada **lost 42k jobs** (−41.7K), unemployment held at **6.4%** and wages slowed to **2.0% year over year**, the weakest pace outside the pandemic since November 2017. The Bank of Canada held its rate at **2.25%** in September. Consensus for September: **+9.5K**.
+In August Canada **lost 42k jobs** (−41.7K), unemployment held at **6.4%** and wages slowed to **2.0% year over year**, the weakest pace outside the pandemic since November 2017. The Bank of Canada held its rate at **2.25%** in September and, by my numbers, markets price a **67.1%** chance of a pause in October and **~27.9 bp** by December.
+
+For September, the consensus I'm using is **+7K** with unemployment rising to **6.5%** (from 6.4%); Trading Economics points to **+9.5K**. The gap is small, but it matters when reading the surprise.
 
 - **Base case:** a modest recovery in line with consensus; August reads as a stumble.
-- **What would change the script:** a strong rebound with firmer wages would support CAD and reduce the case for more easing; a second negative print with higher unemployment would pressure CAD and open the door to a more accommodative Bank of Canada.
+- **What would change the script:** a strong rebound with firmer wages would support CAD and call the 67.1% October pause into question; a second negative print with unemployment above 6.5% would pressure CAD and reinforce the pause.
 
 ## Michigan sentiment and inflation expectations
 
-In September sentiment fell to **48.1** (from 51.7), **1-year inflation expectations rose to 4.6%** (from 4.0%) and **5–10-year expectations to 3.4%** (from 3.3%).
+In September sentiment fell to **48.1** (from 51.7), the expectations index to **46.3**, **1-year inflation expectations rose to 4.6%** (from 4.0%) and **5–10-year expectations to 3.4%** (from 3.3%). For the October prelim, consensus is **47.8** for sentiment and **45.9** for expectations.
 
 - **Base case:** weak sentiment and still-elevated expectations. The Fed watches expectations more than the headline.
 - **What would change the script:** another rise, especially in the 5–10-year measure, would feed concerns that inflation is settling at a higher level and reinforce restrictive policy heading into December. A decline in both measures would be reassuring and support the pause.

@@ -10,10 +10,10 @@ tags:
   - petroleo
 takeaways:
   - "Tesis: los servicios de EE.UU., la comunicación de la Fed y el empleo de Canadá ponen a prueba a un mercado que se inclina por mantener tasas a corto plazo."
-  - "El NFP (+29k, revisiones −60k, paro 4,2 %, salarios 3,0 % a/a) llevó el hold de octubre al <strong>78,4 %</strong>; para diciembre se descuentan ~25,3 pb de endurecimiento."
+  - "El NFP (+29k vs 90k esperadas, revisiones −60k, paro 4,2 %, salarios 3,0 % a/a) llevó el hold de octubre al <strong>78,4 %</strong>; para diciembre se descuentan ~25,3 pb de endurecimiento."
   - "ISM servicios (lunes): el empleo viene de <strong>47,8</strong> y los precios de <strong>72,6</strong>, máximo desde 2022; un rebote del empleo con precios altos reabriría octubre."
   - "Minutas del FOMC (miércoles 13:00 CT): ¿apoyo amplio a más alzas tras la subida 12-0 o un comité dividido?"
-  - "Viernes: empleo de Canadá (consenso +9,5k tras −41,7k) y Michigan, con la expectativa de inflación a 1 año en 4,6 %."
+  - "Viernes: empleo de Canadá (consenso +7k según mi fuente, +9,5k según Trading Economics) y Michigan (consenso 47,8 frente a 48,1 previo)."
 sources:
   - "FinancialJuice"
   - "Trading Economics"
@@ -34,11 +34,11 @@ sources:
 
 En septiembre la Fed subió **25 pb hasta 3,75–4,00 %** por unanimidad (12-0) y movió al alza su senda: tasa mediana de **4,1 %** para 2026 y 2027. Con ese telón de fondo, el mercado llegó al NFP pensando en otra subida pronto.
 
-El dato lo cambió. Nóminas de **+29k**, revisiones de los dos meses previos por **−60k**, paro en **4,2 %** y salarios en **3,0 % interanual**, el ritmo más bajo desde 2021. No es un dato de recortes, pero sí uno que quita prisa. Resultado: la probabilidad de **mantener tasas en octubre sube al 78,4 %** (CME FedWatch) y el endurecimiento descontado para **diciembre se queda en ~25,3 pb**. Es decir, el mercado pasa de "subida en octubre" a "pausa ahora, quizá en diciembre".
+El dato lo cambió. Nóminas de **+29k** frente a **90k** esperadas, revisiones de los dos meses previos por **−60k**, paro en **4,2 %** y salarios en **3,0 % interanual**, el ritmo más bajo desde 2021. No es un dato de recortes, pero sí uno que quita prisa. Resultado: la probabilidad de **mantener tasas en octubre sube al 78,4 %** (CME FedWatch) y el endurecimiento descontado para **diciembre se queda en ~25,3 pb**. Es decir, el mercado pasa de "subida en octubre" a "pausa ahora, quizá en diciembre".
 
 La semana decide si esa lectura aguanta. El viernes, Wall Street lo celebró: el S&P 500 subió un 0,7 % y el Nasdaq 100 marcó récord, con el alivio añadido de un petróleo más barato después de que el G7 anticipara liberaciones de emergencia de diésel y crudo. El NFP quedó por debajo de todas las estimaciones de la encuesta de Bloomberg y dio un respiro a unos Treasuries que llevaban meses de ventas por la inflación persistente, el gasto público y la deuda corporativa ligada a la inversión en IA (FinancialJuice, US Market Wrap).
 
-En la apertura asiática del lunes el tono continúa: el MSCI Asia-Pacífico sube ~1 % y el Nikkei ~2 %, y los mercados monetarios ya dan menos de un 20 % de probabilidad a una subida en octubre. El 10 años cede 1 pb hasta **5,26 %**, todavía cerca del **5,34 %** del jueves (máximo de 24 años), con **119 mil M$** en subastas entre martes y jueves. El Brent baja ~0,5 % hasta unos **101,75 $** después de que Arabia Saudita recortara sus precios oficiales para Asia, pero sigue por encima de 100 $ con Aramco y Ormuz de fondo. Y el **euro** cae hasta ~**1,1161**, su mínimo frente al dólar desde mayo de 2025, por la incertidumbre política en España; los Bunds suben y la deuda francesa se queda atrás (FinancialJuice, Asia Market Wrap; FinancialMarkets.com).
+En la apertura asiática del lunes el tono continúa: el MSCI Asia-Pacífico sube ~1 % y el Nikkei ~2 %, y los mercados monetarios ya dan menos de un 20 % de probabilidad a una subida en octubre. El 10 años sigue por encima de **5,30 %** según mis datos; FinancialJuice y Reuters lo sitúan en **5,26 %** en la apertura asiática, tras cerrar 1 pb abajo. En cualquier caso, cerca del **5,34 %** del jueves (máximo de 24 años), con **119 mil M$** en subastas entre martes y jueves. El Brent baja ~0,5 % hasta unos **101,75 $** después de que Arabia Saudita recortara sus precios oficiales para Asia, pero sigue por encima de 100 $ con Aramco y Ormuz de fondo. Y el **euro** cae hasta ~**1,1161**, su mínimo frente al dólar desde mayo de 2025, por la incertidumbre política en España; los Bunds suben y la deuda francesa se queda atrás, con el diferencial Francia–Alemania en torno a **150 pb** según mis datos (FinancialJuice, Asia Market Wrap; FinancialMarkets.com).
 
 ## La semana en breve (hora CT)
 
@@ -49,7 +49,8 @@ Indicadores que destaca el calendario de FinancialJuice; consenso de Trading Eco
 - **Mar 6, 07:30:** balanza comercial de agosto. Consenso −89,8 mil M$; anterior −88,6 mil M$.
 - **Mié 7, 13:00:** **minutas del FOMC** de septiembre.
 - **Jue 8:** FinancialJuice no destaca indicadores de EE.UU.; salen las solicitudes de desempleo semanales.
-- **Vie 9, 07:30:** empleo de Canadá. **09:00:** sentimiento de Michigan (preliminar de octubre).
+- **Vie 9, 07:30:** empleo de Canadá. Consenso +7k y paro 6,5 % según mi fuente; +9,5k según Trading Economics.
+- **Vie 9, 09:00:** sentimiento de Michigan (preliminar de octubre). Consenso 47,8; anterior 48,1.
 - **Resultados:** PepsiCo (jueves) y Delta (viernes), esta última como termómetro del coste del combustible para las aerolíneas.
 
 La pregunta de fondo para las minutas: si la subida 12-0 reflejó una convicción amplia de que hay que endurecer más, o si parte del comité la apoyó con reservas. BBH cree que pueden sonar viejas, porque Williams, Jefferson y Bowman ya han pedido paciencia.
@@ -77,14 +78,16 @@ FinancialJuice no lo destaca, pero tras un NFP de 29k cualquier señal del merca
 
 ## Empleo en Canadá
 
-En agosto Canadá **perdió 42k empleos** (−41,7k), el paro se mantuvo en **6,4 %** y los salarios frenaron a **2,0 % interanual**, el menor ritmo fuera de la pandemia desde noviembre de 2017. El Banco de Canadá dejó su tasa en **2,25 %** en septiembre. Consenso para septiembre: **+9,5k**.
+En agosto Canadá **perdió 42k empleos** (−41,7k), el paro se mantuvo en **6,4 %** y los salarios frenaron a **2,0 % interanual**, el menor ritmo fuera de la pandemia desde noviembre de 2017. El Banco de Canadá dejó su tasa en **2,25 %** en septiembre y, según mis datos, el mercado da un **67,1 %** de pausa en octubre y descuenta **~27,9 pb** para diciembre.
+
+Para septiembre, el consenso que manejo es de **+7k** con el paro subiendo a **6,5 %** (desde 6,4 %); Trading Economics apunta a **+9,5k**. La diferencia es pequeña, pero conviene tenerla en cuenta para leer la sorpresa.
 
 - **Escenario base:** recuperación modesta, en línea con el consenso; agosto se lee como un tropiezo.
-- **Qué cambiaría el guion:** un rebote fuerte con salarios más firmes apoyaría al CAD y reduciría la idea de más estímulo; un segundo dato negativo con más paro presionaría al CAD y abriría la puerta a un Banco de Canadá más acomodaticio.
+- **Qué cambiaría el guion:** un rebote fuerte con salarios más firmes apoyaría al CAD y pondría en duda el 67,1 % de pausa en octubre; un segundo dato negativo con el paro por encima del 6,5 % presionaría al CAD y reforzaría la pausa.
 
 ## Sentimiento de Michigan y expectativas de inflación
 
-En septiembre el sentimiento cayó a **48,1** (desde 51,7), la expectativa de inflación a **1 año subió a 4,6 %** (desde 4,0 %) y la de **5–10 años a 3,4 %** (desde 3,3 %).
+En septiembre el sentimiento cayó a **48,1** (desde 51,7), el índice de expectativas a **46,3**, la expectativa de inflación a **1 año subió a 4,6 %** (desde 4,0 %) y la de **5–10 años a 3,4 %** (desde 3,3 %). Para el preliminar de octubre, el consenso es **47,8** en sentimiento y **45,9** en expectativas.
 
 - **Escenario base:** sentimiento débil y expectativas todavía altas. La Fed mira más las expectativas que el titular.
 - **Qué cambiaría el guion:** una nueva subida, sobre todo en la de 5–10 años, alimentaría el temor a que la inflación se esté anclando más arriba y reforzaría la política restrictiva de cara a diciembre. Una bajada de ambas medidas daría tranquilidad y apoyaría la pausa.
