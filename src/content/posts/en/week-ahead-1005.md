@@ -16,7 +16,7 @@ takeaways:
   - "Fed: hiked 25 bp to 3.75–4.00% in September (12-0); CME FedWatch puts an October hike at <strong>22%</strong>, down from 64% a week ago."
   - "Bonds: the 10-year sits at <strong>5.26%</strong> after hitting 5.34% on Thursday (a 24-year high), with $119B in 3-, 10- and 30-year auctions."
   - "Oil: Brent <strong>$102.20</strong> / WTI $90.75 after the Houthis' claimed attack on Aramco (unconfirmed by Riyadh) and Iran keeping Hormuz shut."
-  - "Calendar: ISM services (Monday), minutes (Wednesday), PepsiCo (Thursday), Delta and Canada jobs (Friday); September CPI on Oct 14."
+  - "Calendar: ISM services (Monday), minutes (Wednesday), PepsiCo (Thursday), Delta and Canada jobs (Friday)."
 sources:
   - "FinancialJuice"
   - "Trading Economics"
@@ -65,8 +65,6 @@ Consensus from Trading Economics unless another source is noted.
 | Fri 9 | 3:00 PM                     | Collins speaks                       | —                                                                                                                                |
 | Fri 9 | Before the open             | Earnings: Delta (DAL)                | EPS est. $1.94; revenue est. $18.83B (Webull)                                                                                    |
 | Fri 9 | —                           | Earnings: BlackRock (BLK)            | —                                                                                                                                |
-
-**On the radar for the following week:** a Russia–Saudi Arabia meeting (Oct 12), the start of bank earnings with JPMorgan (Oct 13) and September CPI (Wednesday, Oct 14, 7:30 AM CT).
 
 ## Asset by asset: what the sources flag
 

@@ -16,7 +16,7 @@ takeaways:
   - "Fed: subió 25 pb a 3,75–4,00 % en septiembre (12-0); CME FedWatch da un <strong>22 %</strong> de alza en octubre, frente al 64 % de hace una semana."
   - "Bonos: el 10 años está en <strong>5,26 %</strong> tras tocar 5,34 % el jueves (máximo de 24 años), con 119 mil M$ en subastas de 3, 10 y 30 años."
   - "Petróleo: Brent <strong>102,20 $</strong> / WTI 90,75 $ con el ataque hutí reivindicado contra Aramco (sin confirmar por Riad) e Irán sin reabrir Ormuz."
-  - "Agenda: ISM servicios (lunes), minutas (miércoles), PepsiCo (jueves), Delta y empleo de Canadá (viernes); CPI de septiembre el 14 de octubre."
+  - "Agenda: ISM servicios (lunes), minutas (miércoles), PepsiCo (jueves), Delta y empleo de Canadá (viernes)."
 sources:
   - "FinancialJuice"
   - "Trading Economics"
@@ -65,8 +65,6 @@ Consenso de Trading Economics salvo que se indique otra fuente.
 | Vie 9 | 15:00                 | Habla Collins                          | —                                                                                                                               |
 | Vie 9 | Antes de la apertura  | Resultados: Delta (DAL)                | BPA est. 1,94 $; ingresos est. 18,83 mil M$ (Webull)                                                                            |
 | Vie 9 | —                     | Resultados: BlackRock (BLK)            | —                                                                                                                               |
-
-**En el radar para la semana siguiente:** reunión Rusia–Arabia Saudita (12 oct), arranque de la temporada de bancos con JPMorgan (13 oct) y CPI de septiembre (miércoles 14 oct, 07:30 CT).
 
 ## Por activo: lo que señalan las fuentes
 
