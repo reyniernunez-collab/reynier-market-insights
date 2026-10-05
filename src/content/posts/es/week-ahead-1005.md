@@ -16,7 +16,7 @@ takeaways:
   - "Fed: subió 25 pb a 3,75–4,00 % en septiembre (12-0); CME FedWatch da un <strong>22 %</strong> de alza en octubre, frente al 64 % de hace una semana."
   - "Bonos: el 10 años está en <strong>5,26 %</strong> tras tocar 5,34 % el jueves (máximo de 24 años), con 119 mil M$ en subastas de 3, 10 y 30 años."
   - "Petróleo: Brent <strong>102,20 $</strong> / WTI 90,75 $ con el ataque hutí reivindicado contra Aramco (sin confirmar por Riad) e Irán sin reabrir Ormuz."
-  - "Agenda: ISM servicios (lunes), minutas (miércoles), PepsiCo (jueves), Delta y empleo de Canadá (viernes)."
+  - "Agenda: ISM de servicios (lunes), balanza comercial (martes), minutas (miércoles), empleo de Canadá y Michigan (viernes); resultados de PepsiCo y Delta."
 sources:
   - "FinancialJuice"
   - "Trading Economics"
@@ -40,31 +40,25 @@ En el cierre asiático del domingo (Reuters), el **10 años** está en **5,26 %*
 
 ## Calendario de la semana (hora CT)
 
-Consenso de Trading Economics salvo que se indique otra fuente.
+Indicadores que destaca el calendario semanal de FinancialJuice; consenso de Trading Economics.
 
-| Día   | Hora (CT)             | Evento                                 | Consenso / anterior                                                                                                             |
-| ----- | --------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Lun 5 | 08:45                 | PMI servicios final S&P                | Prelim. 58,7 (compuesto 58,4)                                                                                                   |
-| Lun 5 | 09:00                 | ISM servicios                          | Consenso 55,7; anterior 55,4. Precios: anterior 72,6 (máximo desde 2022). Empleo: anterior 47,8. BBH espera 55,0 y precios 73,2 |
-| Mar 6 | 07:30                 | Balanza comercial (agosto)             | Consenso −⁠89,8 mil M$; anterior −⁠88,6 mil M$                                                                                  |
-| Mar 6 | 08:05 / 09:45 / 18:00 | Hablan Williams, Bowman y Logan        | —                                                                                                                               |
-| Mar 6 | 12:00                 | Subasta de notas a 3 años              | —                                                                                                                               |
-| Mar 6 | —                     | Resultados: Constellation Brands (STZ) | —                                                                                                                               |
-| Mié 7 | 09:30                 | Inventarios de crudo EIA               | —                                                                                                                               |
-| Mié 7 | 12:00                 | Subasta a 10 años                      | —                                                                                                                               |
-| Mié 7 | 13:00                 | **Minutas del FOMC**                   | —                                                                                                                               |
-| Mié 7 | —                     | Decisión de tasas del RBI (India)      | —                                                                                                                               |
-| Mié 7 | Tras el cierre        | Resultados: Levi's (LEVI)              | —                                                                                                                               |
-| Jue 8 | 06:30                 | Actas del BCE                          | —                                                                                                                               |
-| Jue 8 | 07:30                 | Solicitudes de desempleo               | Consenso 195k; anterior 197k                                                                                                    |
-| Jue 8 | 12:00                 | Subasta a 30 años                      | —                                                                                                                               |
-| Jue 8 | 12:40                 | Habla Musalem                          | —                                                                                                                               |
-| Jue 8 | Antes de la apertura  | Resultados: PepsiCo (PEP)              | BPA est. 2,28 $; ingresos est. 24,97 mil M$ (Webull)                                                                            |
-| Vie 9 | 07:30                 | Empleo de Canadá                       | Consenso +9,5k; anterior −⁠41,7k                                                                                                |
-| Vie 9 | 09:00                 | Sentimiento de Michigan (prelim.)      | Consenso 48,1; expectativa de inflación a 1 año: anterior 4,6 %                                                                 |
-| Vie 9 | 15:00                 | Habla Collins                          | —                                                                                                                               |
-| Vie 9 | Antes de la apertura  | Resultados: Delta (DAL)                | BPA est. 1,94 $; ingresos est. 18,83 mil M$ (Webull)                                                                            |
-| Vie 9 | —                     | Resultados: BlackRock (BLK)            | —                                                                                                                               |
+| Día   | Hora (CT) | Evento                                                            | Consenso / anterior                                                      |
+| ----- | --------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Lun 5 | 08:45     | PMI de servicios S&P Global (final de septiembre)                 | Preliminar: servicios 58,7; compuesto 58,4                               |
+| Lun 5 | 09:00     | ISM de servicios (septiembre)                                     | Consenso 55,7; anterior 55,4. Precios: anterior 72,6 (máximo desde 2022) |
+| Mar 6 | 07:30     | Balanza comercial (agosto)                                        | Consenso −⁠89,8 mil M$; anterior −⁠88,6 mil M$                           |
+| Mié 7 | 13:00     | **Minutas del FOMC** (reunión de septiembre)                      | —                                                                        |
+| Jue 8 | —         | Sin indicadores destacados en EE.UU.                              | —                                                                        |
+| Vie 9 | 07:30     | Empleo de Canadá (septiembre)                                     | Consenso +9,5k; anterior −⁠41,7k                                         |
+| Vie 9 | 09:00     | Sentimiento de la Universidad de Michigan (preliminar de octubre) | Anterior 48,1; expectativa de inflación a 1 año: anterior 4,6 %          |
+
+**Resultados de la semana:**
+
+- **Mar 6:** Constellation Brands (STZ).
+- **Mié 7, tras el cierre:** Levi's (LEVI).
+- **Jue 8, antes de la apertura:** PepsiCo (PEP). BPA est. 2,28 $; ingresos est. 24,97 mil M$ (Webull).
+- **Vie 9, antes de la apertura:** Delta (DAL). BPA est. 1,94 $; ingresos est. 18,83 mil M$ (Webull).
+- **Vie 9:** BlackRock (BLK).
 
 ## Por activo: lo que señalan las fuentes
 
@@ -95,10 +89,6 @@ No hay niveles disponibles en las fuentes de este resumen, así que no doy cifra
 - **INR:** decisión del RBI el miércoles.
 - **EUR:** actas del BCE el jueves.
 - **JPY:** Uchida (BoJ) describió la IA como un choque de demanda fuertemente positivo que empuja al alza la actividad y los precios.
-
-### Otros
-
-Brasil: Flávio Bolsonaro pasa a segunda vuelta contra Lula (Reuters).
 
 ## Riesgos de la semana
 

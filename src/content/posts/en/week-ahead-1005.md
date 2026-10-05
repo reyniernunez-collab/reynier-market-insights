@@ -16,7 +16,7 @@ takeaways:
   - "Fed: hiked 25 bp to 3.75–4.00% in September (12-0); CME FedWatch puts an October hike at <strong>22%</strong>, down from 64% a week ago."
   - "Bonds: the 10-year sits at <strong>5.26%</strong> after hitting 5.34% on Thursday (a 24-year high), with $119B in 3-, 10- and 30-year auctions."
   - "Oil: Brent <strong>$102.20</strong> / WTI $90.75 after the Houthis' claimed attack on Aramco (unconfirmed by Riyadh) and Iran keeping Hormuz shut."
-  - "Calendar: ISM services (Monday), minutes (Wednesday), PepsiCo (Thursday), Delta and Canada jobs (Friday)."
+  - "Calendar: ISM services (Monday), trade balance (Tuesday), minutes (Wednesday), Canada jobs and Michigan (Friday); PepsiCo and Delta earnings."
 sources:
   - "FinancialJuice"
   - "Trading Economics"
@@ -40,31 +40,25 @@ At Sunday's Asian close (Reuters), the **10-year** is at **5.26%** and the **2-y
 
 ## This week's calendar (CT)
 
-Consensus from Trading Economics unless another source is noted.
+Indicators highlighted in FinancialJuice's weekly calendar; consensus from Trading Economics.
 
-| Day   | Time (CT)                   | Event                                | Consensus / prior                                                                                                                |
-| ----- | --------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| Mon 5 | 8:45 AM                     | S&P final services PMI               | Prelim 58.7 (composite 58.4)                                                                                                     |
-| Mon 5 | 9:00 AM                     | ISM services                         | Consensus 55.7; prior 55.4. Prices: prior 72.6 (highest since 2022). Employment: prior 47.8. BBH expects 55.0 and prices at 73.2 |
-| Tue 6 | 7:30 AM                     | Trade balance (August)               | Consensus −⁠$89.8B; prior −⁠$88.6B                                                                                               |
-| Tue 6 | 8:05 AM / 9:45 AM / 6:00 PM | Williams, Bowman and Logan speak     | —                                                                                                                                |
-| Tue 6 | 12:00 PM                    | 3-year note auction                  | —                                                                                                                                |
-| Tue 6 | —                           | Earnings: Constellation Brands (STZ) | —                                                                                                                                |
-| Wed 7 | 9:30 AM                     | EIA crude inventories                | —                                                                                                                                |
-| Wed 7 | 12:00 PM                    | 10-year auction                      | —                                                                                                                                |
-| Wed 7 | 1:00 PM                     | **FOMC minutes**                     | —                                                                                                                                |
-| Wed 7 | —                           | RBI (India) rate decision            | —                                                                                                                                |
-| Wed 7 | After the close             | Earnings: Levi's (LEVI)              | —                                                                                                                                |
-| Thu 8 | 6:30 AM                     | ECB accounts                         | —                                                                                                                                |
-| Thu 8 | 7:30 AM                     | Initial jobless claims               | Consensus 195K; prior 197K                                                                                                       |
-| Thu 8 | 12:00 PM                    | 30-year auction                      | —                                                                                                                                |
-| Thu 8 | 12:40 PM                    | Musalem speaks                       | —                                                                                                                                |
-| Thu 8 | Before the open             | Earnings: PepsiCo (PEP)              | EPS est. $2.28; revenue est. $24.97B (Webull)                                                                                    |
-| Fri 9 | 7:30 AM                     | Canada employment                    | Consensus +9.5K; prior −⁠41.7K                                                                                                   |
-| Fri 9 | 9:00 AM                     | Michigan sentiment (prelim)          | Consensus 48.1; 1-year inflation expectations: prior 4.6%                                                                        |
-| Fri 9 | 3:00 PM                     | Collins speaks                       | —                                                                                                                                |
-| Fri 9 | Before the open             | Earnings: Delta (DAL)                | EPS est. $1.94; revenue est. $18.83B (Webull)                                                                                    |
-| Fri 9 | —                           | Earnings: BlackRock (BLK)            | —                                                                                                                                |
+| Day   | Time (CT) | Event                                             | Consensus / prior                                                   |
+| ----- | --------- | ------------------------------------------------- | ------------------------------------------------------------------- |
+| Mon 5 | 8:45 AM   | S&P Global services PMI (September final)         | Prelim: services 58.7; composite 58.4                               |
+| Mon 5 | 9:00 AM   | ISM services (September)                          | Consensus 55.7; prior 55.4. Prices: prior 72.6 (highest since 2022) |
+| Tue 6 | 7:30 AM   | Trade balance (August)                            | Consensus −⁠$89.8B; prior −⁠$88.6B                                  |
+| Wed 7 | 1:00 PM   | **FOMC minutes** (September meeting)              | —                                                                   |
+| Thu 8 | —         | No major US indicators                            | —                                                                   |
+| Fri 9 | 7:30 AM   | Canada employment (September)                     | Consensus +9.5K; prior −⁠41.7K                                      |
+| Fri 9 | 9:00 AM   | University of Michigan sentiment (October prelim) | Prior 48.1; 1-year inflation expectations: prior 4.6%               |
+
+**Earnings this week:**
+
+- **Tue 6:** Constellation Brands (STZ).
+- **Wed 7, after the close:** Levi's (LEVI).
+- **Thu 8, before the open:** PepsiCo (PEP). EPS est. $2.28; revenue est. $24.97B (Webull).
+- **Fri 9, before the open:** Delta (DAL). EPS est. $1.94; revenue est. $18.83B (Webull).
+- **Fri 9:** BlackRock (BLK).
 
 ## Asset by asset: what the sources flag
 
@@ -95,10 +89,6 @@ The sources behind this summary don't give levels, so I'm not quoting any. What'
 - **INR:** the RBI decision on Wednesday.
 - **EUR:** the ECB accounts on Thursday.
 - **JPY:** Uchida (BoJ) described AI as a strongly positive demand shock pushing activity and prices higher.
-
-### Other
-
-Brazil: Flávio Bolsonaro advances to a runoff against Lula (Reuters).
 
 ## Risks for the week
 
