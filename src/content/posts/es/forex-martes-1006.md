@@ -111,23 +111,6 @@ _Vol. esperada: rango de un día derivado de la volatilidad implícita a 30 día
 2. **El dólar se toma un respiro.** Si el déficit comercial de EE.UU. sale peor de lo esperado y Williams, Bowman y Logan suenan moderados, el DXY corrige hacia 102,0, pero sin cambiar la tendencia del euro.
 3. **Ueda abre diciembre.** Si apunta a un alza en diciembre, USD/JPY cae con fuerza desde 158. Si se mantiene neutral, el par sigue sostenido por el diferencial, con techo en la zona de intervención.
 
-## Ideas para el martes (análisis educativo)
-
-> **Aviso:** estas ideas son análisis con fines educativos, no recomendaciones de inversión. Cada quien gestiona su riesgo. Ventana de referencia: sesión de NY, 8:00 AM–2:30 PM CT.
-
-1. **EUR/USD: vender rebotes.**
-   - **Tesis:** prima de riesgo soberano + BCE menos agresivo.
-   - **Catalizadores:** ventas minoristas de la eurozona (4:00 AM CT) y balanza comercial de EE.UU. (7:30 AM CT).
-   - **Zona de entrada:** 1,1235–1,1260. **Invalidación:** cierre de 1 hora por encima de 1,1290. **Objetivo:** 1,1165.
-2. **AUD/USD: compra táctica hacia las expiraciones.**
-   - **Tesis:** el AUD resiste y, a 30 días, su correlación con el 10 años de EE.UU. es de 0,98.
-   - **Catalizador:** corte de NY a las 9:00 AM CT, con 0,6990/0,7000 (820 M A$ en total).
-   - **Zona de entrada:** 0,6935–0,6945. **Invalidación:** por debajo de 0,6915. **Objetivo:** 0,6990–0,7000.
-   - **Filtro:** descartarla si el flujo vendedor del cierre del lunes se convierte en aversión al riesgo en la apertura.
-3. **USD/JPY: solo condicional.**
-   - **Si Ueda (1:35 AM CT) apunta a diciembre:** vender en 158,30–158,60, invalidación por encima de 159,10, objetivo 157,45 (mínimo del lunes).
-   - **Si es neutral:** no hay operación. No perseguir compras cerca de la zona de intervención.
-
 ---
 
 _Análisis desde Dallas, Texas. Reynier Market Insights — Daily insights._
