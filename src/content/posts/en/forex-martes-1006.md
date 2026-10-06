@@ -111,23 +111,6 @@ _Expected vol: a one-day range derived from 30-day implied volatility (annualize
 2. **The dollar takes a breather.** If the US trade deficit comes in worse than expected and Williams, Bowman and Logan sound dovish, the DXY corrects toward 102.0, without changing the euro's trend.
 3. **Ueda opens December.** If he points to a December hike, USD/JPY drops sharply from 158. If he stays neutral, the pair stays supported by the differential, capped by the intervention zone.
 
-## Ideas for Tuesday (educational analysis)
-
-> **Disclaimer:** these ideas are educational analysis, not investment recommendations. Everyone manages their own risk. Reference window: NY session, 8:00 AM–2:30 PM CT.
-
-1. **EUR/USD: sell rallies.**
-   - **Thesis:** sovereign risk premium + a less hawkish ECB.
-   - **Catalysts:** euro-area retail sales (4:00 AM CT) and the US trade balance (7:30 AM CT).
-   - **Entry zone:** 1.1235–1.1260. **Invalidation:** 1-hour close above 1.1290. **Target:** 1.1165.
-2. **AUD/USD: tactical buy toward the expiries.**
-   - **Thesis:** the AUD is holding up, and its 30-day correlation with the US 10-year is 0.98.
-   - **Catalyst:** the NY cut at 9:00 AM CT, with 0.6990/0.7000 (A$820M in total).
-   - **Entry zone:** 0.6935–0.6945. **Invalidation:** below 0.6915. **Target:** 0.6990–0.7000.
-   - **Filter:** skip it if Monday's sell-side closing flow turns into risk-off at the open.
-3. **USD/JPY: conditional only.**
-   - **If Ueda (1:35 AM CT) points to December:** sell at 158.30–158.60, invalidation above 159.10, target 157.45 (Monday's low).
-   - **If he's neutral:** no trade. Don't chase longs near the intervention zone.
-
 ---
 
 _Analysis from Dallas, Texas. Reynier Market Insights — Daily insights._
