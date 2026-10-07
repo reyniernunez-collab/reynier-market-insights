@@ -1,7 +1,7 @@
 ---
 title: "New York close, Wednesday: the Fed confirms its hawkish lean and Wall Street pauses"
 description: "The S&P 500 slips from its record with Brent at $100 and minutes pointing to another 2026 hike; a strong 10-year auction caps yields."
-pubDatetime: 2026-10-07T15:40:00-05:00
+pubDatetime: 2026-10-07T15:20:00-05:00
 tags:
   - us
   - sp500
@@ -18,7 +18,7 @@ takeaways:
   - "<strong>Brent</strong> settles at $100.20, the dollar firms (DXY ~102.3) and gold drops 1.4% to about $4,130."
 ---
 
-> **Dallas, Texas — Oct 7, 2026, 15:40 CT:** Wall Street couldn't build on Tuesday's record. With Brent stuck near $100 and Fed minutes openly discussing another hike, the market was reminded that inflation is still the main risk. The drop was modest, though: a well-bid 10-year auction took pressure off yields at midday.
+> **Dallas, Texas — Oct 7, 2026, 15:20 CT:** Wall Street couldn't build on Tuesday's record. With Brent stuck near $100 and Fed minutes openly discussing another hike, the market was reminded that inflation is still the main risk. The drop was modest, though: a well-bid 10-year auction took pressure off yields at midday.
 
 ## Executive Summary
 

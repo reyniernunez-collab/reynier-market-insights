@@ -1,7 +1,7 @@
 ---
 title: "Cierre de Nueva York, miércoles: la Fed confirma su sesgo alcista y Wall Street hace una pausa"
 description: "El S&P 500 se aleja del récord con el Brent en 100 $ y unas minutas que apuntan a otra subida en 2026; la subasta a 10 años frena a los rendimientos."
-pubDatetime: 2026-10-07T15:40:00-05:00
+pubDatetime: 2026-10-07T15:20:00-05:00
 tags:
   - eeuu
   - sp500
@@ -18,7 +18,7 @@ takeaways:
   - "El <strong>Brent</strong> liquida en 100,20 $, el dólar sube (DXY ~102,3) y el oro cae un 1,4 %, hasta ~4.130 $."
 ---
 
-> **Dallas, Texas — 7 Oct 2026, 15:40 CT:** Wall Street no pudo prolongar el récord del martes. Con el Brent pegado a 100 $ y unas minutas de la Fed que hablan abiertamente de otra subida, el mercado recordó que la inflación sigue siendo el gran riesgo. Aun así, la caída fue moderada: una subasta a 10 años con buena demanda le quitó presión a los rendimientos a mediodía.
+> **Dallas, Texas — 7 Oct 2026, 15:20 CT:** Wall Street no pudo prolongar el récord del martes. Con el Brent pegado a 100 $ y unas minutas de la Fed que hablan abiertamente de otra subida, el mercado recordó que la inflación sigue siendo el gran riesgo. Aun así, la caída fue moderada: una subasta a 10 años con buena demanda le quitó presión a los rendimientos a mediodía.
 
 ## Resumen Ejecutivo
 
