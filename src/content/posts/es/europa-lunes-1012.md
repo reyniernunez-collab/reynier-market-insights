@@ -1,7 +1,7 @@
 ---
 title: "Europa, lunes: el crudo vuelve a encenderse y el dólar toma el relevo antes de la semana del CPI"
 description: "En el cierre de Europa, el Brent recupera ~106 $ con los titulares saudíes, el dólar sube, el euro cede y los futuros de EE.UU. siguen planos cerca de máximos."
-pubDatetime: 2026-10-12T11:15:00-05:00
+pubDatetime: 2026-10-12T11:10:00-05:00
 tags:
   - europa
   - brent
@@ -19,7 +19,7 @@ takeaways:
   - "Semana de catalizadores: bancos grandes desde el martes, CPI el miércoles (consenso <strong>+0,6 % m/m</strong> general y <strong>+0,2 %</strong> núcleo) y el presidente de la Fed el jueves por la noche."
 ---
 
-> **Dallas, Texas — 12 Oct 2026, 11:15 CT:** La sesión de Europa deshace el alivio de la madrugada. Los titulares desde Arabia Saudí y la duda sobre la tregua energética entre Rusia y Ucrania devuelven el Brent a la zona de ~106 $, el dólar se fortalece y el euro cede. Las bolsas europeas conservan la subida que construyeron temprano, mientras los futuros de Wall Street esperan, planos y cerca de máximos, a los bancos y al CPI.
+> **Dallas, Texas — 12 Oct 2026, 11:10 CT:** La sesión de Europa deshace el alivio de la madrugada. Los titulares desde Arabia Saudí y la duda sobre la tregua energética entre Rusia y Ucrania devuelven el Brent a la zona de ~106 $, el dólar se fortalece y el euro cede. Las bolsas europeas conservan la subida que construyeron temprano, mientras los futuros de Wall Street esperan, planos y cerca de máximos, a los bancos y al CPI.
 
 ## Resumen Ejecutivo
 

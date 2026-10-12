@@ -1,7 +1,7 @@
 ---
 title: "Europe Monday: oil reignites and the dollar takes over ahead of CPI week"
 description: "At the Europe close, Brent climbs back to ~$106 on Saudi headlines, the dollar rises, the euro slips and US futures stay flat near record highs."
-pubDatetime: 2026-10-12T11:15:00-05:00
+pubDatetime: 2026-10-12T11:10:00-05:00
 tags:
   - europe
   - brent
@@ -19,7 +19,7 @@ takeaways:
   - "A week full of catalysts: big banks from Tuesday, CPI on Wednesday (consensus <strong>+0.6% m/m</strong> headline and <strong>+0.2%</strong> core) and the Fed Chair on Thursday night."
 ---
 
-> **Dallas, Texas — Oct 12, 2026, 11:15 CT:** The Europe session undoes the overnight relief. Headlines out of Saudi Arabia and doubts over the Russia–Ukraine energy truce push Brent back into the ~$106 area, the dollar firms and the euro gives ground. European stocks keep the gains they built early, while Wall Street futures wait, flat and near record highs, for the banks and CPI.
+> **Dallas, Texas — Oct 12, 2026, 11:10 CT:** The Europe session undoes the overnight relief. Headlines out of Saudi Arabia and doubts over the Russia–Ukraine energy truce push Brent back into the ~$106 area, the dollar firms and the euro gives ground. European stocks keep the gains they built early, while Wall Street futures wait, flat and near record highs, for the banks and CPI.
 
 ## Executive Summary
 
