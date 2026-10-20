@@ -1,7 +1,7 @@
 ---
 title: "New York, Tuesday: the Dow gains 1%, Brent gives back the Hormuz spike and sterling leads"
 description: "New York close: Dow +1% and Russell 2000 +1.7% while chips slip; Brent falls below $109 after touching $112 and sterling gains on the BoE."
-pubDatetime: 2026-10-20T15:55:00-05:00
+pubDatetime: 2026-10-20T15:46:00-05:00
 tags:
   - eeuu
   - sp500
@@ -19,7 +19,7 @@ takeaways:
   - "At the Europe close, stocks pare almost all of the morning's losses (Stoxx 600 approx. <strong>−0.1%</strong>), with the French premium still around approx. <strong>153 bp</strong>."
 ---
 
-> **Dallas, Texas — Oct 20, 2026, 3:55 PM CT:** Tuesday started with fear of oil and of the artificial intelligence bill, and ended with the New York session buying almost everything except chips. Brent gave back its overnight spike, the dollar weakened and stocks outside tech did the heavy lifting.
+> **Dallas, Texas — Oct 20, 2026, 3:46 PM CT:** Tuesday started with fear of oil and of the artificial intelligence bill, and ended with the New York session buying almost everything except chips. Brent gave back its overnight spike, the dollar weakened and stocks outside tech did the heavy lifting.
 
 ## Executive Summary
 

@@ -1,7 +1,7 @@
 ---
 title: "Nueva York, martes: el Dow sube 1 %, el Brent devuelve el salto de Ormuz y la libra lidera"
 description: "Cierre de Nueva York: Dow +1 % y Russell 2000 +1,7 % mientras los chips ceden; el Brent cae bajo 109 $ tras tocar 112 $ y la libra gana con la BoE."
-pubDatetime: 2026-10-20T15:55:00-05:00
+pubDatetime: 2026-10-20T15:46:00-05:00
 tags:
   - eeuu
   - sp500
@@ -19,7 +19,7 @@ takeaways:
   - "En el cierre de Europa, las bolsas recortan casi toda la caída de la mañana (Stoxx 600 aprox. <strong>−0,1 %</strong>), con la prima francesa todavía en la zona de aprox. <strong>153 pb</strong>."
 ---
 
-> **Dallas, Texas — 20 Oct 2026, 15:55 CT:** El martes amaneció con miedo al petróleo y a la factura de la inteligencia artificial, y terminó con la sesión de Nueva York comprando casi todo lo que no fuera chips. El Brent devolvió el salto de la madrugada, el dólar se debilitó y las acciones fuera de la tecnología hicieron el trabajo.
+> **Dallas, Texas — 20 Oct 2026, 15:46 CT:** El martes amaneció con miedo al petróleo y a la factura de la inteligencia artificial, y terminó con la sesión de Nueva York comprando casi todo lo que no fuera chips. El Brent devolvió el salto de la madrugada, el dólar se debilitó y las acciones fuera de la tecnología hicieron el trabajo.
 
 ## Resumen Ejecutivo
 
