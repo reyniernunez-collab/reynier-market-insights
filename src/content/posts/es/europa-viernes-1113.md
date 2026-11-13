@@ -1,7 +1,7 @@
 ---
 title: "Europa, viernes: los futuros suben a la espera del PPI, el bitcoin pierde los 70.000 $ y el yen rebasa 160"
 description: "Cierre de Europa: futuros del S&P 500 +0,2 %, Nvidia +3 % antes de la apertura, DXY en 103,2, USD/JPY en 160, Brent en 96 $ y bitcoin bajo 70.000 $."
-pubDatetime: 2026-11-13T08:20:00-06:00
+pubDatetime: 2026-11-13T08:14:00-06:00
 tags:
   - europa
   - dolar
@@ -12,7 +12,7 @@ tags:
 
 **REYNIER MARKET INSIGHTS**
 
-Dallas, Texas — 13 Nov 2026, 08:20 CT
+Dallas, Texas — 13 Nov 2026, 08:14 CT
 
 **Resumen ejecutivo:** La sesión de Europa del viernes terminó con futuros al alza (S&P 500 +0,2 %, Nasdaq 100 +0,1 %) y Nvidia rebotando casi 3 % antes de la apertura, mientras Microsoft cedía 2 %. El mercado ya descuenta un alza de la Fed en diciembre y ve probable otra en enero, así que el PPI de octubre (7:30 CT) pesa más de lo habitual. El dólar marcó máximos (DXY 103,28), el yen superó 160 pese a las advertencias de Japón y el bitcoin cayó bajo 70.000 $ por primera vez desde agosto. El oro respiró tras tres días de ventas.
 
