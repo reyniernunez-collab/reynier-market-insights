@@ -1,7 +1,7 @@
 ---
 title: "Europe Friday: futures edge up ahead of PPI, bitcoin loses $70,000 and the yen breaks past 160"
 description: "Europe close: S&P 500 futures +0.2%, Nvidia +3% premarket, the DXY at 103.2, USD/JPY at 160, Brent at $96 and bitcoin below $70,000."
-pubDatetime: 2026-11-13T08:20:00-06:00
+pubDatetime: 2026-11-13T08:14:00-06:00
 tags:
   - europe
   - dollar
@@ -12,7 +12,7 @@ tags:
 
 **REYNIER MARKET INSIGHTS**
 
-Dallas, Texas — Nov 13, 2026, 08:20 CT
+Dallas, Texas — Nov 13, 2026, 08:14 CT
 
 **Executive summary:** Friday's Europe session ended with futures higher (S&P 500 +0.2%, Nasdaq 100 +0.1%) and Nvidia bouncing nearly 3% premarket, while Microsoft slipped 2%. Markets already price a Fed hike in December and see another as likely in January, so October PPI (7:30 CT) carries extra weight. The dollar hit fresh highs (DXY 103.28), the yen broke past 160 despite Japan's warnings, and bitcoin fell below $70,000 for the first time since August. Gold caught a breather after three days of selling.
 
